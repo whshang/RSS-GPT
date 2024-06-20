@@ -14,3 +14,11 @@ Append: [全国焕新风暴来袭，免费享受1平米焕新改造服务](https
 Append: [从细微处入手，展现大智慧](https://mp.weixin.qq.com/s/Aj2_2wkKnQmSjNTFr6biQw)
 append_entries: 10
 Finish: 2024-06-20 08:34:41.536397
+------------------------------------------------------
+Started: 2024-06-20 08:37:43.532355
+Existing_entries: 10
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.rss
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.rss
+append_entries: 0
+error when rendering xml, skip docs/linju
