@@ -76,3 +76,11 @@ Filter: [大模型商业化：李开复向左，张亚勤向右](https://www.36k
 Filter: [230个大模型招投标大单，前三令人意外](https://www.36kr.com/p/2825993188100610)
 append_entries: 0
 Finish: 2024-06-20 08:46:47.383203
+------------------------------------------------------
+Started: 2024-06-20 08:53:24.362096
+Existing_entries: 0
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/36kr/motif/327686782977
+append_entries: 0
+error when rendering xml, skip docs/36kr-ai
