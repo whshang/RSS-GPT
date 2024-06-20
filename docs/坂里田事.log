@@ -1,0 +1,36 @@
+------------------------------------------------------
+Started: 2024-06-20 09:30:46.729210
+Existing_entries: 0
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Token length: 2509
+Summarized using GPT-3.5-turbo
+Append: [看表演、玩游戏赢好礼，来坂田手造街逛市集啦！](https://mp.weixin.qq.com/s/St9KlDQ_mm8htWpAsjBkbw)
+Token length: 1836
+Summarized using GPT-3.5-turbo
+Append: [瑜珈、羽毛球、网球、篮球……8大公益培训，你点我送！](https://mp.weixin.qq.com/s/rtd1j8qknED_ObUsC_YLmQ)
+Token length: 1486
+Summarized using GPT-3.5-turbo
+Append: [清凉一夏！坂田7家游泳好去处，分别在……](https://mp.weixin.qq.com/s/06q1nsJ4R23EFuVk7t1LNw)
+Token length: 5440
+Summarized using GPT-3.5-turbo
+Append: [通知！马上截止，这些企业抓紧申报→](https://mp.weixin.qq.com/s/Q9KmVI7UEOPvwFsn0E6plw)
+Token length: 1753
+Summarized using GPT-3.5-turbo
+Append: [坂田这个平台也太“卷”了，太太太太方便了！](https://mp.weixin.qq.com/s/zs-p4AESueR-ZLvFPRQrRQ)
+Token length: 1352
+Summarized using GPT-3.5-turbo
+Append: [全市严查！包括电动车→](https://mp.weixin.qq.com/s/Fxu2wiOZqSstg0RI30hW1w)
+Summarization failed, append the original article
+error: Error code: 503 - {'error': {'message': '当前分组 default 下对于模型 gpt-4o 无可用渠道 (request id: 2024062017315527429424823059379) (request id: 20240620093154521160888RSzcSCyk)', 'type': 'v_api_error', 'param': '', 'code': None}}
+Append: [坂田招人 | 最高月薪3万！实习生、应届生有岗](https://mp.weixin.qq.com/s/PNmcnSmld-J1oIPPtwQ9gQ)
+Token length: 2094
+Summarized using GPT-3.5-turbo
+Append: [刚办卡就跑路是吧？好好好，国家要出手了！](https://mp.weixin.qq.com/s/Su4foK4cfe5TKsom_YfY1A)
+Token length: 1663
+Summarized using GPT-3.5-turbo
+Append: [坂田长者吃饭有补贴！助餐点地址、补贴对象、申请方式戳→](https://mp.weixin.qq.com/s/Y1IKXVJveb7f5_f3IzttlA)
+Token length: 617
+Summarized using GPT-3.5-turbo
+Append: [离谱！最近不少人家里出现这个……](https://mp.weixin.qq.com/s/-PsDgq-qiA4KhXJVJgpqKw)
+append_entries: 10
+Finish: 2024-06-20 09:32:09.371258
