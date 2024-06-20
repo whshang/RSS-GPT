@@ -142,3 +142,9 @@ Summarized using GPT-3.5-turbo
 Append: [这些业务可线上一键办理→](https://mp.weixin.qq.com/s/9JquEHRF1Vd12ldoDPmfVw)
 append_entries: 14
 Finish: 2024-06-20 10:19:11.178273
+------------------------------------------------------
+Started: 2024-06-20 12:32:46.795677
+Existing_entries: 44
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-20 12:32:49.947607
