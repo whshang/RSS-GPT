@@ -56,4 +56,5 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://rsshub.app/36kr/motif/327686782977 -> https://whshang.github.io/RSS-GPT/36kr-ai.xml
-- https://wewerss.whshang.me/feeds/MP_WXS_3015011711.rss -> https://whshang.github.io/RSS-GPT/linju.xml
+- https://wewerss.whshang.me/feeds/MP_WXS_3015011711 -> https://whshang.github.io/RSS-GPT/linju.xml
+- https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom -> https://whshang.github.io/RSS-GPT/幸福福田.xml

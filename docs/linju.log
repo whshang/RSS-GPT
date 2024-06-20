@@ -22,3 +22,9 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.rss
 append_entries: 0
 error when rendering xml, skip docs/linju
+------------------------------------------------------
+Started: 2024-06-20 08:46:47.470411
+Existing_entries: 10
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711
+append_entries: 0
+Finish: 2024-06-20 08:46:49.569862
