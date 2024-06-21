@@ -241,3 +241,9 @@ Summarized using GPT-3.5-turbo
 Append: [转扩！中考、高考成绩查询时间公布](https://mp.weixin.qq.com/s/EFYnRsCvp8uWFPvF_TcQbA)
 append_entries: 8
 Finish: 2024-06-21 10:19:02.540107
+------------------------------------------------------
+Started: 2024-06-21 12:32:20.318729
+Existing_entries: 53
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-21 12:32:27.501754
