@@ -365,3 +365,9 @@ Summarized using GPT-3.5-turbo
 Append: [贵阳万科物业进驻一周年，东安新苑小区旧貌换新颜](https://mp.weixin.qq.com/s/eEzJJIwMT-y8raTwuQg88g)
 append_entries: 10
 Finish: 2024-06-22 10:18:26.010988
+------------------------------------------------------
+Started: 2024-06-22 12:30:42.996244
+Existing_entries: 69
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-22 12:30:46.368814
