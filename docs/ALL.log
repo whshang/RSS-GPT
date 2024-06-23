@@ -470,3 +470,9 @@ Summarized using GPT-3.5-turbo
 Append: [转发提醒！谨防这些“套路”](https://mp.weixin.qq.com/s/pZQ_9TUJCkcpO_gf8ZQZ9g)
 append_entries: 5
 Finish: 2024-06-23 12:31:16.497718
+------------------------------------------------------
+Started: 2024-06-23 14:15:03.670294
+Existing_entries: 76
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-23 14:15:08.063363
