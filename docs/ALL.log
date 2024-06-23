@@ -407,3 +407,9 @@ Summarized using GPT-3.5-turbo
 Append: [习近平在青海考察时强调 持续推进青藏高原生态保护和高质量发展 奋力谱写中国式现代化青海篇章](https://mp.weixin.qq.com/s/28ZnpUxbOmUIYjZLw2na7A)
 append_entries: 2
 Finish: 2024-06-22 22:16:12.822278
+------------------------------------------------------
+Started: 2024-06-23 01:20:17.698383
+Existing_entries: 71
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-23 01:20:21.775419
