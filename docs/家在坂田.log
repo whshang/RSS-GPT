@@ -482,3 +482,11 @@ Existing_entries: 10
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-06-26 12:34:49.224338
+------------------------------------------------------
+Started: 2024-06-26 14:16:15.556200
+Existing_entries: 10
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+append_entries: 0
+error when rendering xml, skip docs/家在坂田
