@@ -789,3 +789,9 @@ Summarized using GPT-3.5-turbo
 Append: [成都交警最新通告！](https://mp.weixin.qq.com/s/WzuNwDNqPbjBXKTHyV0_pg)
 append_entries: 7
 Finish: 2024-06-26 10:18:26.284884
+------------------------------------------------------
+Started: 2024-06-26 12:34:38.347570
+Existing_entries: 111
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-26 12:34:41.695930
