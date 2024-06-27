@@ -742,3 +742,11 @@ Fetch error: 400
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 error when rendering xml, skip docs/幸福福田
+------------------------------------------------------
+Started: 2024-06-27 18:21:56.427628
+Existing_entries: 10
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Fetch error: 400
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+error when rendering xml, skip docs/幸福福田
