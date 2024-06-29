@@ -714,3 +714,11 @@ Summarized using GPT-3.5-turbo
 Append: [吃瓜大赛、相亲角、无人机表演、超值奖品……多巴胺焕新节重磅上线！](https://mp.weixin.qq.com/s/w8knYL554TLm1FxqlO7hnQ)
 append_entries: 4
 Finish: 2024-06-28 22:18:06.659353
+------------------------------------------------------
+Started: 2024-06-29 01:15:36.604869
+Existing_entries: 26
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+error when rendering xml, skip docs/坂里田事

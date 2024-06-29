@@ -1140,3 +1140,9 @@ Summarized using GPT-3.5-turbo
 Append: [黄强同志任吉林省委委员、常委、书记；梁言顺同志任安徽省委委员、常委、书记；李邑飞同志任宁夏回族自治区党委委员、常委、书记](https://mp.weixin.qq.com/s/4FtkRkz8xikC_bNze3oYeg)
 append_entries: 30
 Finish: 2024-06-28 22:17:50.670980
+------------------------------------------------------
+Started: 2024-06-29 01:15:02.954423
+Existing_entries: 166
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-06-29 01:15:04.852591
