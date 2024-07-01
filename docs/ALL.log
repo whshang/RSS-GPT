@@ -1412,3 +1412,45 @@ Existing_entries: 196
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-01 08:22:52.284914
+------------------------------------------------------
+Started: 2024-07-01 10:21:31.386650
+Existing_entries: 196
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 4145
+Summarized using GPT-3.5-turbo
+Append: [注意绕行！涉及四川这些高速→](https://mp.weixin.qq.com/s/NwZOGe3jCZ0attxFeSaTVQ)
+Token length: 1319
+Summarized using GPT-3.5-turbo
+Append: [成华发布| 袁顺明到猛追湾街道讲专题党课并看望慰问老党员](https://mp.weixin.qq.com/s/WSgDOIUkDCGloAFHXLlRCQ)
+Token length: 1222
+Summarized using GPT-3.5-turbo
+Append: [粉丝福利！快报名，世园会再出发](https://mp.weixin.qq.com/s/RfxwraQm0qt8ozyeWs7H7w)
+Token length: 518
+Summarized using GPT-3.5-turbo
+Append: [今起，这些景区和博物馆免预约！](https://mp.weixin.qq.com/s/kmKlyhf_p8_25UR_WKrW6w)
+Token length: 3433
+Summarized using GPT-3.5-turbo
+Append: [成华这些集体和个人获表彰！](https://mp.weixin.qq.com/s/SgpuUThx0fSCcUKiThKaeQ)
+Token length: 396
+Summarized using GPT-3.5-turbo
+Append: [成都人速查！这笔钱已到账！有人领了几千元](https://mp.weixin.qq.com/s/ZnTxGjmPXGASZOOPY1ULFQ)
+Token length: 1263
+Summarized using GPT-3.5-turbo
+Append: [蓝天白云上班！雷雨+暴雨在路上→](https://mp.weixin.qq.com/s/mTDrXAye74cEPs0fBRQGDw)
+Token length: 6759
+Summarized using GPT-3.5-turbo
+Append: [今起报名！成都公开遴选、选调公务员](https://mp.weixin.qq.com/s/qcVmwDUE4Fp6PHRCA_UpkA)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [9918.5万！](https://mp.weixin.qq.com/s/QAtC4cnrqEoZw-yfXqSu2A)
+Token length: 9012
+Summarized using GPT-3.5-turbo
+Append: [坂田急招46人，最高月薪3W5！](https://mp.weixin.qq.com/s/2_LjzBgGOg6NeMki-BfA_A)
+Token length: 2789
+Summarized using GPT-3.5-turbo
+Append: [揭秘！全国第八背后的“红色动能”](https://mp.weixin.qq.com/s/C07Da1lW_OreloVWtRNTlw)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 2024070110215742397954wmuHk2BT)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [成都这些集体和个人获表彰！](https://mp.weixin.qq.com/s/UcEwlwXcN7MdkRRKEJe9Kg)
+append_entries: 12
+Finish: 2024-07-01 10:22:03.904267
