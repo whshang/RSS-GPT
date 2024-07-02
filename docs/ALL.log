@@ -1568,3 +1568,51 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-02 14:15:48.149767
+Existing_entries: 218
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1424
+Summarized using GPT-3.5-turbo
+Append: [暴雨蓝色预警！](https://mp.weixin.qq.com/s/ekAeb-bncHrNHY31HBKEvg)
+Token length: 1420
+Summarized using GPT-3.5-turbo
+Append: [暴雨蓝色预警！](https://mp.weixin.qq.com/s/hgfrKdw_eHcK0LyUNu3sFw)
+Token length: 3586
+Summarized using GPT-3.5-turbo
+Append: [百花奖8月“花开”成都，提名名单公布，TA们将角逐最佳男女主角](https://mp.weixin.qq.com/s/Vt_wEOhej41Qlh2N2ReYbw)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [最新！2024年成都市成华区小升初入学划片范围一览表](https://mp.weixin.qq.com/s/skGECR2Y3rlpAdJF9OWttg)
+Token length: 1598
+Summarized using GPT-3.5-turbo
+Append: [成华发布| 成华区生态环境保护委员会第五次全体会议召开，要求扎实推进生态文明建设，让成华蓝天永驻、绿水长流、土地净美](https://mp.weixin.qq.com/s/GkqSkcflbA7PEHFAkzRIbQ)
+Token length: 1621
+Summarized using GPT-3.5-turbo
+Append: [1300个岗位！成都高新区最新招聘](https://mp.weixin.qq.com/s/WXJQ41umQ0U37lNrIXYnLw)
+Token length: 1559
+Summarized using GPT-3.5-turbo
+Append: [事关充电桩！四川发布最新规划](https://mp.weixin.qq.com/s/gicolGsyKTu7c6v24mvGEQ)
+Token length: 1310
+Summarized using GPT-3.5-turbo
+Append: [“有了双保险，再也不用担心停电啦！”](https://mp.weixin.qq.com/s/dyV93rqq8USowIapygrCOg)
+Token length: 434
+Summarized using GPT-3.5-turbo
+Append: [官宣！百花奖8月落户成都！](https://mp.weixin.qq.com/s/1uUK9PsLyjfI6P728TJlMw)
+Token length: 1142
+Summarized using GPT-3.5-turbo
+Append: [进入主汛期！成都发布风险防范提示，涉及这些地方→](https://mp.weixin.qq.com/s/HrXg4PLkG4lMJMKX5tms5A)
+Token length: 398
+Summarized using GPT-3.5-turbo
+Append: [速查！这笔钱已到账！有人领了几千元](https://mp.weixin.qq.com/s/g0bDsW44UnQYsKejU_H8SA)
+Token length: 514
+Summarized using GPT-3.5-turbo
+Append: [坂田五和地铁口一辆电动车发生自燃……](https://mp.weixin.qq.com/s/PNs9MFTGaJKpJHue0e2LDg)
+Token length: 5796
+Summarized using GPT-3.5-turbo
+Append: [限时一个月！来坂田九月艺术馆免费看展！](https://mp.weixin.qq.com/s/ZxMDzFtFZhg2Oawkgd9e0Q)
+Token length: 6191
+Summarized using GPT-3.5-turbo
+Append: [暑期托管服务上线！这些区域发布公告](https://mp.weixin.qq.com/s/3jRpXxy_DJKRwPLbGHrZ1Q)
+append_entries: 14
+Finish: 2024-07-02 14:16:25.907999
