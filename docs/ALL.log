@@ -1738,3 +1738,9 @@ Summarized using GPT-3.5-turbo
 Append: [曝光！多款化妆品上榜！检出禁用原料！](https://mp.weixin.qq.com/s/jrDzJvHs0bRtQjR5vUtRpg)
 append_entries: 14
 Finish: 2024-07-03 06:26:45.480613
+------------------------------------------------------
+Started: 2024-07-03 08:22:22.120368
+Existing_entries: 256
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-03 08:22:24.449144
