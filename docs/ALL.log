@@ -1670,3 +1670,11 @@ Summarized using GPT-3.5-turbo
 Append: [今日首航！成都航空执飞！这条高高原航线正式开通→](https://mp.weixin.qq.com/s/GNaYrxfwTig3X__BMvuL9Q)
 append_entries: 10
 Finish: 2024-07-02 22:17:12.606347
+------------------------------------------------------
+Started: 2024-07-03 01:16:30.124952
+Existing_entries: 242
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
