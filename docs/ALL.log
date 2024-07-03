@@ -1804,3 +1804,9 @@ Summarized using GPT-3.5-turbo
 Append: [全线车站移交！轨道交通资阳线，开通倒计时！](https://mp.weixin.qq.com/s/haif33a38iqDYnQ9S7zsRA)
 append_entries: 18
 Finish: 2024-07-03 10:20:36.653159
+------------------------------------------------------
+Started: 2024-07-03 12:34:06.048914
+Existing_entries: 274
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-03 12:34:08.341483

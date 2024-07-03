@@ -1324,3 +1324,11 @@ Summarized using GPT-3.5-turbo
 Append: [福田区公开招聘！即日起开始报名](https://mp.weixin.qq.com/s/kbF1GtycLgarHMKHddPjqg)
 append_entries: 2
 Finish: 2024-07-03 10:20:56.441591
+------------------------------------------------------
+Started: 2024-07-03 12:34:13.253250
+Existing_entries: 22
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+error when rendering xml, skip docs/幸福福田
