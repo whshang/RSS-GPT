@@ -1927,3 +1927,99 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-04 12:33:18.869115
+Existing_entries: 289
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1174
+Summarized using GPT-3.5-turbo
+Append: [起早排队，大排长龙，原来是为了它......](https://mp.weixin.qq.com/s/Vb9Y73K2UpLd9DfG5N_4DQ)
+Token length: 1610
+Summarized using GPT-3.5-turbo
+Append: [新《公司法》实施！这些你肯定想知道...](https://mp.weixin.qq.com/s/H_Dm_54zB0twdlo2fLar8w)
+Token length: 2392
+Summarized using GPT-3.5-turbo
+Append: [深圳市中小企业服务局关于组织开展2024年重点“小巨人”企业遴选推荐工作的通知](https://mp.weixin.qq.com/s/HrZ6AfVaodUAmeKwrOLVYA)
+Token length: 345
+Summarized using GPT-3.5-turbo
+Append: [如何更改异地就医备案信息？](https://mp.weixin.qq.com/s/1P8DBU-qZN22Gvu3Z1N68w)
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [收藏学习！2024年7月1日开始实施的税费政策](https://mp.weixin.qq.com/s/0XBdAaJawozEmgQs9SREog)
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [四川最新人事任免，涉多位副市长→](https://mp.weixin.qq.com/s/4tvgO29lVYnIsy2QvKbIqA)
+Token length: 906
+Summarized using GPT-3.5-turbo
+Append: [分手后宠物归谁养？情侣为争夺“抚养权”闹上法庭！法院判了](https://mp.weixin.qq.com/s/303cpCuXyTlPOFEGTknc7Q)
+Token length: 1364
+Summarized using GPT-3.5-turbo
+Append: [高雅艺术走进繁华商圈，City不City？](https://mp.weixin.qq.com/s/Pvx2K48APOkV69JyI3C-9Q)
+Token length: 693
+Summarized using GPT-3.5-turbo
+Append: [雨҈雨҈雨҈ 来了！下班抓紧回家！](https://mp.weixin.qq.com/s/AT3aGcMFXXN3Umv30mF7SQ)
+Token length: 671
+Summarized using GPT-3.5-turbo
+Append: [雨҈雨҈雨҈ 来了！下班抓紧回家！](https://mp.weixin.qq.com/s/G6ja0O687sxC60M59YsOYA)
+Token length: 999
+Summarized using GPT-3.5-turbo
+Append: [暴雨+雷电+高温！深圳目前“三黄”预警高挂](https://mp.weixin.qq.com/s/WHx2ObFYnULCULT92i9Umg)
+Token length: 1615
+Summarized using GPT-4o
+Append: [今天，有一种热闹叫做熊气满满！人气十足！](https://mp.weixin.qq.com/s/gQljqcqAtokQaEl5CmkL3w)
+Token length: 1334
+Summarized using GPT-3.5-turbo
+Append: [入选！这支年轻的创作团队来自成华本土企业](https://mp.weixin.qq.com/s/xmG-WltrayPCINpj6f_iqA)
+Token length: 1537
+Summarized using GPT-3.5-turbo
+Append: [三伏贴来了！福田这5家医院、社康可约→](https://mp.weixin.qq.com/s/2dqaJOR2SU53SPRMLfwWwg)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [名单确定！四川30位运动员获得巴黎奥运参赛资格](https://mp.weixin.qq.com/s/bM1-azICGhoN0EC197ApBA)
+Token length: 1447
+Summarized using GPT-3.5-turbo
+Append: [首趟检测列车开出！深圳人即将省下1.5小时......](https://mp.weixin.qq.com/s/lCQsIU-BSzhKt6Hb9_Gu2w)
+Token length: 1637
+Summarized using GPT-3.5-turbo
+Append: [暑运开启，航线加密！机票价格比去年下降](https://mp.weixin.qq.com/s/EH_LpOZRQyAdsmQi8I-jvA)
+Token length: 799
+Summarized using GPT-3.5-turbo
+Append: [紧急提醒！雷雨天开快递柜可能存在安全隐患](https://mp.weixin.qq.com/s/y1RZM-x3YoJ7uvncXW1TJA)
+Token length: 3179
+Summarized using GPT-3.5-turbo
+Append: [2名初中生前后离世，同班、同病情！](https://mp.weixin.qq.com/s/TIedkWBTmyZaiKvcjbqSrg)
+Token length: 1271
+Summarized using GPT-3.5-turbo
+Append: [入托（园）体检来了！最全攻略→](https://mp.weixin.qq.com/s/q2a1BuAfxRRrtyzCHLovUg)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [施小琳任四川省副省长、代理省长](https://mp.weixin.qq.com/s/_0aU7y0BtMAg-nqckI4-iw)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [李文清任四川省副省长](https://mp.weixin.qq.com/s/8D4gkiWbG96xxPIqaR77nQ)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [黄强辞去四川省省长职务](https://mp.weixin.qq.com/s/oNpWHTd1q3jfsbMn91W04A)
+Token length: 1080
+Summarized using GPT-3.5-turbo
+Append: [深圳一大学生手突然变“鸡爪”！医生提醒！](https://mp.weixin.qq.com/s/tCd9BpfW3CvDB3knRXL-0w)
+Token length: 1594
+Summarized using GPT-3.5-turbo
+Append: [成都，将新添一个“银行”！存的东西不一般→](https://mp.weixin.qq.com/s/L8fEf5IFVTH4anvMRPAkpQ)
+Token length: 496
+Summarized using GPT-3.5-turbo
+Append: [雷阵雨+6级阵风！全市雷电黄色预警生效中](https://mp.weixin.qq.com/s/VEsueqdG1IDk3-U0G7pNqw)
+Token length: 2566
+Summarized using GPT-3.5-turbo
+Append: [117毫克！成都理工再获月球“土特产”](https://mp.weixin.qq.com/s/bMRjTUuIVaIvuOi-nd4oTg)
+Token length: 745
+Summarized using GPT-3.5-turbo
+Append: [坂田街道这些体育场馆免费开放！快来运动吧！](https://mp.weixin.qq.com/s/KnY9W7k6rK1Bs4z-gsxA5Q)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [运动拿奖品！“万步有约百日行”活动开始啦→](https://mp.weixin.qq.com/s/LHXwC0wmvYpBthh8EdmEEw)
+Token length: 1560
+Summarized using GPT-3.5-turbo
+Append: [聚焦多个创新疫苗研发！这家成都企业再获巨额融资](https://mp.weixin.qq.com/s/h94nxRAxWQgyyiBFU7NoFQ)
+append_entries: 30
+Finish: 2024-07-04 12:34:22.441199
