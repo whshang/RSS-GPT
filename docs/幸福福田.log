@@ -1448,3 +1448,11 @@ Summarized using GPT-3.5-turbo
 Append: [下班一个疏忽，换来5日行拘！](https://mp.weixin.qq.com/s/9OltnG2IC3e-8IwpbyVqLA)
 append_entries: 9
 Finish: 2024-07-04 12:34:47.817155
+------------------------------------------------------
+Started: 2024-07-04 14:16:39.373726
+Existing_entries: 36
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+error when rendering xml, skip docs/幸福福田
