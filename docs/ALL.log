@@ -2157,3 +2157,75 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-05 12:32:51.045534
+Existing_entries: 341
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1912
+Summarized using GPT-3.5-turbo
+Append: [高温来袭！这3种隔夜菜，吃不完最好倒掉](https://mp.weixin.qq.com/s/it5R_NdKgORMBnd3wlsVYw)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [划重点！一图读懂中共成都市成华区委八届八次全会决议→](https://mp.weixin.qq.com/s/J7efAg5_rnYzG_QnJg3_sQ)
+Token length: 488
+Summarized using GPT-3.5-turbo
+Append: [通行有变！天府机场这些路段将封闭施工](https://mp.weixin.qq.com/s/sgfGOybCAgyHzXJGzYsh8w)
+Token length: 3569
+Summarized using GPT-3.5-turbo
+Append: [中国共产党成都市成华区第八届委员会第八次全体会议决议](https://mp.weixin.qq.com/s/TSrjxdHLchTpXtlPo8Czog)
+Token length: 1128
+Summarized using GPT-3.5-turbo
+Append: [新增600张床位、260个车位！福田这所医院在建项目迎来新进展](https://mp.weixin.qq.com/s/lWBEGMPocHZ91xOwYAQl2Q)
+Token length: 3125
+Summarized using GPT-3.5-turbo
+Append: [啥情况？最近这些外媒在成都逛嗨了！](https://mp.weixin.qq.com/s/cieo2yBx2rPP7o8qF4p0Cg)
+Token length: 1693
+Summarized using GPT-3.5-turbo
+Append: [骄傲！10岁福田娃，捧回亚洲金牌🥇](https://mp.weixin.qq.com/s/SRox5Wu_LTNaTsa0o8jQFA)
+Token length: 1603
+Summarized using GPT-3.5-turbo
+Append: [粤剧电影《谯国夫人》正式上映！网友：爱了！](https://mp.weixin.qq.com/s/84c6X8s8u46wzdKleB5n5A)
+Token length: 991
+Summarized using GPT-3.5-turbo
+Append: [找到了！湍急河流中，是他果断下水救人！](https://mp.weixin.qq.com/s/eRPoZG1GFUszE30q6Nk0Ig)
+Token length: 697
+Summarized using GPT-3.5-turbo
+Append: [@四川高考生，各批次录取时间公布！](https://mp.weixin.qq.com/s/0v9mTj42-8LzBzHCOPingA)
+Token length: 876
+Summarized using GPT-3.5-turbo
+Append: [在广东，再婚还有婚假吗？](https://mp.weixin.qq.com/s/8I6akfPqWMoFM-dQpoOjOQ)
+Token length: 1220
+Summarized using GPT-3.5-turbo
+Append: [成都人注意！换本本有变化](https://mp.weixin.qq.com/s/nyN2yJk_Ep5cy6K3C_vO7w)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [广东高考录取时间公布！](https://mp.weixin.qq.com/s/jHe4cQ1imk5-ZPymr2B5yQ)
+Token length: 1510
+Summarized using GPT-3.5-turbo
+Append: [成都这所大学，整体搬迁！](https://mp.weixin.qq.com/s/OnC4kyRvxBu7UtiSiaah4Q)
+Token length: 742
+Summarized using GPT-4o
+Append: [会爆炸！这种东西，很多人喜欢放冰箱里→](https://mp.weixin.qq.com/s/EMqEX53mT3Xe3gHSEE9iGw)
+Token length: 1194
+Summarized using GPT-3.5-turbo
+Append: [进度条刷新！17号线二期、8号线二期、27号线一期修到哪了？](https://mp.weixin.qq.com/s/JxnJ21Rv-0Ny55AgvaYMbg)
+Token length: 531
+Summarized using GPT-3.5-turbo
+Append: [四川最新人事任免](https://mp.weixin.qq.com/s/mvzeajAPyzsMoRRDFt_sbg)
+Token length: 844
+Summarized using GPT-3.5-turbo
+Append: [重要通知！成都这些路段注意绕行！](https://mp.weixin.qq.com/s/7OjMstG_bGRvgQ8g-c9S5w)
+Token length: 1552
+Summarized using GPT-3.5-turbo
+Append: [坂田145套公租房开始认租！](https://mp.weixin.qq.com/s/QWyMWAwoz9OI98T4e-OYlg)
+Token length: 1349
+Summarized using GPT-3.5-turbo
+Append: [官方带娃！坂田“公益暑托班”安排上了](https://mp.weixin.qq.com/s/Ussii_lMua2FkbpCWUgnmg)
+Token length: 347
+Summarized using GPT-3.5-turbo
+Append: [今天起！免费坐！](https://mp.weixin.qq.com/s/x4OxcIDzzrFIFqRZ4U21tQ)
+Token length: 4001
+Summarized using GPT-3.5-turbo
+Append: [凭实力“圈粉”！他们来成都的理由是→](https://mp.weixin.qq.com/s/q3qtWpKvAUCBjYMwv2g3dA)
+append_entries: 22
+Finish: 2024-07-05 12:34:07.640722
