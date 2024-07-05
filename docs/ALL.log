@@ -2119,3 +2119,9 @@ Summarized using GPT-3.5-turbo
 Append: [7月8日起报名！事关福田秋季入学](https://mp.weixin.qq.com/s/kfOOcXx3H-dZ_ZM5_6ACQg)
 append_entries: 22
 Finish: 2024-07-04 22:18:08.765168
+------------------------------------------------------
+Started: 2024-07-05 01:16:46.158210
+Existing_entries: 341
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-05 01:16:49.347496
