@@ -2229,3 +2229,9 @@ Summarized using GPT-3.5-turbo
 Append: [凭实力“圈粉”！他们来成都的理由是→](https://mp.weixin.qq.com/s/q3qtWpKvAUCBjYMwv2g3dA)
 append_entries: 22
 Finish: 2024-07-05 12:34:07.640722
+------------------------------------------------------
+Started: 2024-07-05 14:16:46.674569
+Existing_entries: 363
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-05 14:16:48.926554
