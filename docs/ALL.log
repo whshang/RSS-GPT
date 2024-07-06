@@ -2340,3 +2340,81 @@ Existing_entries: 380
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-06 08:22:13.924204
+------------------------------------------------------
+Started: 2024-07-06 10:16:58.978026
+Existing_entries: 380
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 2002
+Summarized using GPT-3.5-turbo
+Append: [国家招录6000名！广东→180名！](https://mp.weixin.qq.com/s/-BoKXrBoFHaQq-8GLUiGcw)
+Token length: 8471
+Summarized using GPT-3.5-turbo
+Append: [公开招录！正在报名](https://mp.weixin.qq.com/s/Zd9ZgHKbAzzwKRHy1_i-zA)
+Token length: 4907
+Summarized using GPT-3.5-turbo
+Append: [暑假遛娃不知道去哪？福田：5条路线安排上！](https://mp.weixin.qq.com/s/-6tmE1Lf8bvGciKbiBxdtw)
+Token length: 1834
+Summarized using GPT-3.5-turbo
+Append: [最新召回！你家可能也有……](https://mp.weixin.qq.com/s/n5LsWx371-L91X5H-c2LHg)
+Token length: 1682
+Summarized using GPT-3.5-turbo
+Append: [一园便是一国风光！这次我们打卡世园会啦~](https://mp.weixin.qq.com/s/G7DGQoRV05B0CxG2GMM2TQ)
+Token length: 375
+Summarized using GPT-3.5-turbo
+Append: [6折！深中通道穿梭巴士来了！](https://mp.weixin.qq.com/s/34UpAHnzwtFiURw241BQsA)
+Token length: 1420
+Summarized using GPT-3.5-turbo
+Append: [这项奖励政策，延长至7月20日！](https://mp.weixin.qq.com/s/ymbsEa8v_VLIIIJgFC411A)
+Token length: 1697
+Summarized using GPT-3.5-turbo
+Append: [成都最牛女飞手，“开”着飞机去种地！](https://mp.weixin.qq.com/s/XrAZPBE7XYbp5nL6r2Bn_A)
+Token length: 1318
+Summarized using GPT-3.5-turbo
+Append: [疑似混入老鼠粪便，暂停生产！很多深圳人都吃过](https://mp.weixin.qq.com/s/Ms6mrREyOy_oZpsDkmRPBw)
+Token length: 1960
+Summarized using GPT-3.5-turbo
+Append: [数实融合？元宇宙还能这么“玩”！](https://mp.weixin.qq.com/s/WP0OMYPW5NyTybLRrReMGA)
+Token length: 690
+Summarized using GPT-4o
+Append: [运营时间调整！深圳地铁最新公告→](https://mp.weixin.qq.com/s/PuTJ0ESFyuAGWhI3Y2o81g)
+Token length: 802
+Summarized using GPT-3.5-turbo
+Append: [刚刚，中考第二批录取分数线出炉](https://mp.weixin.qq.com/s/Ez1kVSbdyYxSV7b24lob8A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240706101805206461127GZGfMSMX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [成华发布 | 中共成都市成华区委召开党外人士座谈会，征求对区委八届八次全会文件的意见建议](https://mp.weixin.qq.com/s/3TBZPzySIiG6WW7UL8MJrA)
+Token length: 1082
+Summarized using GPT-3.5-turbo
+Append: [地铁直达！这片向日葵花海火了](https://mp.weixin.qq.com/s/bHR3DTmzMy5Jkq11CBHV-g)
+Token length: 917
+Summarized using GPT-3.5-turbo
+Append: [成都动车直达九寨沟！最新进展→](https://mp.weixin.qq.com/s/0XR-MoMTU-BiDWDFPvOwGw)
+Token length: 1175
+Summarized using GPT-3.5-turbo
+Append: [今日小暑！入伏时间就在→](https://mp.weixin.qq.com/s/KqfD4hcnA8NHW6GhrWaFHw)
+Token length: 1237
+Summarized using GPT-3.5-turbo
+Append: [深中通道遇首个周末！深圳交警严查！](https://mp.weixin.qq.com/s/VsX1wz7JRCAENM0Pk2TXXw)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 20240706101836308670114ofcXIGo6)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [邻居故事| 我被命运撞了一下腰](https://mp.weixin.qq.com/s/OkQ61GixtTd8QyZkDfqAHQ)
+Token length: 2670
+Summarized using GPT-3.5-turbo
+Append: [您的“六边形战士”来咯，快查收！](https://mp.weixin.qq.com/s/nImPSd06ecyyWrLWkbZvxg)
+Token length: 1613
+Summarized using GPT-3.5-turbo
+Append: [小区 “微改造”  开启归家美好新篇章](https://mp.weixin.qq.com/s/WFuAFUGhOgE4iPrF76h8GA)
+Token length: 1084
+Summarized using GPT-3.5-turbo
+Append: [物业“霸气”拦业主，危急时刻显担当](https://mp.weixin.qq.com/s/21KeiorukkHFtBiM82PE4Q)
+Token length: 1042
+Summarized using GPT-3.5-turbo
+Append: [坂田这3个小区成示范！有你家小区吗？](https://mp.weixin.qq.com/s/PnEGVv0GOJFdf5jVbcZS-Q)
+Token length: 1147
+Summarized using GPT-3.5-turbo
+Append: [@坂田人，这份保险政府买单！](https://mp.weixin.qq.com/s/_WrU-0TGaH2X39Ly28XxLg)
+Token length: 602
+Summarized using GPT-3.5-turbo
+Append: [深圳这一温度超50℃！周末高温+阵雨！台风预计在......](https://mp.weixin.qq.com/s/A0HWJ1wCt-LVhTOEtJ9XgA)
+append_entries: 24
+Finish: 2024-07-06 10:19:00.707499
