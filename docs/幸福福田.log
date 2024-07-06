@@ -1670,3 +1670,9 @@ Summarized using GPT-3.5-turbo
 Append: [深圳这一温度超50℃！周末高温+阵雨！台风预计在......](https://mp.weixin.qq.com/s/A0HWJ1wCt-LVhTOEtJ9XgA)
 append_entries: 7
 Finish: 2024-07-06 10:20:01.285123
+------------------------------------------------------
+Started: 2024-07-06 12:31:23.174956
+Existing_entries: 62
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+Finish: 2024-07-06 12:31:24.535313
