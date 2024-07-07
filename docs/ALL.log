@@ -2592,3 +2592,9 @@ Summarized using GPT-3.5-turbo
 Append: [确定违规！服务员要手机写评价？网友终于开怼了......](https://mp.weixin.qq.com/s/iuhWb1-W9jd6KUU2LK1iOg)
 append_entries: 20
 Finish: 2024-07-07 10:17:40.489090
+------------------------------------------------------
+Started: 2024-07-07 12:31:21.177635
+Existing_entries: 438
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-07 12:31:24.639930
