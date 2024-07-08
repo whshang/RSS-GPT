@@ -1361,3 +1361,9 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 error when rendering xml, skip docs/家在坂田
+------------------------------------------------------
+Started: 2024-07-08 08:22:57.096115
+Existing_entries: 13
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+append_entries: 0
+Finish: 2024-07-08 08:22:58.447846
