@@ -2834,3 +2834,11 @@ Existing_entries: 480
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-09 01:18:02.169328
+------------------------------------------------------
+Started: 2024-07-09 02:35:10.228642
+Existing_entries: 480
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
