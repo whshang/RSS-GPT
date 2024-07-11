@@ -3195,3 +3195,9 @@ Summarized using GPT-3.5-turbo
 Append: [四川明确了！这门课，小学每周不少于4课时！](https://mp.weixin.qq.com/s/glCqNKOhfxGUFR6VhhnYNw)
 append_entries: 13
 Finish: 2024-07-11 01:19:16.113394
+------------------------------------------------------
+Started: 2024-07-11 02:36:38.731293
+Existing_entries: 551
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-11 02:36:42.209550
