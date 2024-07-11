@@ -2200,3 +2200,9 @@ Summarized using GPT-3.5-turbo
 Append: [小心受骗！警惕这些非法社会组织！深圳有2家](https://mp.weixin.qq.com/s/O8lZIYJiK4sHdZ0QFT-UWQ)
 append_entries: 7
 Finish: 2024-07-11 10:20:11.143214
+------------------------------------------------------
+Started: 2024-07-11 12:34:36.458910
+Existing_entries: 118
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+Finish: 2024-07-11 12:34:38.354562
