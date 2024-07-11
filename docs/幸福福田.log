@@ -2173,3 +2173,30 @@ Existing_entries: 111
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-11 08:22:58.188702
+------------------------------------------------------
+Started: 2024-07-11 10:19:11.940651
+Existing_entries: 111
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1148
+Summarized using GPT-3.5-turbo
+Append: [10天瘦4斤！近期多人跟风！但医生说……](https://mp.weixin.qq.com/s/ltcycOcARmk14uvwWK8Qkw)
+Token length: 1505
+Summarized using GPT-3.5-turbo
+Append: [每天都喝！男子一查已是晚期！这个习惯很多人有……](https://mp.weixin.qq.com/s/51R5YapYe0cxbiwa7ITd1Q)
+Token length: 781
+Summarized using GPT-4o
+Append: [直达！福田⇋中山免费专线升级！上车点有变→](https://mp.weixin.qq.com/s/oO_WEjAbO7MgZFGwvtXNaA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240711101952483202414p1qC2pi0)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [被馋哭！深圳的学校食堂现在都这样了吗？！](https://mp.weixin.qq.com/s/3sVggFQu9Pd1n2mvN7GlkQ)
+Token length: 1890
+Summarized using GPT-3.5-turbo
+Append: [企业出海遇到法律问题怎么办？福田：安排！](https://mp.weixin.qq.com/s/sOc5a5_IxC-woF07vkDlvg)
+Token length: 1113
+Summarized using GPT-3.5-turbo
+Append: [“已花4万，太烧钱！”不少人晒账单，网友炸锅！](https://mp.weixin.qq.com/s/vbti_nytYlA81Km1O9FBFQ)
+Token length: 673
+Summarized using GPT-3.5-turbo
+Append: [小心受骗！警惕这些非法社会组织！深圳有2家](https://mp.weixin.qq.com/s/O8lZIYJiK4sHdZ0QFT-UWQ)
+append_entries: 7
+Finish: 2024-07-11 10:20:11.143214
