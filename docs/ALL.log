@@ -3150,3 +3150,48 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-11 01:18:33.506008
+Existing_entries: 538
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1373
+Summarized using GPT-3.5-turbo
+Append: [严厉打击！成都交警最新提醒→](https://mp.weixin.qq.com/s/lYeakKAmj3jwyEO2zz3wdA)
+Token length: 579
+Summarized using GPT-3.5-turbo
+Append: [含多款染发膏、防晒喷雾......这37批次化妆品不合格↓](https://mp.weixin.qq.com/s/HfS1lkaJwd7my0z6WuagIw)
+Token length: 2291
+Summarized using GPT-3.5-turbo
+Append: [妈妈的女儿叫什么？四川人：妹妹！](https://mp.weixin.qq.com/s/OgZTq0WN7eKlmxAEu9S7rw)
+Token length: 1107
+Summarized using GPT-3.5-turbo
+Append: [头皮发麻！男子裤子里藏104条活蛇入境......](https://mp.weixin.qq.com/s/sQrmmXfIE1v1P9A8qmE5Bg)
+Token length: 8466
+Summarized using GPT-3.5-turbo
+Append: [四川天府新区、成都高新区最新招聘！](https://mp.weixin.qq.com/s/qMq3x2DTz8ig1UkodxdrIQ)
+Token length: 922
+Summarized using GPT-3.5-turbo
+Append: [广东140个高温预警！8天81人呼叫120！深圳还要热多久？](https://mp.weixin.qq.com/s/6-BA7Ixa-hHMO5JQq27AIA)
+Token length: 1919
+Summarized using GPT-3.5-turbo
+Append: [这个赛事免费送票啦，明天上午10:00开抢！手慢无！](https://mp.weixin.qq.com/s/g6P-U67bcPi9lATUaanpEQ)
+Token length: 2096
+Summarized using GPT-4o
+Append: [成都又一博物馆免费开放！](https://mp.weixin.qq.com/s/16X3rDWAFal7oqmknpBR3g)
+Token length: 912
+Summarized using GPT-3.5-turbo
+Append: [新生入学结核筛查开始啦！](https://mp.weixin.qq.com/s/hJ_yy6iivv-soz7s1iFNOw)
+Token length: 515
+Summarized using GPT-3.5-turbo
+Append: [@龙潭居民，快约上好盆友健身运动啦](https://mp.weixin.qq.com/s/UQN6Rcqywuh82i0vSfuS6g)
+Token length: 1411
+Summarized using GPT-3.5-turbo
+Append: [深圳职工退休年龄规定！附领取更多养老金攻略→](https://mp.weixin.qq.com/s/7nTagkTub_gCuNMMDPC3gQ)
+Token length: 2082
+Summarized using GPT-3.5-turbo
+Append: [已建14个！为何福田企业都在广西这个山里建园？](https://mp.weixin.qq.com/s/gMNIyI3Ufrpe0Nt1svBtZQ)
+Token length: 4451
+Summarized using GPT-3.5-turbo
+Append: [四川明确了！这门课，小学每周不少于4课时！](https://mp.weixin.qq.com/s/glCqNKOhfxGUFR6VhhnYNw)
+append_entries: 13
+Finish: 2024-07-11 01:19:16.113394
