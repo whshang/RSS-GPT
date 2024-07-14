@@ -3580,3 +3580,99 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-14 22:17:00.481492
+Existing_entries: 584
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1264
+Summarized using GPT-3.5-turbo
+Append: [深圳6人被罚，只因深夜做这事！](https://mp.weixin.qq.com/s/_0zVIzNry7fuA31an50HzA)
+Token length: 5078
+Summarized using GPT-3.5-turbo
+Append: [成都东部新区公开招聘！有这些岗位→](https://mp.weixin.qq.com/s/VbPCwpaLsnrvp0JI7lz7JQ)
+Token length: 1444
+Summarized using GPT-3.5-turbo
+Append: [暴雨蓝色预警！四川多条河流干流或发生明显涨水过程](https://mp.weixin.qq.com/s/0tLyuNEgW9xBhnXG-HMzjA)
+Token length: 1238
+Summarized using GPT-3.5-turbo
+Append: [明起深圳预计迎来暴雨大风](https://mp.weixin.qq.com/s/nHVppTTzYuGwbc1W_KWGUQ)
+Token length: 939
+Summarized using GPT-3.5-turbo
+Append: [官方出品City Walk快线来了→](https://mp.weixin.qq.com/s/jW36PNGuX2CGUHGr-cBQ6A)
+Token length: 1152
+Summarized using GPT-3.5-turbo
+Append: [注意！这款“代步神器”，上路违法！](https://mp.weixin.qq.com/s/4y1ja9Ekp_rJk3SBOse2KA)
+Token length: 1880
+Summarized using GPT-3.5-turbo
+Append: [大量上市！1000吨/年！成都人爱吃的TA来了](https://mp.weixin.qq.com/s/WFPIp9DdRDuNXiw6Hqi-VQ)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 202407142217235096755635I3LLz0K)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [成都一周｜谋“新”而动！成都区（市）县、部门、国企这周在忙啥？](https://mp.weixin.qq.com/s/GB2r6u4JnSsEIo_6hJYnDg)
+Token length: 3033
+Summarized using GPT-3.5-turbo
+Append: [“宫崎骏的夏天”在这……](https://mp.weixin.qq.com/s/b4rH425__q64YtpS0nllSA)
+Token length: 1075
+Summarized using GPT-3.5-turbo
+Append: [深圳一男子游完泳，整条腿红肿流脓！医生提醒](https://mp.weixin.qq.com/s/mQbnExumPwozZYs2oBVDqQ)
+Token length: 699
+Summarized using GPT-3.5-turbo
+Append: [上海6.7小时飙拢成都！这条高铁最新进展来了](https://mp.weixin.qq.com/s/3hVfCo4U6JSaldFADLiV4w)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [2小时内！深圳这些区将迎阵风+强雷电+降水！](https://mp.weixin.qq.com/s/FeqF6CoburwZK18cZ43DNQ)
+Token length: 436
+Summarized using GPT-3.5-turbo
+Append: [官方通告：立即停售！](https://mp.weixin.qq.com/s/Eb3FqCTdIuKVG2b1dlVF9A)
+Token length: 1236
+Summarized using GPT-3.5-turbo
+Append: [要住院没床位？位于福田的这家医院可以“预住院”！](https://mp.weixin.qq.com/s/HUG5Wh5R7x7PBJeSZwEmsg)
+Token length: 8971
+Summarized using GPT-3.5-turbo
+Append: [0755-83087201，官方正式公布！](https://mp.weixin.qq.com/s/V62l82JS2UafeFltmFS_Xw)
+Token length: 4597
+Summarized using GPT-4o
+Append: [定了！8月12日起实施](https://mp.weixin.qq.com/s/YBWURY0f-8zWTUyn86sBhQ)
+Token length: 472
+Summarized using GPT-3.5-turbo
+Append: [全市开展！为期2个月，重点查→](https://mp.weixin.qq.com/s/BIny7WO-f6gsYC9ahY3_Vg)
+Token length: 1465
+Summarized using GPT-3.5-turbo
+Append: [今起正式放假！多条暑期研学路线公布，低至50元起→](https://mp.weixin.qq.com/s/n61XjFO6hK4ZK1RmUA7Tbg)
+Token length: 3351
+Summarized using GPT-3.5-turbo
+Append: [长达40天！一年中最热的日子要来了！](https://mp.weixin.qq.com/s/TxWE1RjrtcQJ-hVTupmi2g)
+Token length: 2894
+Summarized using GPT-3.5-turbo
+Append: [成华往事 | 你知道，68岁的成理经历了怎么样的岁月吗？](https://mp.weixin.qq.com/s/82LGjnMPg9eV5XC_LnEHZQ)
+Token length: 1684
+Summarized using GPT-3.5-turbo
+Append: [明天开始！长达40天！](https://mp.weixin.qq.com/s/mfwU0RHaW9OQwukcLCFrQw)
+Token length: 1885
+Summarized using GPT-3.5-turbo
+Append: [仅6-9秒！福田跨境支付有新突破！](https://mp.weixin.qq.com/s/ALPS25MNaus2IEJGFRQKMQ)
+Token length: 1576
+Summarized using GPT-3.5-turbo
+Append: [凤凰山足球场的南看台](https://mp.weixin.qq.com/s/kQxzNCYn6xKwpnR1z-cj5A)
+Token length: 2639
+Summarized using GPT-3.5-turbo
+Append: [近3年87条改革创新“深圳经验”，获全国推广！](https://mp.weixin.qq.com/s/SooqiHyoE6yZ9tAhfH6XNQ)
+Token length: 1710
+Summarized using GPT-3.5-turbo
+Append: [陡降12℃！雨还要下好久？最新预判→](https://mp.weixin.qq.com/s/h1U_qtZaLX_XgXruMWgloQ)
+Token length: 1823
+Summarized using GPT-3.5-turbo
+Append: [17万辆车召回！涉及丰田、雷克萨斯等品牌......](https://mp.weixin.qq.com/s/wOyGuzOKE3Q9fVvV5ljzIw)
+Token length: 417
+Summarized using GPT-3.5-turbo
+Append: [官方通告：立即停售！](https://mp.weixin.qq.com/s/WtQGvrnOj88LAA_YFC9nTg)
+Token length: 1693
+Summarized using GPT-3.5-turbo
+Append: [上班暂停！“打工人”午休好去处~](https://mp.weixin.qq.com/s/s0nPHT-Nk9-Thf62Hb7n6g)
+Token length: 8904
+Summarized using GPT-3.5-turbo
+Append: [深圳市互联网信息办公室公布数据跨境政策咨询电话和工作指引](https://mp.weixin.qq.com/s/Rdbn_27i-N3WlPEYsi72-Q)
+Token length: 854
+Summarized using GPT-3.5-turbo
+Append: [重要提醒！成都多趟列车停运！](https://mp.weixin.qq.com/s/LkgwwpxEhoYNeAaZ34pJcQ)
+append_entries: 30
+Finish: 2024-07-14 22:18:21.474037
