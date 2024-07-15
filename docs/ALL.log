@@ -3714,3 +3714,87 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-15 12:35:13.707513
+Existing_entries: 614
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 3069
+Summarized using GPT-3.5-turbo
+Append: [成都环城生态区湿地旁，有朵会思考的“云”](https://mp.weixin.qq.com/s/NBpvT8e5JKAfd7QnEoBsmQ)
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [重磅纪录片《领航新征程》](https://mp.weixin.qq.com/s/rgYNDdYVS6wFdP34K2GYmw)
+Token length: 1919
+Summarized using GPT-3.5-turbo
+Append: [酷炫！我在成华“抓”电磁波……](https://mp.weixin.qq.com/s/tP7Os_k6V3XrwZiMVKvC8w)
+Token length: 762
+Summarized using GPT-3.5-turbo
+Append: [省内首家！正式成立](https://mp.weixin.qq.com/s/Ffvut3RGj_-5MwwFNOb7Ig)
+Token length: 1684
+Summarized using GPT-3.5-turbo
+Append: [今日开始！错过等一年→](https://mp.weixin.qq.com/s/5h8FGRWtVFFocP1ovp3nLQ)
+Token length: 5146
+Summarized using GPT-3.5-turbo
+Append: [今天，一年中最热的三伏天来了](https://mp.weixin.qq.com/s/zyTPUIUm6Shw6HAM3E2qrA)
+Token length: 2159
+Summarized using GPT-3.5-turbo
+Append: [今日入伏，40天超长“待机”！这些事情要注意→](https://mp.weixin.qq.com/s/WgMeicDDpI7MTXFoRL8QyA)
+Token length: 986
+Summarized using GPT-3.5-turbo
+Append: [深圳福田⇌东莞长安！双向6-12车道！全长47km→](https://mp.weixin.qq.com/s/0Os5zvJ3xuTl4PjGiRaRPA)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [中国共产党第二十届中央委员会第三次全体会议在北京开始举行](https://mp.weixin.qq.com/s/NwP5Tsfrgy_Paan4MXQ-bA)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [中国共产党第二十届中央委员会第三次全体会议在北京开始举行](https://mp.weixin.qq.com/s/uBKfXO67PUhonY7qjm_CuA)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [中国共产党第二十届中央委员会第三次全体会议在北京开始举行](https://mp.weixin.qq.com/s/G-5k-LFFOquhmxcueXvHgg)
+Token length: 1230
+Summarized using GPT-3.5-turbo
+Append: [4年改造4000部，成都启动住宅小区老旧电梯更新！](https://mp.weixin.qq.com/s/xKXYK-wS6_LeQrFNmESVcg)
+Token length: 1745
+Summarized using GPT-3.5-turbo
+Append: [一支下肚，15分钟后晕厥！许多深圳家庭都在用→](https://mp.weixin.qq.com/s/muFG2Bp0MbHHFEmVbcG70A)
+Token length: 868
+Summarized using GPT-3.5-turbo
+Append: [零门槛申请！租这个房子有点巴适~](https://mp.weixin.qq.com/s/lyoJfFYPBE-vuopt1LK5kw)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [中国上半年GDP出炉！](https://mp.weixin.qq.com/s/85GAYBRc-0xONswScpHoKA)
+Token length: 1614
+Summarized using GPT-3.5-turbo
+Append: [“圈粉”4枚！英国父女游中国，第一站：成都！](https://mp.weixin.qq.com/s/iY-Gg1kUxc6tYtkHQKk-iQ)
+Token length: 768
+Summarized using GPT-3.5-turbo
+Append: [成都多趟列车停运！重要提醒→](https://mp.weixin.qq.com/s/xXmiepw3esGFaAY2UD0tnA)
+Token length: 2664
+Summarized using GPT-3.5-turbo
+Append: [深圳走出一条超大型城市治理新路子](https://mp.weixin.qq.com/s/yM2gYi3jqUXqf513-9zCqA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240715123632512975852xCFV7q3V)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [沈仲文：勇当全面深化改革探路尖兵](https://mp.weixin.qq.com/s/FxUPHhmxVPjDXN8za7E_-g)
+Token length: 732
+Summarized using GPT-3.5-turbo
+Append: [成都多趟列车停运！重要提醒→](https://mp.weixin.qq.com/s/6i-rsBD9HzOpxZza0gtEUA)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [长达40天！这些“讲究”要知道](https://mp.weixin.qq.com/s/-8cCU73yvqwLL-74X0g-mA)
+Token length: 7751
+Summarized using GPT-3.5-turbo
+Append: [坂田急招38人，速来！](https://mp.weixin.qq.com/s/8s2vp4-OB68NCuJAhIDD4Q)
+Token length: 1836
+Summarized using GPT-3.5-turbo
+Append: [一觉醒来身上密密麻麻！“罪魁祸首”竟是家中......](https://mp.weixin.qq.com/s/4iuc0AonzlSJLH8iXNgapA)
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: [国内首趟！今日抵达成都→](https://mp.weixin.qq.com/s/ZrcCUvgXa6zAcof_Dzwjhg)
+Token length: 412
+Summarized using GPT-3.5-turbo
+Append: [25000份！领取中！](https://mp.weixin.qq.com/s/LnBwteL0aqy_gnd5zn5Zqw)
+Token length: 627
+Summarized using GPT-3.5-turbo
+Append: [或迎暴风大雨！今起深圳天气有变→](https://mp.weixin.qq.com/s/lghypwP5-jxf8fMW4VJ3Jw)
+append_entries: 26
+Finish: 2024-07-15 12:37:05.199919
