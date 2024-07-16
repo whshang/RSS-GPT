@@ -3929,3 +3929,9 @@ Summarized using GPT-3.5-turbo
 Append: [视频 | 深圳14个超美海滩](https://mp.weixin.qq.com/s/m42wU8MqlhlD6s6s572PsA)
 append_entries: 6
 Finish: 2024-07-16 06:25:55.049017
+------------------------------------------------------
+Started: 2024-07-16 08:23:19.200950
+Existing_entries: 665
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-16 08:23:22.920527
