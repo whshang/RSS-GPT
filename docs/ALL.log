@@ -3935,3 +3935,81 @@ Existing_entries: 665
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-16 08:23:22.920527
+------------------------------------------------------
+Started: 2024-07-16 10:16:21.116883
+Existing_entries: 665
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 893
+Summarized using GPT-3.5-turbo
+Append: [赵子龙祠墓，预计明年开放！](https://mp.weixin.qq.com/s/-0mXT_CD0vF7hwG7zYfu0Q)
+Token length: 2196
+Summarized using GPT-3.5-turbo
+Append: [看成华这个炙手可热的“盒子”，如何闪耀星光……](https://mp.weixin.qq.com/s/6c1_37s300E4xl36rRy73g)
+Token length: 1054
+Summarized using GPT-3.5-turbo
+Append: [定了！录取时间公布！](https://mp.weixin.qq.com/s/76XPiITPMp_upuwpnY_B-w)
+Token length: 954
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都发布暴雨蓝色预警！](https://mp.weixin.qq.com/s/cjKm60eP__68IJayl-Nt9g)
+Token length: 538
+Summarized using GPT-3.5-turbo
+Append: [试验完成！动车直达九寨沟，开通倒计时！](https://mp.weixin.qq.com/s/U-rcIzscp8l39Ue2VC7F-g)
+Token length: 345
+Summarized using GPT-3.5-turbo
+Append: [深圳前海：改革创新激发澎湃动能](https://mp.weixin.qq.com/s/eyRrEx_ttrJKgZybiN3N7w)
+Token length: 4727
+Summarized using GPT-3.5-turbo
+Append: [深圳市2024年中考成绩今日公布，查分请看→](https://mp.weixin.qq.com/s/DPFj5iSvPHtRiZxXeFk28Q)
+Token length: 1103
+Summarized using GPT-3.5-turbo
+Append: [Amazing！他们惊呼的原因是→](https://mp.weixin.qq.com/s/f6l5R21duf85IQVuQSFDqQ)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [官宣！这一国免签停留时间延长至60日](https://mp.weixin.qq.com/s/qV2BiijcAOX7FCR-wof3Vw)
+Token length: 523
+Summarized using GPT-3.5-turbo
+Append: [某品牌酸菜牛肉面中吃出鼠头？企业回应，网友热议](https://mp.weixin.qq.com/s/f0FSUjCtOatXEvDsUCwMyA)
+Token length: 2229
+Summarized using GPT-3.5-turbo
+Append: [成都住房公积金发布重要提醒！](https://mp.weixin.qq.com/s/pQJDWNWjIBeKn6_KQzv17Q)
+Token length: 573
+Summarized using GPT-3.5-turbo
+Append: [深圳分区雷雨大风黄色预警信号生效中！](https://mp.weixin.qq.com/s/O4RG83T4n-MVOKkAh3i9hQ)
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [2小时内！强雷电+强降水+8级阵风！影响深圳8区](https://mp.weixin.qq.com/s/--uEWh0UAkuf1nHXR4diAw)
+Token length: 826
+Summarized using GPT-4o
+Append: [大雨、暴雨、大暴雨！四川盆地进入强降雨集中时段](https://mp.weixin.qq.com/s/Xwnj3R0aUJeO1ji_lXoM8Q)
+Token length: 867
+Summarized using GPT-3.5-turbo
+Append: [公开征求意见！这些车辆拟禁止通行！具体范围→](https://mp.weixin.qq.com/s/EJS7bvP_PKXDwFQFhV6Btw)
+Token length: 1206
+Summarized using GPT-3.5-turbo
+Append: [不要救！不要救！不要救！深圳人遇到请注意→](https://mp.weixin.qq.com/s/EfwVdycb0AT7O1aDEm5f8A)
+Token length: 3158
+Summarized using GPT-3.5-turbo
+Append: [免费送！300张电影票！每人2张→](https://mp.weixin.qq.com/s/jH5w1eGpDp0rTLSWAFzaFQ)
+Token length: 1183
+Summarized using GPT-3.5-turbo
+Append: [正式竣工！预计今年内投产使用](https://mp.weixin.qq.com/s/wvsH1FsgaFepv6B0Gx-ZCQ)
+Token length: 3086
+Summarized using GPT-3.5-turbo
+Append: [深圳：创新“强磁力”吸引全球优质资源](https://mp.weixin.qq.com/s/p2JjCpVIAjstVmc89pUj2Q)
+Token length: 1802
+Summarized using GPT-3.5-turbo
+Append: [重要提醒！成都多趟列车停运！](https://mp.weixin.qq.com/s/TCP4354Z5IL-1wiJ-JGOcg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240716101749720515414ueC4pr8r)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [揪心！37℃高温下，女童被忘车内近1小时！交警提醒......](https://mp.weixin.qq.com/s/BK6Tt2saAEQ95VwA1LH0SA)
+Token length: 2940
+Summarized using GPT-3.5-turbo
+Append: [改革，深圳新时代发展的关键动力](https://mp.weixin.qq.com/s/8bXt0biW6Rk29eGy_ujzZg)
+Token length: 980
+Summarized using GPT-3.5-turbo
+Append: [成都直飞！国际航线上新](https://mp.weixin.qq.com/s/CUuVAvbG69EuKQyVRPcyLw)
+Token length: 1683
+Summarized using GPT-3.5-turbo
+Append: [“飞热”！全国前三！成都这里全是人→](https://mp.weixin.qq.com/s/iwSidb0dzTazubaCDxpOjw)
+append_entries: 24
+Finish: 2024-07-16 10:18:07.783528

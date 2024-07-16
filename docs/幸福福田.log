@@ -2629,3 +2629,30 @@ Existing_entries: 139
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-16 08:23:34.893496
+------------------------------------------------------
+Started: 2024-07-16 10:18:25.839300
+Existing_entries: 139
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1054
+Summarized using GPT-3.5-turbo
+Append: [定了！录取时间公布！](https://mp.weixin.qq.com/s/76XPiITPMp_upuwpnY_B-w)
+Token length: 523
+Summarized using GPT-3.5-turbo
+Append: [某品牌酸菜牛肉面中吃出鼠头？企业回应，网友热议](https://mp.weixin.qq.com/s/f0FSUjCtOatXEvDsUCwMyA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024071610185688547191361iCCtpK)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [2小时内！强雷电+强降水+8级阵风！影响深圳8区](https://mp.weixin.qq.com/s/--uEWh0UAkuf1nHXR4diAw)
+Token length: 1206
+Summarized using GPT-3.5-turbo
+Append: [不要救！不要救！不要救！深圳人遇到请注意→](https://mp.weixin.qq.com/s/EfwVdycb0AT7O1aDEm5f8A)
+Token length: 3158
+Summarized using GPT-3.5-turbo
+Append: [免费送！300张电影票！每人2张→](https://mp.weixin.qq.com/s/jH5w1eGpDp0rTLSWAFzaFQ)
+Token length: 1729
+Summarized using GPT-3.5-turbo
+Append: [揪心！37℃高温下，女童被忘车内近1小时！交警提醒......](https://mp.weixin.qq.com/s/BK6Tt2saAEQ95VwA1LH0SA)
+Token length: 1820
+Summarized using GPT-3.5-turbo
+Append: [03:00还有班次！福田人深夜从皇岗口岸回，不用打车啦！](https://mp.weixin.qq.com/s/KZeGEbDHzAdLaPDmJEyfMA)
+append_entries: 7
+Finish: 2024-07-16 10:19:14.905561
