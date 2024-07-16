@@ -4043,3 +4043,48 @@ Existing_entries: 689
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-16 20:17:56.217815
+------------------------------------------------------
+Started: 2024-07-16 22:17:11.398289
+Existing_entries: 689
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 884
+Summarized using GPT-3.5-turbo
+Append: [2:0！晋级八强！](https://mp.weixin.qq.com/s/SNoLLWYThaHPJCMlQAShJQ)
+Token length: 1322
+Summarized using GPT-3.5-turbo
+Append: [王凤朝主持召开十四届市委科技委员会第一次会议，要求加快建设具有全国影响力的科技创新中心，全力塑造高质量发展新动能新优势](https://mp.weixin.qq.com/s/BT0plAntY7j0yvsHOfL1og)
+Token length: 2042
+Summarized using GPT-3.5-turbo
+Append: [越吃越凉快！接下来，成都人的餐桌C位是......](https://mp.weixin.qq.com/s/STR6nIkBAPNvRKNznUQKjg)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 20240716221731767000886TY0lWFEH)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [四川天府新区、成都东部新区最新招聘！](https://mp.weixin.qq.com/s/YjnObkEZW_fT8f2UU5SeOg)
+Token length: 1631
+Summarized using GPT-3.5-turbo
+Append: [这一晚，他的心愿在深圳这座关爱之城上空闪烁](https://mp.weixin.qq.com/s/nhiSgrsAgsWRcmTyp7rzoQ)
+Token length: 1211
+Summarized using GPT-3.5-turbo
+Append: [抢票 | 《平如美棠》](https://mp.weixin.qq.com/s/8uYs8MgppYdwFJb1qrlT9w)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [成都最新租金水平公布！快看你那里是多少？](https://mp.weixin.qq.com/s/JokV75wZk8C-fqsV3HYvMg)
+Token length: 1122
+Summarized using GPT-3.5-turbo
+Append: [别具风情，深北莫！](https://mp.weixin.qq.com/s/ZI7TBiVOAgdEc9iG_elNzg)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [山洪+地灾双预警！成都这些地方注意](https://mp.weixin.qq.com/s/HMLPEF1LkNGOQRjX1uL_oA)
+Token length: 829
+Summarized using GPT-3.5-turbo
+Append: [@广东人，线上买药可以刷医保了！](https://mp.weixin.qq.com/s/iItHMn9yP-H4a8IRuazbSQ)
+Token length: 1568
+Summarized using GPT-3.5-turbo
+Append: [母亲花39.9元报4天3夜旅游团？儿子气得报警！后续来了](https://mp.weixin.qq.com/s/6VnBmLh120kr8arS_drsRA)
+Token length: 3156
+Summarized using GPT-3.5-turbo
+Append: [成都公开征求意见！建设低空飞行服务枢纽城市](https://mp.weixin.qq.com/s/UDjQdQqohqZbpMqPYS4OMA)
+Token length: 1949
+Summarized using GPT-3.5-turbo
+Append: [女子机票降3000元起飞前“买低退高”，这样做真的可以吗？](https://mp.weixin.qq.com/s/mgH3P17C3v61DkjaYh9jmA)
+append_entries: 13
+Finish: 2024-07-16 22:17:45.717207
