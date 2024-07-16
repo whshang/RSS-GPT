@@ -2599,3 +2599,9 @@ Summarized using GPT-3.5-turbo
 Append: [深圳长租公寓爆满！@毕业生 来深还有这些免费住宿→](https://mp.weixin.qq.com/s/_Ese67F3np1Yed0WY7oSmA)
 append_entries: 6
 Finish: 2024-07-15 22:18:36.305768
+------------------------------------------------------
+Started: 2024-07-16 01:20:15.033308
+Existing_entries: 139
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+Finish: 2024-07-16 01:20:16.928194
