@@ -4148,3 +4148,9 @@ Summarized using GPT-3.5-turbo
 Append: [视频 | 深圳人的日常](https://mp.weixin.qq.com/s/ctLmsmP6m1xnPkk2CX-HEA)
 append_entries: 8
 Finish: 2024-07-17 10:19:51.700732
+------------------------------------------------------
+Started: 2024-07-17 12:34:40.924338
+Existing_entries: 710
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-17 12:34:43.119875
