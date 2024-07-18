@@ -2805,3 +2805,39 @@ Existing_entries: 149
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-18 08:22:41.610086
+------------------------------------------------------
+Started: 2024-07-18 10:22:02.840778
+Existing_entries: 149
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240718102231248513794RCGr7PWP)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [中国共产党第二十届中央委员会第三次全体会议公报](https://mp.weixin.qq.com/s/YW-Oq5Q1Dj5skV7-AUZH1Q)
+Token length: 1546
+Summarized using GPT-3.5-turbo
+Append: [1个月内发生20多起！深圳官方发布提醒→](https://mp.weixin.qq.com/s/qvjg9VKAS5I_0cl84Sc-tw)
+Token length: 702
+Summarized using GPT-3.5-turbo
+Append: [4预警生效！全市进入暴雨戒备状态](https://mp.weixin.qq.com/s/yC7O8GUMTnxRcBY0v8knCQ)
+Token length: 2813
+Summarized using GPT-3.5-turbo
+Append: [广东的蟑螂会发光？网友：又进化了！都会挥荧光棒了](https://mp.weixin.qq.com/s/AA8v8bsfnpPe-OC6iZi8GA)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [8级以上阵风+强雷电！深圳这些区将受影响......](https://mp.weixin.qq.com/s/mxLuKJcK0EMH4pbNilO4wA)
+Token length: 2036
+Summarized using GPT-3.5-turbo
+Append: [你的身体里居然藏了这么多“微塑料”！原因竟然是……](https://mp.weixin.qq.com/s/RVqS-DysoXacJgYxDDkc1w)
+Token length: 1965
+Summarized using GPT-3.5-turbo
+Append: [暑假高发！有人被骗近10万！99%家长还不知道](https://mp.weixin.qq.com/s/J2p5SP1kWXwoMFRHtX--0Q)
+Token length: 1550
+Summarized using GPT-3.5-turbo
+Append: [以“自我革命”精神推进党纪学习教育走深走实——2024年福田区领导干部警示教育会暨党章党规党纪教育培训班召开](https://mp.weixin.qq.com/s/fTCel7HKnrQqQWzVXXWdPw)
+Token length: 2241
+Summarized using GPT-3.5-turbo
+Append: [新开通！福田⇋中山这趟快线，票价才....](https://mp.weixin.qq.com/s/_R08zXe-YapfGOp8GLOgcQ)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [刚刚，有彩虹！](https://mp.weixin.qq.com/s/F20nTYRlRVd2NSXNAurV9Q)
+append_entries: 10
+Finish: 2024-07-18 10:22:58.069875
