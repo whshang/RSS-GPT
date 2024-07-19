@@ -4370,3 +4370,99 @@ Existing_entries: 740
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-19 08:22:10.932396
+------------------------------------------------------
+Started: 2024-07-19 10:18:20.614181
+Existing_entries: 740
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [来这里，get七彩童年！](https://mp.weixin.qq.com/s/ttweTFZq7NfMG2xECbpocw)
+Token length: 920
+Summarized using GPT-3.5-turbo
+Append: [成都至西宁未来约5小时可达！最新进展→](https://mp.weixin.qq.com/s/nCHTdtvJ5-n6nDrbO-jOsA)
+Token length: 1349
+Summarized using GPT-3.5-turbo
+Append: [小龙说政事—政务服务专栏丨个体工商户注销攻略](https://mp.weixin.qq.com/s/dw577D5BA2qq26MoEGLx2A)
+Token length: 672
+Summarized using GPT-3.5-turbo
+Append: [毕业了医保该怎么办？高校生专属指南来了！](https://mp.weixin.qq.com/s/-ZqGs48bINm9p2dAComioA)
+Token length: 5668
+Summarized using GPT-3.5-turbo
+Append: [半导体与集成电路产业政策扶持的申报受理工作启动](https://mp.weixin.qq.com/s/bGAJ6mbXgVnyMgSY797ziw)
+Token length: 3168
+Summarized using GPT-3.5-turbo
+Append: [进一步全面深化改革300多项重要举措，中共中央发布会最新解读](https://mp.weixin.qq.com/s/WBjnkc4YBEumby0PV7DemQ)
+Token length: 438
+Summarized using GPT-3.5-turbo
+Append: [仅限今天！超20000张消费券，冲！](https://mp.weixin.qq.com/s/QeeIhxShudVRKGFPuKjRmw)
+Token length: 674
+Summarized using GPT-3.5-turbo
+Append: [明天开领！新一轮消费券来了](https://mp.weixin.qq.com/s/W4wXhG68CBWhkP5Fn5X2uQ)
+Token length: 1230
+Summarized using GPT-3.5-turbo
+Append: [一家8口全部确诊！医生：具有遗传性，早期症状容易被忽视](https://mp.weixin.qq.com/s/BHdLF_BAqJ__L6q3HKwX1g)
+Token length: 2859
+Summarized using GPT-4o
+Append: [深圳公园停车预约规则有变化→](https://mp.weixin.qq.com/s/wKlWAfDsURT2fLtX4Ojy0A)
+Token length: 1077
+Summarized using GPT-3.5-turbo
+Append: [208个项目，总投资1227亿元！成都市2024年第三季度“三个做优做强”重大项目建设启动](https://mp.weixin.qq.com/s/K0x8J6wPKwRopg4gBqBATw)
+Token length: 1607
+Summarized using GPT-3.5-turbo
+Append: [史上首次！电影院里看奥运？深圳也有→](https://mp.weixin.qq.com/s/zL-GlGFx3iwLFjpoec5AkA)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 202407191019547761810468sDi80Ih)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [实录来了！中共中央举行新闻发布会 介绍和解读党的二十届三中全会精神](https://mp.weixin.qq.com/s/Oepzzm5jycs81eVkkLxRfg)
+Token length: 1068
+Summarized using GPT-3.5-turbo
+Append: [先看病，后付费！成都多所医院已上线！](https://mp.weixin.qq.com/s/xkcLTcjByTCoyuLyhMgpWw)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [预警扩展至全市！周五下午还有雷阵雨！](https://mp.weixin.qq.com/s/bNq_bKBQJshz3NQCvsqeEQ)
+Token length: 2439
+Summarized using GPT-3.5-turbo
+Append: [“被同事安利3次的Mall，真的有让我眼前一亮！”](https://mp.weixin.qq.com/s/4x7v5TTN-Q2dztSgW46f7g)
+Token length: 21
+Summarized using GPT-3.5-turbo
+Append: [深圳湾超级总部「新地标」· 揭秘](https://mp.weixin.qq.com/s/29AhhEnGg5hWZtfcI9e_eg)
+Token length: 872
+Summarized using GPT-3.5-turbo
+Append: [小红书爆火「芭乐蛋糕」来啦，限时7折起](https://mp.weixin.qq.com/s/pbz1aFtxG4MpbQ5Y94K3Bw)
+Token length: 3895
+Summarized using GPT-3.5-turbo
+Append: [深圳近期「展览演出清单」· 精选10场](https://mp.weixin.qq.com/s/1LHC63BJnmHlnukNkOIm4A)
+Token length: 1454
+Summarized using GPT-3.5-turbo
+Append: [打工人便宜好用的宝藏好物！同事强烈推荐](https://mp.weixin.qq.com/s/uipKV2Yf9gjTfOKDq_1oHA)
+Token length: 35
+Summarized using GPT-3.5-turbo
+Append: [视频 | 深圳24小时公园书房](https://mp.weixin.qq.com/s/56oDMeL-wbHJu1yn9DtC_w)
+Token length: 1539
+Summarized using GPT-4o
+Append: [长期有效！成华公开征集……](https://mp.weixin.qq.com/s/BK3HeVMBExRTFSmzb0IWsw)
+Token length: 1296
+Summarized using GPT-3.5-turbo
+Append: [榜单出炉！成都这家银行，首次跻身全球200强！](https://mp.weixin.qq.com/s/4X7Ft6FgpFIlian3JUPhbA)
+Token length: 511
+Summarized using GPT-3.5-turbo
+Append: [8车道！深圳市区⇋“深汕”90分钟互达](https://mp.weixin.qq.com/s/Ffy0FXc1NVy-XK4sftQCew)
+Token length: 3753
+Summarized using GPT-3.5-turbo
+Append: [硬核PK！深圳各区低空经济全速竞飞](https://mp.weixin.qq.com/s/df2SVnsaFHvKJ1rJ9XFecQ)
+Token length: 1808
+Summarized using GPT-3.5-turbo
+Append: [太火爆！一约难求！成都人最近都在……](https://mp.weixin.qq.com/s/vtLwyGWevBm7a3IDaha3DA)
+Token length: 1769
+Summarized using GPT-3.5-turbo
+Append: [🤙力力力荐！成华暑期遛娃图鉴来啦↘](https://mp.weixin.qq.com/s/s_V74GT3N9Nm3DACOqxxTA)
+Token length: 2929
+Summarized using GPT-3.5-turbo
+Append: [巴黎奥运会，含“深”量有点高！](https://mp.weixin.qq.com/s/qVHNsKowdhm4szcfZzkB6w)
+Token length: 1135
+Summarized using GPT-3.5-turbo
+Append: [注意！多趟列车停运！](https://mp.weixin.qq.com/s/TfnF9t7VZvN3KLkNMSE_YA)
+Token length: 2074
+Summarized using GPT-3.5-turbo
+Append: [深圳“耐心资本”浇灌初创企业](https://mp.weixin.qq.com/s/jAPGbaf4AgVxZu2a0MBZFA)
+append_entries: 30
+Finish: 2024-07-19 10:21:09.725251
