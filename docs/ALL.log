@@ -4466,3 +4466,9 @@ Summarized using GPT-3.5-turbo
 Append: [深圳“耐心资本”浇灌初创企业](https://mp.weixin.qq.com/s/jAPGbaf4AgVxZu2a0MBZFA)
 append_entries: 30
 Finish: 2024-07-19 10:21:09.725251
+------------------------------------------------------
+Started: 2024-07-19 12:33:44.885991
+Existing_entries: 770
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-19 12:33:47.263674

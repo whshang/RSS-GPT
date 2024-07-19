@@ -4,6 +4,30 @@
 <title>家在坂田</title>
 <link>/feeds/MP_WXS_3944340294.atom</link>
 
+<item>
+<title>高大上，龙岗艺术中心及黄金山公园景观设计</title>
+<link>https://mp.weixin.qq.com/s/VccjqZ0IYXu8NYBELmNrLQ</link>
+<guid>https://mp.weixin.qq.com/s/VccjqZ0IYXu8NYBELmNrLQ</guid>
+<content:encoded><![CDATA[
+<div> 上游接口返回错误:
+`{"type":"error","error":{"type":"invalid_request_error","message":"messages: text content blocks must be non-empty"}}`
+
+可能的原因:
+1. 上游更新了接口，但是本代理接口还没进行适配
+2. 遇到其他未知的错误
+
+如果情况长时间持续，不建议一直尝试发送请求
+
+常见问题(FAQ): `https://sgp.sotershield.com`
+
+检查令牌状态: `https://sgp-token.sotershield.com`
+
+(刷新此消息重试) <div>
+
+]]></content:encoded>
+
+<pubDate>2024-07-18T23:31:21.000Z</pubDate>
+</item>
 
 <item>
 <title>中考喜报第一波，区状元花落坂田？</title>
