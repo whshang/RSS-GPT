@@ -4964,3 +4964,99 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-22 10:19:22.254646
+Existing_entries: 864
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 923
+Summarized using GPT-3.5-turbo
+Append: [延迟退休，有最新消息！](https://mp.weixin.qq.com/s/jKbZw7RsRqxdg-kfjMQZkA)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [四川最新人事动态](https://mp.weixin.qq.com/s/iV9uZZTJ7KUQV07kVxbWYg)
+Token length: 1584
+Summarized using GPT-3.5-turbo
+Append: [成华发布 | 区委常委会传达学习党的二十届三中全会精神，研究部署贯彻落实工作](https://mp.weixin.qq.com/s/yTRMENfhFnHqiKyX2IpbKg)
+Token length: 1701
+Summarized using GPT-3.5-turbo
+Append: [厕所常见！别用手拍！深圳有人被迫摘除眼球](https://mp.weixin.qq.com/s/zaNKeYYbngxoaRG1FJvh6w)
+Token length: 1196
+Summarized using GPT-3.5-turbo
+Append: [成都直飞米兰！即将开通！](https://mp.weixin.qq.com/s/e5I7LH_j0Ui0I4EakVq2iQ)
+Token length: 2997
+Summarized using GPT-3.5-turbo
+Append: [深圳高温黄色预警信号生效中，未来天气→](https://mp.weixin.qq.com/s/SBYqkRuJ44_V_ve2tZ5x5g)
+Token length: 987
+Summarized using GPT-3.5-turbo
+Append: [找到了！成华这里超清凉🤩🤩](https://mp.weixin.qq.com/s/q9BPb-m_52MJjVfg4aF05A)
+Token length: 4833
+Summarized using GPT-3.5-turbo
+Append: [免预约！深圳的展看不完，真的看不完](https://mp.weixin.qq.com/s/nEQbUmEXYhBSqy6t2qVeWQ)
+Token length: 6158
+Summarized using GPT-3.5-turbo
+Append: [四川天府新区、成都高新区公开招聘！](https://mp.weixin.qq.com/s/5TiAYM___EapNA902959pg)
+Token length: 1061
+Summarized using GPT-3.5-turbo
+Append: [地铁11号线二期“通”了！预计投用运营时间是......](https://mp.weixin.qq.com/s/b8n4-c0SwQZ-sB-_ohh2Vw)
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [无需预约，深圳133家景区&文化场馆取消预约制](https://mp.weixin.qq.com/s/rGZen_NWKBrA7qrfz7zwJw)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [巨型「唐老鸭」来了！唐老鸭90周年主题活动，来深圳了](https://mp.weixin.qq.com/s/6jl-SCO2Si4T89WzO3PT8A)
+Token length: 785
+Summarized using GPT-3.5-turbo
+Append: [夏日新品「芒果蛋糕」来啦，低至99元](https://mp.weixin.qq.com/s/XxJoM8TlUe01U5CfmXFq9Q)
+Token length: 1874
+Summarized using GPT-3.5-turbo
+Append: [杨丽萍导演舞台巨作「平潭映象」· 深圳起舞！](https://mp.weixin.qq.com/s/lCFy1uiKb6YYPxBhfA49uA)
+Token length: 1888
+Summarized using GPT-3.5-turbo
+Append: [盒马回购清单！巴斯克天花板出现了！](https://mp.weixin.qq.com/s/FPnN7ZTmfSY-nFte8kHnyQ)
+Token length: 43
+Summarized using GPT-3.5-turbo
+Append: [视频 | 深圳人真的爱穿洞洞鞋](https://mp.weixin.qq.com/s/oskqt_ojb55R1p6ifx36IA)
+Token length: 1061
+Summarized using GPT-3.5-turbo
+Append: [下调！适当减免！央行最新宣布→](https://mp.weixin.qq.com/s/RCnA_GTePaOoKELdcWOmPg)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 2024072210204636640157sNOH6BgP)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [中共中央关于进一步全面深化改革 推进中国式现代化的决定](https://mp.weixin.qq.com/s/CJHlQs6vaKDCn3Pj-59NUA)
+Token length: 645
+Summarized using GPT-3.5-turbo
+Append: [央行重磅宣布：降息！](https://mp.weixin.qq.com/s/HmmBDaHDBm2bjpQtf-cNgg)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [保和 | 今日大暑，蝉声起，夏正浓！](https://mp.weixin.qq.com/s/lNO0qUgPWVhBvxrv_I70Xw)
+Token length: 508
+Summarized using GPT-3.5-turbo
+Append: [重要提醒！今日这些列车停运→](https://mp.weixin.qq.com/s/GvQIjW_Nl4M6br6CGihzog)
+Token length: 1657
+Summarized using GPT-3.5-turbo
+Append: [成都东站！有变化→](https://mp.weixin.qq.com/s/68Zyne7vR9LTq9dIcEPNYQ)
+Token length: 1405
+Summarized using GPT-3.5-turbo
+Append: [就在今天！全年最热时节到来！夏天最后一个……](https://mp.weixin.qq.com/s/bxWGPrWrluTkBK-P9CfHhw)
+Token length: 1593
+Summarized using GPT-3.5-turbo
+Append: [开盘即售罄！深圳楼市回暖趋势明显](https://mp.weixin.qq.com/s/Wcm0jX7iT0UgoIykQEL9ZQ)
+Token length: 480
+Summarized using GPT-3.5-turbo
+Append: [日出+朝霞+彩虹同框！今早的成都美美美翻啦](https://mp.weixin.qq.com/s/LGsE3jz5NeanGeN9InyNCw)
+Token length: 464
+Summarized using GPT-3.5-turbo
+Append: [报！今早日出+朝霞很！美！不信你看→](https://mp.weixin.qq.com/s/Ysingq4EhiqkcWH7W4TvGg)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [新华社关注深圳外贸：“老三样”优势稳固 “新三样”动能澎湃](https://mp.weixin.qq.com/s/e3rEWAv7-uTbT2UY9qp2Rw)
+Token length: 1178
+Summarized using GPT-3.5-turbo
+Append: [高温！暴雨！桑拿天！大暑开启“湿热交蒸”](https://mp.weixin.qq.com/s/RIegE3OBdYptb-zMJEzt2Q)
+Token length: 1705
+Summarized using GPT-3.5-turbo
+Append: [全年最热时节到来！今起，夏天最后一个……](https://mp.weixin.qq.com/s/09yH7U-LoBsOiVUsam8YJQ)
+Token length: 1529
+Summarized using GPT-3.5-turbo
+Append: [@深圳人，穿拖鞋千万别干这事……](https://mp.weixin.qq.com/s/9vZxEf8lVaDahJy_iqJXQg)
+append_entries: 30
+Finish: 2024-07-22 10:21:27.375616

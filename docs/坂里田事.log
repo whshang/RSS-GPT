@@ -2567,3 +2567,15 @@ Existing_entries: 71
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-07-22 08:24:44.762770
+------------------------------------------------------
+Started: 2024-07-22 10:21:32.169228
+Existing_entries: 71
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Token length: 2710
+Summarized using GPT-3.5-turbo
+Append: [坂田街道18家图书馆免费开放！建议收藏](https://mp.weixin.qq.com/s/_zGXeNK-alZxyFu8CdxvKw)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 20240722102140666428510ZH939MtS)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [最高年薪30W！坂田急招82人](https://mp.weixin.qq.com/s/igu9-QphLFFeEglVmFLiFQ)
+append_entries: 2
+Finish: 2024-07-22 10:21:44.823604
