@@ -5191,3 +5191,99 @@ Existing_entries: 915
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-23 08:24:13.221047
+------------------------------------------------------
+Started: 2024-07-23 10:18:31.450856
+Existing_entries: 915
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 570
+Summarized using GPT-3.5-turbo
+Append: [看完这篇后，我果断断开了公司wifi......](https://mp.weixin.qq.com/s/9WveEn6qoOKMVTDSbYXfoA)
+Token length: 1733
+Summarized using GPT-3.5-turbo
+Append: [火上热搜！“不建议这样设计，因为我没有！”](https://mp.weixin.qq.com/s/rIhfdRskj4jtjoxBT638KA)
+Token length: 1699
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都发布暴雨黄色预警！](https://mp.weixin.qq.com/s/tql2x2FNY4w-lI0b49EfjA)
+Token length: 3736
+Summarized using GPT-3.5-turbo
+Append: [妈湾跨海通道盾构隧道双向贯通](https://mp.weixin.qq.com/s/zqmlcnBx8xsYgC6PSdis4w)
+Token length: 1680
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都发布暴雨黄色预警！](https://mp.weixin.qq.com/s/Okult4oIOBYnFRYv3VBCUQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240723101920939185708K1LgpcAx)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [别吵了！“90后得65岁以后退休”？事实是......](https://mp.weixin.qq.com/s/PAq68vSCWIGakk_rtfaBww)
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [今晚9点截止，抓紧填报！](https://mp.weixin.qq.com/s/yUqXukb1H2zdT3OfLaKoyg)
+Token length: 864
+Summarized using GPT-3.5-turbo
+Append: [速领！超15万份福利正在派发🤩](https://mp.weixin.qq.com/s/mgIvtRCnEhacb951XGDXYA)
+Token length: 479
+Summarized using GPT-3.5-turbo
+Append: [锦江游船、川西竹海景区最新公告！](https://mp.weixin.qq.com/s/GCl_7oEWPn2squGw8mBzIg)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [“sen”客，请点开→](https://mp.weixin.qq.com/s/bau6NeGX05lErlWbW9L4CQ)
+Token length: 2902
+Summarized using GPT-3.5-turbo
+Append: [“蛇口排名第1的店，盛夏美食攻略来了”](https://mp.weixin.qq.com/s/MprI9-f6qU6Kua2fUCA9Kw)
+Token length: 30
+Summarized using GPT-3.5-turbo
+Append: [2024「华夏非遗文化季」· 全公益免费呈现！](https://mp.weixin.qq.com/s/L7-K8_5Cl6ooT5xaapgM8A)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [欢乐海岸13年，海洋小镇开了](https://mp.weixin.qq.com/s/q1bX-xQ6MDdyjsqMT9qmJg)
+Token length: 1491
+Summarized using GPT-3.5-turbo
+Append: [7月热销「榴莲蛋糕」TOP9，5折起吃](https://mp.weixin.qq.com/s/cuZTy94fXzrLYh_ZP1vM6g)
+Token length: 1143
+Summarized using GPT-3.5-turbo
+Append: [山姆必吃！打工人一周早餐必备](https://mp.weixin.qq.com/s/ZnoiI4NRiu3RdV8VlS9t_A)
+Token length: 40
+Summarized using GPT-3.5-turbo
+Append: [视频 | 深圳133个场地取消预约制](https://mp.weixin.qq.com/s/djeqh-ED1lIFGmkOaC_Dow)
+Token length: 1928
+Summarized using GPT-3.5-turbo
+Append: [送福利！这个暑假，在兴隆湖畔来一场研学吧！](https://mp.weixin.qq.com/s/Xh8wEbPsQXg7vg48Xs-y6w)
+Token length: 1271
+Summarized using GPT-3.5-turbo
+Append: [进入高发季！一家俩娃同时确诊，家长：刚开始没往那方面想……](https://mp.weixin.qq.com/s/aI8I3ryOFKJQD1Ew04EqmA)
+Token length: 4120
+Summarized using GPT-3.5-turbo
+Append: [64名！四川天府新区最新招聘！](https://mp.weixin.qq.com/s/AQm7f9fHtzgftMJo7TpnFw)
+Token length: 836
+Summarized using GPT-3.5-turbo
+Append: [三星堆又有重大发现！](https://mp.weixin.qq.com/s/1sbPv59t4fMCTKMPJg2BSQ)
+Token length: 1043
+Summarized using GPT-3.5-turbo
+Append: [深圳首条海底隧道进度条刷新！还有春风隧道、深汕西高速……](https://mp.weixin.qq.com/s/GUAcO0mRuwqV2hghTz_DJQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024072310202934474562476rvArtA)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [何为“新型研发机构”？有一个答案叫“四不像”](https://mp.weixin.qq.com/s/r82sTcVPaPoE5ri2Lx8-oQ)
+Token length: 3491
+Summarized using GPT-3.5-turbo
+Append: [最新政策！国家出手！预防中小学生超重肥胖→](https://mp.weixin.qq.com/s/R2dae6GNOHrOy-ippgzFfA)
+Token length: 1837
+Summarized using GPT-3.5-turbo
+Append: [加速崛起！蓉北商圈这样打造→](https://mp.weixin.qq.com/s/BxntJabiHU76RI2B_yMSJw)
+Token length: 787
+Summarized using GPT-3.5-turbo
+Append: [深圳首座超大型医疗综合体要来啦！](https://mp.weixin.qq.com/s/OUpTdpI1ZbLuMtemF4rfzQ)
+Token length: 618
+Summarized using GPT-3.5-turbo
+Append: [800万元消费券！即将开抢🤩](https://mp.weixin.qq.com/s/hNC4QxgDb0y1hQwx_gMJQQ)
+Token length: 799
+Summarized using GPT-3.5-turbo
+Append: [三星堆又有重大发现！](https://mp.weixin.qq.com/s/cx61WAgsoX-dxeycpn5MWw)
+Token length: 1383
+Summarized using GPT-3.5-turbo
+Append: [深圳工业“身材健美”“浑身是劲”](https://mp.weixin.qq.com/s/QGlU88pnFulfIonabRPfXg)
+Token length: 1199
+Summarized using GPT-3.5-turbo
+Append: [90后无论男女都得65岁以后退休？媒体求证：网友推估，无官方信源](https://mp.weixin.qq.com/s/H08hI80dQSuKC5eRrTmK6w)
+Token length: 1553
+Summarized using GPT-3.5-turbo
+Append: [成都，88所一级园！有你家门口的吗？](https://mp.weixin.qq.com/s/vDn7nJ-dgTvYbJJVoYsDOw)
+append_entries: 30
+Finish: 2024-07-23 10:21:02.284937
