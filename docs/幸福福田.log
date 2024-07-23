@@ -3375,3 +3375,9 @@ Summarized using GPT-3.5-turbo
 Append: [销量大涨！深圳新晋“水果顶流”是它？](https://mp.weixin.qq.com/s/ZqI667dHpqUGlQ_jH6fT9Q)
 append_entries: 8
 Finish: 2024-07-23 10:22:01.607375
+------------------------------------------------------
+Started: 2024-07-23 12:35:09.449185
+Existing_entries: 217
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+Finish: 2024-07-23 12:35:11.462608

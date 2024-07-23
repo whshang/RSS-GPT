@@ -5287,3 +5287,9 @@ Summarized using GPT-3.5-turbo
 Append: [成都，88所一级园！有你家门口的吗？](https://mp.weixin.qq.com/s/vDn7nJ-dgTvYbJJVoYsDOw)
 append_entries: 30
 Finish: 2024-07-23 10:21:02.284937
+------------------------------------------------------
+Started: 2024-07-23 12:34:49.981899
+Existing_entries: 945
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-23 12:34:53.272527
