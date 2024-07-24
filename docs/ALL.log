@@ -5517,3 +5517,9 @@ Summarized using GPT-3.5-turbo
 Append: [成都启动防汛四级应急响应](https://mp.weixin.qq.com/s/yW5bmfxvUbgNd6qt6Hgyaw)
 append_entries: 30
 Finish: 2024-07-24 10:22:25.304394
+------------------------------------------------------
+Started: 2024-07-24 12:34:04.185135
+Existing_entries: 997
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-24 12:34:06.828101
