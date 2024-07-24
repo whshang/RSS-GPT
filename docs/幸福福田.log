@@ -3453,3 +3453,33 @@ Existing_entries: 221
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-24 08:22:23.503533
+------------------------------------------------------
+Started: 2024-07-24 10:23:16.338256
+Existing_entries: 221
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 8264
+Summarized using GPT-3.5-turbo
+Append: [粤B大军涌入中山？中山人：好好好，那我去深圳了](https://mp.weixin.qq.com/s/T-M1pG1pNTUqfZ5775LLxg)
+Token length: 1825
+Summarized using GPT-3.5-turbo
+Append: [2人同时中招！水上乐园回来，脸上长满“小肉粒”......](https://mp.weixin.qq.com/s/9uPVxXsiczp6aphqes70QA)
+Token length: 1781
+Summarized using GPT-3.5-turbo
+Append: [名单曝光！这些食品抽检不合格！涉饮用水、橄榄菜等→](https://mp.weixin.qq.com/s/khmYtAb7tNI1qxQ7gGPKpA)
+Token length: 1076
+Summarized using GPT-3.5-turbo
+Append: [已达16级！“格美”升级为超强台风！深圳近260趟列车停运](https://mp.weixin.qq.com/s/rcr32yAkrVvndOR4q5wkMw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202407241023509546883468yCmhkFX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [再次爆发！今明两天或出现！会有这些影响→](https://mp.weixin.qq.com/s/ERPyBxtZBY2NE36KT9UUCg)
+Token length: 1216
+Summarized using GPT-3.5-turbo
+Append: [中毒后无特效药！爱“嗦粉”的深圳人注意了](https://mp.weixin.qq.com/s/Lq-TOqhTN5j6S8A946bnXw)
+Token length: 998
+Summarized using GPT-3.5-turbo
+Append: [台风“格美”升级！25日广铁部分列车停运](https://mp.weixin.qq.com/s/MtBydGmLQvF7HIcv4K26YA)
+Token length: 483
+Summarized using GPT-3.5-turbo
+Append: [即日起至8月10日，免费乘坐！](https://mp.weixin.qq.com/s/aZ5AAtmcNdAKOXCI7aarKg)
+append_entries: 8
+Finish: 2024-07-24 10:24:05.461941
