@@ -5768,3 +5768,9 @@ Summarized using GPT-3.5-turbo
 Append: [学习贯彻三中全会精神，中央两大报用一整版报道深圳！](https://mp.weixin.qq.com/s/q2RnNmcbjSY0HcfVWaaU6A)
 append_entries: 30
 Finish: 2024-07-25 12:36:03.088999
+------------------------------------------------------
+Started: 2024-07-25 14:16:29.099293
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-25 14:16:32.702526
