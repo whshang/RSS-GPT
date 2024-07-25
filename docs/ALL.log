@@ -5672,3 +5672,99 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-25 12:34:25.242221
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 272
+Summarized using GPT-3.5-turbo
+Append: [定了！今晚调价！](https://mp.weixin.qq.com/s/KyF5tFZXfF8lgxRKouioVQ)
+Token length: 384
+Summarized using GPT-3.5-turbo
+Append: [到苗啦！早接种、早预防，我中心流感疫苗已到苗~](https://mp.weixin.qq.com/s/4ig-11Cs7io4KZl5KvIV4A)
+Token length: 1950
+Summarized using GPT-3.5-turbo
+Append: [就在明晚！即将启幕！持续至7月31日](https://mp.weixin.qq.com/s/bAG8z37VU5kkYYs7nsanpg)
+Token length: 1368
+Summarized using GPT-3.5-turbo
+Append: [烧水喝VS买桶装水喝，哪个更健康？结果让人......](https://mp.weixin.qq.com/s/vHXTcghEjoBWvfcfAiGOgg)
+Token length: 1711
+Summarized using GPT-3.5-turbo
+Append: [世界肝炎日丨消除肝炎，积极行动](https://mp.weixin.qq.com/s/CAzN79JTQO-gB0HScQi19w)
+Token length: 485
+Summarized using GPT-3.5-turbo
+Append: [倒！计！时！顶流天团出战！](https://mp.weixin.qq.com/s/0Lq9TySXFntU_dp9e3tYGw)
+Token length: 2689
+Summarized using GPT-3.5-turbo
+Append: [热҈热҈热҈！今年首个高温橙色预警信号生效中！](https://mp.weixin.qq.com/s/4b3INsi3-3SfF6g7yfE4mw)
+Token length: 2092
+Summarized using GPT-3.5-turbo
+Append: [飙到73℃！重要提醒：不要放！不要放！](https://mp.weixin.qq.com/s/fbrZ53lfve7JDbcBHjrtyQ)
+Token length: 3401
+Summarized using GPT-3.5-turbo
+Append: [广东“百千万”  深圳这么干！](https://mp.weixin.qq.com/s/tXYebg6JWopgXaIdmpIcrg)
+Token length: 9844
+Summarized using GPT-3.5-turbo
+Append: [权威发布｜深圳全力实施“百县千镇万村高质量发展工程”相关情况，请看发布会实录](https://mp.weixin.qq.com/s/XMRln4xRvT9A7jYO5dCMXg)
+Token length: 1429
+Summarized using GPT-3.5-turbo
+Append: [飙到73℃！不要放！不要放！不要放！](https://mp.weixin.qq.com/s/ncePNA0aTiOm2tb5AbGTJg)
+Token length: 1081
+Summarized using GPT-3.5-turbo
+Append: [西岭雪山、街子古镇等景区最新公告！](https://mp.weixin.qq.com/s/ylIrqOBepRDsp80TSujWsg)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [深圳，秒变清凉！🍦](https://mp.weixin.qq.com/s/NUf9ebjqC1TltHa3U6N__Q)
+Token length: 1072
+Summarized using GPT-3.5-turbo
+Append: [灵活就业人员社保费申报缴纳操作指引来了！快码住→](https://mp.weixin.qq.com/s/G0FpzjDCfCi-x9tsnqXNjg)
+Token length: 542
+Summarized using GPT-3.5-turbo
+Append: [办事越来越方便！天隆广电进驻龙岗区政务服务中心啦！](https://mp.weixin.qq.com/s/8cBgU-9n2d_aEbuj2a2QDw)
+Token length: 773
+Summarized using GPT-3.5-turbo
+Append: [好消息！成华这家医院开通工伤保险就医服务](https://mp.weixin.qq.com/s/PMo1KzKEOo3EQkNcwXk6OA)
+Token length: 1361
+Summarized using GPT-3.5-turbo
+Append: [事关公积金！这些人可自主选择缴存比例](https://mp.weixin.qq.com/s/uTThZo9Mv1M_5UWZlijtmw)
+Token length: 3786
+Summarized using GPT-3.5-turbo
+Append: [一次性奖励100万！市工信局组织开展第二批深圳市制造业单项冠军企业遴选工作](https://mp.weixin.qq.com/s/4pD0om2QuBk5EdiLemCGsg)
+Token length: 1504
+Summarized using GPT-3.5-turbo
+Append: [租金不高于市场价的90%！深圳拟出保租房新规](https://mp.weixin.qq.com/s/uMLbVHAiciDO9Rpzq-YVsg)
+Token length: 2612
+Summarized using GPT-3.5-turbo
+Append: [Excellent！“福田好声音”出海巡演！一开口惊艳全场](https://mp.weixin.qq.com/s/psXsJXPi796bYYnDXUKjhw)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [四川最新人事任免](https://mp.weixin.qq.com/s/lkcSRM9_wN7pqYSfvmXzDA)
+Token length: 1455
+Summarized using GPT-3.5-turbo
+Append: [夏天要吃的「冰淇淋蛋糕」，5折起吃](https://mp.weixin.qq.com/s/R6aEOi3yyfVsG9lQEuoHYQ)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [巨型「唐老鸭」来了！唐老鸭90周年主题活动，来深圳了](https://mp.weixin.qq.com/s/nlHmAmpIAiA_Y6doq54p2Q)
+Token length: 1190
+Summarized using GPT-3.5-turbo
+Append: [俄罗斯芭蕾舞剧「天鹅湖」· 演绎百年浪漫经典！](https://mp.weixin.qq.com/s/ot9PFW_Hwp6kFETEsSgi8w)
+Token length: 1371
+Summarized using GPT-3.5-turbo
+Append: [永辉超市必买好物！自用回购攻略](https://mp.weixin.qq.com/s/wJu0Ah6VKJ8L29htRMXcwQ)
+Token length: 38
+Summarized using GPT-3.5-turbo
+Append: [视频 | 南山博物馆延展资讯](https://mp.weixin.qq.com/s/BgXAcERWidqAQuFLqhqz4Q)
+Token length: 683
+Summarized using GPT-3.5-turbo
+Append: [就在今晚！来新华公园听音乐会〰](https://mp.weixin.qq.com/s/IO6v8oM2KQrjTV6s66taXw)
+Token length: 3089
+Summarized using GPT-3.5-turbo
+Append: [出行注意！成都多个航班取消、多趟列车停运！](https://mp.weixin.qq.com/s/mHSuL_T6J3xOOII9q5Yy4w)
+Token length: 1071
+Summarized using GPT-3.5-turbo
+Append: [不敢乱喂了！暂无疫苗！警惕这个隐形“杀手”→](https://mp.weixin.qq.com/s/f5t9nH3HViS3jJmf3slDQw)
+Token length: 7381
+Summarized using GPT-3.5-turbo
+Append: [学习贯彻三中全会精神，中央两大报用一整版报道深圳！](https://mp.weixin.qq.com/s/q2RnNmcbjSY0HcfVWaaU6A)
+append_entries: 30
+Finish: 2024-07-25 12:36:03.088999
