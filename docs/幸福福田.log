@@ -3685,3 +3685,33 @@ Existing_entries: 249
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-26 08:22:05.684415
+------------------------------------------------------
+Started: 2024-07-26 10:22:23.857728
+Existing_entries: 249
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [雷雨+阵风8级将至！刚刚，深圳挂分区黄色预警！](https://mp.weixin.qq.com/s/0e_Kfwq4p8HzJ3_iqyPi1A)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [天气预报是不是不敢报40℃？](https://mp.weixin.qq.com/s/VCA_wD1HvAj2VCSWTnWsAQ)
+Token length: 5426
+Summarized using GPT-3.5-turbo
+Append: [今晚截止报名！这场“论美”大会，即将开始→](https://mp.weixin.qq.com/s/FGTyKiiv7-CrH0v37ezNFQ)
+Token length: 2543
+Summarized using GPT-3.5-turbo
+Append: [走过40年，南园更胜从前…… | 我们的街“道”](https://mp.weixin.qq.com/s/g4OgFaNqlj8ZD8gY_j3aDA)
+Token length: 2665
+Summarized using GPT-3.5-turbo
+Append: [退租时房东找各种理由不退押金？法院这样判了](https://mp.weixin.qq.com/s/7o1W0CbOJYPp881GbnFRUw)
+Token length: 2346
+Summarized using GPT-3.5-turbo
+Append: [大胆预测！福田这些地方将成为暑假遛娃“天花板”](https://mp.weixin.qq.com/s/sRtK1qfbVgDzRHU46MZjHA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240726102258134436595mVXCgtlo)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [免跑腿，免排队！广东公安推出暑期办证四项便民服务](https://mp.weixin.qq.com/s/ItGJ5sI8kdQQEuwQvyqALw)
+Token length: 409
+Summarized using GPT-3.5-turbo
+Append: [上班注意！分区雷电黄色预警仍生效！深圳网友拍下昨夜电闪雷鸣盛况](https://mp.weixin.qq.com/s/ldbbzi0mNGabYCAU0WSkFg)
+append_entries: 8
+Finish: 2024-07-26 10:23:08.394535
