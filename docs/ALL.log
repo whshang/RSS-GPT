@@ -5989,3 +5989,11 @@ Summarized using GPT-3.5-turbo
 Append: [重大利好！国务院同意！提高→](https://mp.weixin.qq.com/s/fQ4VmNvKVMFB5nxhyCTsbA)
 append_entries: 30
 Finish: 2024-07-26 10:22:04.615949
+------------------------------------------------------
+Started: 2024-07-26 12:33:32.283833
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
