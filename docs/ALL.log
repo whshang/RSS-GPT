@@ -5800,3 +5800,72 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-07-26 01:18:18.306157
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 537
+Summarized using GPT-3.5-turbo
+Append: [深圳分区暴雨橙色预警信号生效中！全市进入暴雨防御状态](https://mp.weixin.qq.com/s/6tbHuz8-T74q-AU8eL-PhA)
+Token length: 573
+Summarized using GPT-3.5-turbo
+Append: [预警升级！分区暴雨红色预警信号生效中！](https://mp.weixin.qq.com/s/KGQjOT_rmpVkJ4Um-RdERA)
+Token length: 432
+Summarized using GPT-3.5-turbo
+Append: [深圳分区暴雨橙色预警信号生效中！](https://mp.weixin.qq.com/s/REmBcmfIUIm4wj4T_gaexQ)
+Token length: 2484
+Summarized using GPT-3.5-turbo
+Append: [坐标市中心！这哪里是菜市场，这是美食江湖！](https://mp.weixin.qq.com/s/R23eHXr9rKwAcL6p6Vz0uA)
+Token length: 2309
+Summarized using GPT-3.5-turbo
+Append: [凌晨4点不睡觉，深圳人在玩一种很新的浪漫~🤔](https://mp.weixin.qq.com/s/oCkat0n_dkqTRho08NSdew)
+Token length: 2010
+Summarized using GPT-3.5-turbo
+Append: [抢票 | 舞蹈诗剧《九歌》](https://mp.weixin.qq.com/s/ODE9dT5jAnNpsBp8_o_F3Q)
+Token length: 3547
+Summarized using GPT-3.5-turbo
+Append: [成都大调研丨一个社区的共治实验：当志愿服务能兑换“消费券”](https://mp.weixin.qq.com/s/Eh3TA9d56YhdyLaCTsWDRw)
+Token length: 2353
+Summarized using GPT-3.5-turbo
+Append: [最新！成都探索全国较高容亏尺度](https://mp.weixin.qq.com/s/VVgAu2zlvZJwK8W4WtdKGQ)
+Token length: 7000
+Summarized using GPT-3.5-turbo
+Append: [成都高新区、新津区公开招聘！](https://mp.weixin.qq.com/s/LaMZZen_RLo1-6goy-kCdA)
+Token length: 647
+Summarized using GPT-3.5-turbo
+Append: [恢复开放！成都多个景区最新通告](https://mp.weixin.qq.com/s/-fHHLWCRhC1jgIMNRiG1Dg)
+Token length: 1459
+Summarized using GPT-3.5-turbo
+Append: [100%签约！最新现场施工图！福田最大棚改项目进展→](https://mp.weixin.qq.com/s/kYxItp7eZLnP2YsuGVcHrg)
+Token length: 809
+Summarized using GPT-3.5-turbo
+Append: [福田区住房和建设局发布最新公告](https://mp.weixin.qq.com/s/yzek7Z7WWPRWk5j7vptapw)
+Token length: 831
+Summarized using GPT-3.5-turbo
+Append: [升至34℃！又要热起来了](https://mp.weixin.qq.com/s/rLyo0b6cGhGnlKFpYv7MVQ)
+Token length: 1710
+Summarized using GPT-3.5-turbo
+Append: [四川印发紧急通知！](https://mp.weixin.qq.com/s/Rxf3RxfFc2aIAC2BTnQZhA)
+Token length: 1272
+Summarized using GPT-3.5-turbo
+Append: [暑假实践新选择！“青春大讲堂”思政大实践活动征集启动啦！](https://mp.weixin.qq.com/s/WykXqwTwOqD-SCQjWdu6yw)
+Token length: 943
+Summarized using GPT-3.5-turbo
+Append: [“Wow~Amazing！”](https://mp.weixin.qq.com/s/eJ1lwBeYxQoE36fAcKtLiQ)
+Token length: 1640
+Summarized using GPT-3.5-turbo
+Append: [广东“百千万” ，福田这么干！](https://mp.weixin.qq.com/s/uTgq-89DC9jGDhp4spnhCQ)
+Token length: 1266
+Summarized using GPT-3.5-turbo
+Append: [昨天，刷爆朋友圈的不止“世纪”晚霞，还有→](https://mp.weixin.qq.com/s/azF7MM90wV7baSobfdMEYg)
+Token length: 451
+Summarized using GPT-3.5-turbo
+Append: [这档直播节目，明天正式回归！](https://mp.weixin.qq.com/s/sa8Qtnh1946LKhyWmz5h_Q)
+Token length: 1625
+Summarized using GPT-3.5-turbo
+Append: [最新！“格美”今晚二登，深圳95班车次停运](https://mp.weixin.qq.com/s/sDNH9Ub3jozKsuUDichaug)
+Token length: 784
+Summarized using GPT-3.5-turbo
+Append: [首次！动车开进黄龙九寨站！](https://mp.weixin.qq.com/s/VnR-F_XNLnehaLQIFgRYWw)
+append_entries: 21
+Finish: 2024-07-26 01:19:06.749709
