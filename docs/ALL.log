@@ -6332,3 +6332,9 @@ Summarized using GPT-4o
 Append: [质量不合格！涉多个知名品牌！深圳人快自查→](https://mp.weixin.qq.com/s/zszpYEnnUxuWrrs22BVnIw)
 append_entries: 17
 Finish: 2024-07-27 22:16:52.022557
+------------------------------------------------------
+Started: 2024-07-28 01:24:42.457618
+Existing_entries: 1017
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-28 01:24:45.910844
