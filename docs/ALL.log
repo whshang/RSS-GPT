@@ -6362,3 +6362,96 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-28 08:20:10.931523
+------------------------------------------------------
+Started: 2024-07-28 10:17:32.905936
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 673
+Summarized using GPT-3.5-turbo
+Append: [老旧小区加装电梯，可提取公积金！深圳发布最新指引](https://mp.weixin.qq.com/s/f25w7ykg47IIR0dz2I-rGQ)
+Token length: 1529
+Summarized using GPT-3.5-turbo
+Append: [被 成 都 硬 控 了！](https://mp.weixin.qq.com/s/ww9rH2kP163qANdy9Vv1Lw)
+Token length: 3347
+Summarized using GPT-3.5-turbo
+Append: [约148万人次线上观看！这场大会如何论“美”？](https://mp.weixin.qq.com/s/LDMLT1liCj96ODvx5rjCUA)
+Token length: 3154
+Summarized using GPT-3.5-turbo
+Append: [从货运东站到成都东站，你有哪些记忆？](https://mp.weixin.qq.com/s/DEy8r_4HAAWSX9hJqs1zdw)
+Token length: 986
+Summarized using GPT-3.5-turbo
+Append: [紧急提醒！有风险，慎用！](https://mp.weixin.qq.com/s/3dEL7nSNx3cz8BsckakgSg)
+Token length: 1568
+Summarized using GPT-3.5-turbo
+Append: [一周接诊1300多人！疾控紧急提醒：正处高发期→](https://mp.weixin.qq.com/s/OJG8tABJuWWW6aM4IN7V1Q)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202407281018154757895208vjUMqbQ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“一分钟就抢完，真的很夸张”](https://mp.weixin.qq.com/s/44Gi50-4BzQsD67j5aS5mg)
+Token length: 1327
+Summarized using GPT-3.5-turbo
+Append: [5折团券！深圳商场近期优惠](https://mp.weixin.qq.com/s/M0lO7kAQfk-WMrQzmF4hHA)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [又1家华南首店，来深圳了](https://mp.weixin.qq.com/s/tD6YqFmhFdYTOlUzkwD93w)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [龙岗崛起！你们的新Mall来了](https://mp.weixin.qq.com/s/_GYUNP74U3V_EO9eJS0M1A)
+Token length: 1491
+Summarized using GPT-3.5-turbo
+Append: [7月热销「榴莲蛋糕」TOP9，5折起吃](https://mp.weixin.qq.com/s/sOX4_QAcyTn0mq-Ld_Xorg)
+Token length: 3575
+Summarized using GPT-3.5-turbo
+Append: [深圳近期「展览演出清单」· 精选10场](https://mp.weixin.qq.com/s/kbhlYfJnecxGLnYoH_gPpQ)
+Token length: 1390
+Summarized using GPT-3.5-turbo
+Append: [山姆最值得买的减脂零食！无限回购！](https://mp.weixin.qq.com/s/WlGMA32cUMKO7XMBHLUnPg)
+Token length: 847
+Summarized using GPT-3.5-turbo
+Append: [累计2003321人次！](https://mp.weixin.qq.com/s/-LId9sPwuWCk_oClXt1lyw)
+Token length: 862
+Summarized using GPT-3.5-turbo
+Append: [受台风“格美”影响，深圳一海滩出现大量海鲜](https://mp.weixin.qq.com/s/TP07-ZntFZoqlLqPADJyyw)
+Token length: 961
+Summarized using GPT-3.5-turbo
+Append: [国内首个！在成都完成](https://mp.weixin.qq.com/s/gjVfPo1kkdApY_2-JfwmAg)
+Token length: 1638
+Summarized using GPT-3.5-turbo
+Append: [有啥魔力？社区一半的小朋友都在这儿！🤔](https://mp.weixin.qq.com/s/tFzk3Vfg1fZjYM1zNhRdgA)
+Token length: 436
+Summarized using GPT-3.5-turbo
+Append: [深圳市2024年高中阶段学校第二批录取标准公布](https://mp.weixin.qq.com/s/kTzRBet4VHQsW6L7ZHXcVA)
+Token length: 429
+Summarized using GPT-3.5-turbo
+Append: [深圳中考第二批录取分数线公布！](https://mp.weixin.qq.com/s/MbkhynjzOjrlOaw4uebm3A)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [重要提醒！今天16点截止！](https://mp.weixin.qq.com/s/KORH1U18bNM_oSFFLuj6XQ)
+Token length: 916
+Summarized using GPT-3.5-turbo
+Append: [刚刚！分区地质灾害橙色预警生效！深圳连发5预警！](https://mp.weixin.qq.com/s/UuWFJpBXou1SSCW5OuoxuQ)
+Token length: 1217
+Summarized using GPT-3.5-turbo
+Append: [社保卡最新变化！四川拟立法明确→](https://mp.weixin.qq.com/s/u_UNGrx_fNMo_0lw0RCILw)
+Token length: 1603
+Summarized using GPT-3.5-turbo
+Append: [淘宝，突然调整！](https://mp.weixin.qq.com/s/9rrz0WpcRyc1n7TVAsE-lA)
+Token length: 725
+Summarized using GPT-3.5-turbo
+Append: [深圳分区暴雨橙色预警信号生效中！](https://mp.weixin.qq.com/s/obw2le7qzifNexL2gOlAYQ)
+Token length: 1730
+Summarized using GPT-3.5-turbo
+Append: [巴黎奥运会璀璨启幕，“坂田智造”点亮塞纳河畔！](https://mp.weixin.qq.com/s/l5ZtHvry5JkdUOIEVUtQ9w)
+Token length: 2128
+Summarized using GPT-3.5-turbo
+Append: [电梯内瞬间爆燃！事主26天后去世！销售方赔偿101万→](https://mp.weixin.qq.com/s/_oJCzT5wVWD7q-znN8HkhA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240728101918323419572xQt26kq6)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“成都造”亮相巴黎街头，太！硬！核！](https://mp.weixin.qq.com/s/C8f3EUgECCGXfrRFgPFCdw)
+Token length: 1683
+Summarized using GPT-3.5-turbo
+Append: [吃了一根冰棒险成酒驾！交警提醒→](https://mp.weixin.qq.com/s/EnpG6Iw59QC177_fw1kDeQ)
+Token length: 676
+Summarized using GPT-3.5-turbo
+Append: [深圳外卖买药可刷医保支付！](https://mp.weixin.qq.com/s/V6m7NchosDEyTokejTDlYg)
+append_entries: 29
+Finish: 2024-07-28 10:19:30.084634
