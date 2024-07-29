@@ -6653,3 +6653,9 @@ Summarized using GPT-3.5-turbo
 Append: [深圳重大项目建设顺利推进！](https://mp.weixin.qq.com/s/LMUId2EZjLZrbefGhA8SFw)
 append_entries: 27
 Finish: 2024-07-29 10:21:43.914602
+------------------------------------------------------
+Started: 2024-07-29 12:35:14.998542
+Existing_entries: 1027
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-29 12:35:18.360844
