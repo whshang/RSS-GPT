@@ -6518,3 +6518,9 @@ Summarized using GPT-3.5-turbo
 Append: [广东又一地刮龙卷风？“格美”停编！最新停运消息→](https://mp.weixin.qq.com/s/mIe3th8UWO2tfSU-CCFNew)
 append_entries: 9
 Finish: 2024-07-28 22:17:33.108791
+------------------------------------------------------
+Started: 2024-07-29 01:21:01.550455
+Existing_entries: 1009
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-29 01:21:05.093271
