@@ -4002,3 +4002,36 @@ Existing_entries: 282
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-29 08:23:55.043951
+------------------------------------------------------
+Started: 2024-07-29 10:22:08.169731
+Existing_entries: 282
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1432
+Summarized using GPT-3.5-turbo
+Append: [雨天刹不住！深圳一小车飞速撞向信号灯！交警提醒→](https://mp.weixin.qq.com/s/HfDp302DDtIR6kdrvcWdlQ)
+Token length: 1147
+Summarized using GPT-3.5-turbo
+Append: [800万元消费补贴券，本周三晚开抢！领取入口→](https://mp.weixin.qq.com/s/aGPA608Es83Gu-T6RSiwUQ)
+Token length: 361
+Summarized using GPT-3.5-turbo
+Append: [刚刚，深圳挂分区暴雨黄色预警！全市进入暴雨戒备状态→](https://mp.weixin.qq.com/s/OH0jXlIYvQTVFnbNvfgF1A)
+Token length: 1540
+Summarized using GPT-3.5-turbo
+Append: [替大家问过了，8月的深圳是真的好玩🤪](https://mp.weixin.qq.com/s/f5OyXdYome8N25iVfdzV_w)
+Token length: 998
+Summarized using GPT-3.5-turbo
+Append: [福田姑娘王欣瑜，喜迎奥运“开门红”！](https://mp.weixin.qq.com/s/1_2kzoPDqyCQfjjHqqAqDA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240729102244673533534SVRm1lZD)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [最新通报！深圳新增7家泳池水质不合格！](https://mp.weixin.qq.com/s/fK6nQaZEtN7NvHJof_AE8w)
+Token length: 1370
+Summarized using GPT-3.5-turbo
+Append: [退款有变！收服务费！淘宝、天猫、闲鱼宣布→](https://mp.weixin.qq.com/s/h8TWWDwMUKDn0YTzzBx_iA)
+Token length: 1347
+Summarized using GPT-3.5-turbo
+Append: [已致多人面瘫！这款“降温神器”深圳人最近超爱用](https://mp.weixin.qq.com/s/xPBXzNM5oK1ryKlfvcMA-w)
+Token length: 3473
+Summarized using GPT-3.5-turbo
+Append: [福田一小区开盘即售罄、新茶饮集体降价、奥运含“深”量超高！ | 湾区福财讯](https://mp.weixin.qq.com/s/KNlI37Y1Z8hqxeLawUNA2w)
+append_entries: 9
+Finish: 2024-07-29 10:22:58.245944
