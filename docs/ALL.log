@@ -6778,3 +6778,99 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-30 08:22:22.812897
+------------------------------------------------------
+Started: 2024-07-30 10:19:41.811475
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 886
+Summarized using GPT-3.5-turbo
+Append: [深圳⇌江门仅1小时！进度刷新！建成时间→](https://mp.weixin.qq.com/s/NPcYilW4sCKQQRsvgTXsSA)
+Token length: 968
+Summarized using GPT-3.5-turbo
+Append: [“又阳了”？中疾控首次提出……](https://mp.weixin.qq.com/s/PUgfRjQiX1MChREbQvLJIQ)
+Token length: 1767
+Summarized using GPT-3.5-turbo
+Append: [定了！就在本周五晚→](https://mp.weixin.qq.com/s/njvoBrqsN1hUNLFMLvoR0w)
+Token length: 2307
+Summarized using GPT-3.5-turbo
+Append: [全球首次，试验成功！核心技术来自成都](https://mp.weixin.qq.com/s/jFMePJcG6-1UWApkDh2ecw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102028419378734GuBn9HrY)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [注意！这款“神器”已致多人面瘫！最近很多广东人在用](https://mp.weixin.qq.com/s/SeoqrTAGutbmvW4tU2bcZw)
+Token length: 1866
+Summarized using GPT-3.5-turbo
+Append: [深圳争创“五个先锋”   加快打造人工智能先锋城市](https://mp.weixin.qq.com/s/BYwmBQdckjF91-WMIa9XDQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102104799127254UNUEDsBv)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [《深圳市加快打造人工智能先锋城市行动方案》印发](https://mp.weixin.qq.com/s/gMBePt1IzFV0UaJJcK8qiQ)
+Token length: 1154
+Summarized using GPT-3.5-turbo
+Append: [深圳交警：继续限制通行！涉及福田3个片区](https://mp.weixin.qq.com/s/X1Cc6_QB7HbSTBly9tW2FQ)
+Token length: 2280
+Summarized using GPT-3.5-turbo
+Append: [又一总部项目落地！成都新能源商用整车新突破](https://mp.weixin.qq.com/s/uW5J3Gh7AtyJmEhxLE9nzQ)
+Token length: 1450
+Summarized using GPT-3.5-turbo
+Append: [明确了！8月1日起上调](https://mp.weixin.qq.com/s/gNIeNtxVAYvsDxR6opoxag)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102146550381334GQc1br10)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [恢复开行！加开列车！](https://mp.weixin.qq.com/s/IOxpE2QpZNhQa3FD9fxkeg)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [夏日成华，穿上了「薄荷曼波」！](https://mp.weixin.qq.com/s/-fztn55-AxFd2fv9yb5cYg)
+Token length: 1199
+Summarized using GPT-3.5-turbo
+Append: [热搜已爆！今晚8点30分，冲金！](https://mp.weixin.qq.com/s/0Pq8RAPlOOHbD2a7oyvvzA)
+Token length: 1295
+Summarized using GPT-3.5-turbo
+Append: [深圳人坐地铁能存包！公交配防晒霜！网友：羡慕得发疯......](https://mp.weixin.qq.com/s/9m9i73M8PpfSAKNMzkTBZw)
+Token length: 1511
+Summarized using GPT-3.5-turbo
+Append: [7月「热销蛋糕」TOP9，低至5折](https://mp.weixin.qq.com/s/cmW5rlvQvC29xcxSVDeLqA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102225873484294RZNZsrYy)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [又1家咖啡巨头来了，华南首家！](https://mp.weixin.qq.com/s/_v2iYo4wIWiUjAYhBubXKA)
+Token length: 1812
+Summarized using GPT-3.5-turbo
+Append: [今日开售 | 影帝谢君豪主演 香港话剧团《天下第一楼》全国巡演首站 深圳！](https://mp.weixin.qq.com/s/uEZBUtkGi10OlPAAlmki5A)
+Token length: 1888
+Summarized using GPT-3.5-turbo
+Append: [盒马回购清单！巴斯克天花板出现了！](https://mp.weixin.qq.com/s/0YTuZpuGoSZ8EdPh5Mi7Ng)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102303346782448rcfnCTSW)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [视频 | 深圳又有新商场了](https://mp.weixin.qq.com/s/cMCDOi9TNONlsTDtQE6U5Q)
+Token length: 471
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都这条地铁线“短轨通”！](https://mp.weixin.qq.com/s/PUnT9P__aRpk0KFFMrsf5Q)
+Token length: 1415
+Summarized using GPT-3.5-turbo
+Append: [明确了！8月1日起上调](https://mp.weixin.qq.com/s/w71nxVDMEz6QRvOlHXmQfQ)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [别眨眼，福田变了！🤩🤩](https://mp.weixin.qq.com/s/z9jHDOUuA0PUboxjd-k6-w)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [涨价！涨价！涨价！](https://mp.weixin.qq.com/s/qyAnIRxFefjxZ6NbCqzKsA)
+Token length: 679
+Summarized using GPT-3.5-turbo
+Append: [龙岗这个举报平台上线啦！](https://mp.weixin.qq.com/s/D_etaLRP8Uubc4cO8uZfUw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024073010234461800817OBTj3rtI)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [10月1日起实施！《成都东部新区条例》来了](https://mp.weixin.qq.com/s/dxbNDjrFTqJG4k5L3ZP-ow)
+Token length: 931
+Summarized using GPT-3.5-turbo
+Append: [起猛了！剧组来我家门口了？！！](https://mp.weixin.qq.com/s/oeuN-bxsJDk5Ze7qtI4Ujg)
+Token length: 1774
+Summarized using GPT-3.5-turbo
+Append: [深圳，“电竞+”！](https://mp.weixin.qq.com/s/ciNwbsGzYAxRFl7KsDYK3g)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [突发！广东一地地震](https://mp.weixin.qq.com/s/K1h8nQVln9NaE-6rFTDw3w)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102423855690369p72ec1Yy)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [嗨！雪山！雪山！](https://mp.weixin.qq.com/s/qqdxKnhiykkGOKHpHoOCrA)
+Token length: 1536
+Summarized using GPT-3.5-turbo
+Append: [这项数据，同比增长12%！](https://mp.weixin.qq.com/s/u8sp99WifbOq5xW4iRBJnw)
+append_entries: 30
+Finish: 2024-07-30 10:24:34.894425

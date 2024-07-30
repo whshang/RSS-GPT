@@ -4115,3 +4115,30 @@ Existing_entries: 295
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-30 08:22:37.595230
+------------------------------------------------------
+Started: 2024-07-30 10:24:53.403758
+Existing_entries: 295
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 886
+Summarized using GPT-3.5-turbo
+Append: [深圳⇌江门仅1小时！进度刷新！建成时间→](https://mp.weixin.qq.com/s/NPcYilW4sCKQQRsvgTXsSA)
+Token length: 1154
+Summarized using GPT-3.5-turbo
+Append: [深圳交警：继续限制通行！涉及福田3个片区](https://mp.weixin.qq.com/s/X1Cc6_QB7HbSTBly9tW2FQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240730102527186739641gFho4Ju1)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [深圳人坐地铁能存包！公交配防晒霜！网友：羡慕得发疯......](https://mp.weixin.qq.com/s/9m9i73M8PpfSAKNMzkTBZw)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [别眨眼，福田变了！🤩🤩](https://mp.weixin.qq.com/s/z9jHDOUuA0PUboxjd-k6-w)
+Token length: 1709
+Summarized using GPT-3.5-turbo
+Append: [连吃6只浑身起疙瘩！被连夜送医！网友：我也试过](https://mp.weixin.qq.com/s/eeqghaI9A220STyFHxnY5w)
+Token length: 1175
+Summarized using GPT-3.5-turbo
+Append: [73人！福田区公开招聘！部分即将截止→](https://mp.weixin.qq.com/s/UdwLjVhx1pPy20hBTapgFg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202407301026048217773419YzjVm9G)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [咔嚓！有奖征集！这个摄影大赛等你来→](https://mp.weixin.qq.com/s/ur019v5PlgUY-NX4IJWVGg)
+append_entries: 7
+Finish: 2024-07-30 10:26:13.527367
