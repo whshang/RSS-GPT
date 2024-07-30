@@ -6748,3 +6748,9 @@ Summarized using GPT-3.5-turbo
 Append: [专访中美洲议会副议长：希望深圳有更多电车出口到我们国家](https://mp.weixin.qq.com/s/q_oqeNu2zIVIqxQdL5SBTw)
 append_entries: 19
 Finish: 2024-07-29 22:21:34.220523
+------------------------------------------------------
+Started: 2024-07-30 01:19:29.520305
+Existing_entries: 1019
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-07-30 01:19:32.715603
