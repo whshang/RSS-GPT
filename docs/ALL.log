@@ -7145,3 +7145,96 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-07-31 20:18:48.238951
+------------------------------------------------------
+Started: 2024-07-31 22:16:54.794370
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 2156
+Summarized using GPT-3.5-turbo
+Append: [人工智能企业：发展需“软硬兼施”！《湾区面对面》政企协同推动人工智能先锋城市建设](https://mp.weixin.qq.com/s/Pje-uJrHNL6rV9NFAK5Ssg)
+Token length: 835
+Summarized using GPT-3.5-turbo
+Append: [深圳⇌槟城航线开通！还有……](https://mp.weixin.qq.com/s/XQWQbDYu-0RNMd6Ls2Bhcw)
+Token length: 494
+Summarized using GPT-3.5-turbo
+Append: [抢票 | 《爸爸》](https://mp.weixin.qq.com/s/l1zuS74ebr0vTATfaKN5zA)
+Token length: 2520
+Summarized using GPT-3.5-turbo
+Append: [yāo！ruá！cé！这条推送咋个有声音？](https://mp.weixin.qq.com/s/UyFShPLfB7EFmNA7wjVyBQ)
+Token length: 1434
+Summarized using GPT-4o
+Append: [重要提醒！事关电马儿→](https://mp.weixin.qq.com/s/JI_ggy8zHKWjzUjnGcC5iw)
+Token length: 1001
+Summarized using GPT-3.5-turbo
+Append: [赛前1小时被CALL，深圳金花王欣瑜紧急替补上场，还赢了！](https://mp.weixin.qq.com/s/nxmFOkVTV3ueTkH3GFPIyg)
+Token length: 752
+Summarized using GPT-4o
+Append: [“乘客手指头遭了，快点”！](https://mp.weixin.qq.com/s/L2ppw93OT0gg9ZAtvWNH7w)
+Token length: 899
+Summarized using GPT-3.5-turbo
+Append: [赶飞机注意！天府机场上新！](https://mp.weixin.qq.com/s/SHA11iN5ck-rN2KXZzfJJg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731221800563095573RLldNoBr)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [位列第4！成都，海外“名片”耀眼](https://mp.weixin.qq.com/s/fW0JfnVHAcC4LAQ0uu7oVQ)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [这些新规，明起实施！](https://mp.weixin.qq.com/s/RAoe7yZ7t0Fms88EU0466Q)
+Token length: 2058
+Summarized using GPT-3.5-turbo
+Append: [龙岗区成功举办首届退役军人创新创业 “十佳”人物分享会](https://mp.weixin.qq.com/s/zII_0itCFWo-Xp9Y3zRCDw)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [刚刚！川妹子夺金！](https://mp.weixin.qq.com/s/V98Osjw2RRbLVj0pNS99jg)
+Token length: 700
+Summarized using GPT-3.5-turbo
+Append: [孟凡利到比亚迪华大基因走访 深入贯彻落实党的二十届三中全会精神 加快推动高质量发展](https://mp.weixin.qq.com/s/tEb9H7t0iuBtI_MmsOFj5A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731221840963453350AduYt9TI)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [颈椎断离、面临全身瘫痪！这项活动很多深圳人爱玩→](https://mp.weixin.qq.com/s/5oCAbVw9yodaS72kcRaOsg)
+Token length: 505
+Summarized using GPT-3.5-turbo
+Append: [市政道路井盖破损严重，半年无人维修？](https://mp.weixin.qq.com/s/e_bZhvx7nv0jUdkFktAACw)
+Token length: 2328
+Summarized using GPT-3.5-turbo
+Append: [刚刚发布！19个新职业“入编”！](https://mp.weixin.qq.com/s/0FTSbNCC9U-AcmJj1SsriQ)
+Token length: 902
+Summarized using GPT-3.5-turbo
+Append: [差点丧命！密密麻麻全身瘀斑！只因这个常见食材](https://mp.weixin.qq.com/s/sPT7VP16yYUk1Te43Aj9lQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731221921131601705wNO4HNwg)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [覃伟中走访慰问驻深部队](https://mp.weixin.qq.com/s/YYydLTtkecxlqttRuLEPEg)
+Token length: 1893
+Summarized using GPT-3.5-turbo
+Append: [省十四届人大三次会议闭幕 王晓晖主持并讲话 施小琳当选省人民政府省长 田向利出席](https://mp.weixin.qq.com/s/ZkTB0USGYoQVyF3VlmDFAA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731221957159333780zdtIKDOQ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [入选数量，成都第一！](https://mp.weixin.qq.com/s/Bje90L_hxplUVZZ8VJLbiA)
+Token length: 1743
+Summarized using GPT-3.5-turbo
+Append: [深圳一景区太堵？网友建议这些车辆禁入！官方回应→](https://mp.weixin.qq.com/s/BFY_Z5hkroq2KHmpG6XLFg)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [刚刚，热搜爆了！第七金诞生！](https://mp.weixin.qq.com/s/19PoxkJ2j3Sf8EjpYb-F_g)
+Token length: 3105
+Summarized using GPT-3.5-turbo
+Append: [（文末福利）年轻人竞相追逐的“Chill风”生活，福田就有！](https://mp.weixin.qq.com/s/XpD32V-1fM4YX0VA9sA9Bw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731222038266526899tnAtqIvz)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [中共中央政治局召开会议 中共中央总书记习近平主持会议](https://mp.weixin.qq.com/s/AQwkOK6eEul9s68nIDcCAA)
+Token length: 627
+Summarized using GPT-3.5-turbo
+Append: [来评论区说说，你每周实现了多少分钟的运动快充？](https://mp.weixin.qq.com/s/umCBqkoNrKvD3hhjUjBm1g)
+Token length: 1490
+Summarized using GPT-3.5-turbo
+Append: [央媒看成都｜从“四座城”到“一个圈”，成都推动都市圈同城化发展→](https://mp.weixin.qq.com/s/cTJJL0CvhCJvSuiGcIxhYg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731222115861749868SQIqiodX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [颈椎断离、面临全身瘫痪！这项活动有风险，很多深圳人爱玩→](https://mp.weixin.qq.com/s/E24j7TKHJEatUDRpC26QWA)
+Token length: 599
+Summarized using GPT-3.5-turbo
+Append: [奥运赛场突传！中国知名运动员决定退出！](https://mp.weixin.qq.com/s/A6afUNRi1cm9r-KE0kg_5w)
+Token length: 370
+Summarized using GPT-3.5-turbo
+Append: [你已获得一个暑期“减伤buff”，点击领取→](https://mp.weixin.qq.com/s/QBRr_ifiGn4ua22FA6b2UA)
+append_entries: 29
+Finish: 2024-07-31 22:21:27.185412

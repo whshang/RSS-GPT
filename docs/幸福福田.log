@@ -4294,3 +4294,24 @@ Existing_entries: 318
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-31 20:19:05.306282
+------------------------------------------------------
+Started: 2024-07-31 22:22:11.226562
+Existing_entries: 318
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 2328
+Summarized using GPT-3.5-turbo
+Append: [刚刚发布！19个新职业“入编”！](https://mp.weixin.qq.com/s/0FTSbNCC9U-AcmJj1SsriQ)
+Token length: 902
+Summarized using GPT-3.5-turbo
+Append: [差点丧命！密密麻麻全身瘀斑！只因这个常见食材](https://mp.weixin.qq.com/s/sPT7VP16yYUk1Te43Aj9lQ)
+Token length: 1743
+Summarized using GPT-3.5-turbo
+Append: [深圳一景区太堵？网友建议这些车辆禁入！官方回应→](https://mp.weixin.qq.com/s/BFY_Z5hkroq2KHmpG6XLFg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240731222245378638969KLSL4jPH)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [（文末福利）年轻人竞相追逐的“Chill风”生活，福田就有！](https://mp.weixin.qq.com/s/XpD32V-1fM4YX0VA9sA9Bw)
+Token length: 1944
+Summarized using GPT-3.5-turbo
+Append: [颈椎断离、面临全身瘫痪！这项活动有风险，很多深圳人爱玩→](https://mp.weixin.qq.com/s/E24j7TKHJEatUDRpC26QWA)
+append_entries: 5
+Finish: 2024-07-31 22:22:56.577702
