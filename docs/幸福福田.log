@@ -4231,3 +4231,36 @@ Existing_entries: 309
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-07-31 08:21:20.772435
+------------------------------------------------------
+Started: 2024-07-31 10:20:14.466270
+Existing_entries: 309
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1067
+Summarized using GPT-3.5-turbo
+Append: [“5分钟运动快充”火了！网友：更适合职场人体质](https://mp.weixin.qq.com/s/sdq6xBE2tSmogNVufmyxUA)
+Token length: 1735
+Summarized using GPT-3.5-turbo
+Append: [深圳这条地铁线路，计划今年底通车！](https://mp.weixin.qq.com/s/Fg2B65Hc63cgwLFJVM4mLA)
+Token length: 556
+Summarized using GPT-3.5-turbo
+Append: [明天起，全部进境口岸实行！](https://mp.weixin.qq.com/s/65R7NfLNUAn5uDaHkwo3Xg)
+Token length: 1196
+Summarized using GPT-3.5-turbo
+Append: [明早8点通车！鲘门收费站将停用！往返深圳这样绕行→](https://mp.weixin.qq.com/s/GXi_yLNCj6pZGF7LZV8aOg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202407311020596620223803ZiWGmAX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“又阳了”？有抬头趋势！中疾控首次提出......](https://mp.weixin.qq.com/s/IGEAqLpijYEJOZmh0Isvrw)
+Token length: 782
+Summarized using GPT-3.5-turbo
+Append: [照片热传！年轻人扎堆在医院“吊脖子”？网友：这病我也有！](https://mp.weixin.qq.com/s/yEfuzMd5j76dQTQnmAoJpg)
+Token length: 1026
+Summarized using GPT-3.5-turbo
+Append: [致广大官兵、退役军人及优抚对象的“八一”慰问信](https://mp.weixin.qq.com/s/07gv6pi_kWG9bIH6IHTPFA)
+Token length: 419
+Summarized using GPT-3.5-turbo
+Append: [8级阵风+雷电！分区雷雨大风黄色预警生效中](https://mp.weixin.qq.com/s/-6CgCytPwdRnjqoa8-SThg)
+Token length: 1375
+Summarized using GPT-3.5-turbo
+Append: [惊！去演唱会看爱豆，结果屏幕上冒出警察蜀黍？](https://mp.weixin.qq.com/s/bRSW436SFllyflY-0SWI8g)
+append_entries: 9
+Finish: 2024-07-31 10:21:21.711604
