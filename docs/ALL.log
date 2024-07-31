@@ -7113,3 +7113,11 @@ Summarized using GPT-3.5-turbo
 Append: [深圳分区暴雨黄色预警信号生效中！](https://mp.weixin.qq.com/s/Bj64z_1o_jxngapI6qoDPA)
 append_entries: 30
 Finish: 2024-07-31 10:19:49.114053
+------------------------------------------------------
+Started: 2024-07-31 12:35:39.302149
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
