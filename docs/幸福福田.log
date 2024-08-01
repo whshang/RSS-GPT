@@ -4399,3 +4399,27 @@ Existing_entries: 329
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-01 20:20:05.269295
+------------------------------------------------------
+Started: 2024-08-01 22:21:56.077890
+Existing_entries: 329
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 812
+Summarized using GPT-3.5-turbo
+Append: [创历史！福田姑娘深圳首枚奖牌稳了！](https://mp.weixin.qq.com/s/wB6VWND6xnncPv0EB_bTkg)
+Token length: 1102
+Summarized using GPT-3.5-turbo
+Append: [正式揭牌！深圳首个！](https://mp.weixin.qq.com/s/fSi_9mhNVt4ukNC4AhwLjA)
+Token length: 1888
+Summarized using GPT-3.5-turbo
+Append: [这些"假牛奶"很多人还整箱买！越早知道越好~](https://mp.weixin.qq.com/s/Cua-sv2nRbCGNvTJPHJFUg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408012222278144657247f3f1OI8)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [痛心！女童发生意外，竟与这个项目有关](https://mp.weixin.qq.com/s/56WaC3TjMI3rYOOtM8Gwkw)
+Token length: 1216
+Summarized using GPT-3.5-turbo
+Append: [3人同一天被咬！7月14人因此叫120！深圳急救部门提醒→](https://mp.weixin.qq.com/s/4FKzANUOZYND0EwaZjzuTA)
+Token length: 868
+Summarized using GPT-3.5-turbo
+Append: [8月1日起，深圳外卖买药可刷医保！附各平台操作指引→](https://mp.weixin.qq.com/s/tC6d2kZ1GIGsRrHA2UHOqw)
+append_entries: 6
+Finish: 2024-08-01 22:22:40.202070
