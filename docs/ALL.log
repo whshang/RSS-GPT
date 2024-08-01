@@ -7238,3 +7238,9 @@ Summarized using GPT-3.5-turbo
 Append: [你已获得一个暑期“减伤buff”，点击领取→](https://mp.weixin.qq.com/s/QBRr_ifiGn4ua22FA6b2UA)
 append_entries: 29
 Finish: 2024-07-31 22:21:27.185412
+------------------------------------------------------
+Started: 2024-08-01 01:25:39.101227
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-01 01:25:42.291108
