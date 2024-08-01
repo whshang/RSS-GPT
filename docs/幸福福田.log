@@ -4345,3 +4345,27 @@ Existing_entries: 323
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-01 08:23:23.696973
+------------------------------------------------------
+Started: 2024-08-01 10:25:27.192939
+Existing_entries: 323
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 978
+Summarized using GPT-3.5-turbo
+Append: [看奥运激动过度导致旧伤复发？医生紧急提醒→](https://mp.weixin.qq.com/s/DtSE1ZkSZuflm_NquX-zCA)
+Token length: 898
+Summarized using GPT-3.5-turbo
+Append: [高风险！这17款APP被通报，你手机里可能有](https://mp.weixin.qq.com/s/5kcRHlcE_-zQlZqDRVDJzw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240801102556946718218AbiJU3FX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [今起实行！事关深圳公园停车→](https://mp.weixin.qq.com/s/6wcQdwBWSK91sUlaHxUofA)
+Token length: 1082
+Summarized using GPT-3.5-turbo
+Append: [比赛前一个小时"摇人”，结果福田姑娘王欣瑜......](https://mp.weixin.qq.com/s/yDpamgyhUnEkwAQGVLMN6w)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [恶心！炸鸡排20多天不换油、面粉落苍蝇也不扔？](https://mp.weixin.qq.com/s/4RqxIvU-ilEAPJ66T4TN4A)
+Token length: 1080
+Summarized using GPT-3.5-turbo
+Append: [突发！大规模召回超184万辆！](https://mp.weixin.qq.com/s/CJQoAFyAyYVJXM1IgsyNuA)
+append_entries: 6
+Finish: 2024-08-01 10:26:16.677456

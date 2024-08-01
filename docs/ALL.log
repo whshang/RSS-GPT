@@ -7268,3 +7268,99 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-01 08:23:06.209271
+------------------------------------------------------
+Started: 2024-08-01 10:20:05.649136
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 978
+Summarized using GPT-3.5-turbo
+Append: [看奥运激动过度导致旧伤复发？医生紧急提醒→](https://mp.weixin.qq.com/s/DtSE1ZkSZuflm_NquX-zCA)
+Token length: 896
+Summarized using GPT-3.5-turbo
+Append: [成华发布| 袁顺明调研大规模设备更新和消费品以旧换新工作](https://mp.weixin.qq.com/s/UJD1Xyfzjy3ZmwEl_koDPA)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [第10金！拿下！](https://mp.weixin.qq.com/s/auMFzlp-cOp0Lvk53zWb0g)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 20240801102021699570887jYXEJpQW)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [蝶变龙岗·2 | 水官高速：大道如虹 中国之最](https://mp.weixin.qq.com/s/Y0INe25ULpEAfP0pezTO-A)
+Token length: 4556
+Summarized using GPT-3.5-turbo
+Append: [这条地铁线路！全线轨通！](https://mp.weixin.qq.com/s/t1eCthQYG429aF_VDQYr7g)
+Token length: 685
+Summarized using GPT-3.5-turbo
+Append: [都江堰景区最新通告！](https://mp.weixin.qq.com/s/a28cpeHZfatC5w2Qpyy5xw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408011020557796208794IRyFyKE)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [国家认定！新职业+19！](https://mp.weixin.qq.com/s/hbAxtnTPqbeiEs2RfxkoJQ)
+Token length: 1205
+Summarized using GPT-3.5-turbo
+Append: [每年节约800万，靠的是它→](https://mp.weixin.qq.com/s/I2dKUK235vF6UvtBzvSxYA)
+Token length: 898
+Summarized using GPT-3.5-turbo
+Append: [高风险！这17款APP被通报，你手机里可能有](https://mp.weixin.qq.com/s/5kcRHlcE_-zQlZqDRVDJzw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240801102132740041425qZpIlb84)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [降价！降价！降价！](https://mp.weixin.qq.com/s/vezmWB5WPFfMhyecOmMMnQ)
+Token length: 1244
+Summarized using GPT-3.5-turbo
+Append: [大闯关！龙岗这场“花式”活动等你来~](https://mp.weixin.qq.com/s/TBLp02ul8pPKDbZA-krU_w)
+Token length: 2280
+Summarized using GPT-3.5-turbo
+Append: [最新！19个新职业“入编”！](https://mp.weixin.qq.com/s/nq492frpwVbhe_Gui1dAMg)
+Token length: 633
+Summarized using GPT-3.5-turbo
+Append: [官宣！又一“天后”演唱会定档龙岗！](https://mp.weixin.qq.com/s/dg_jutBojNVM2OUydMZg-g)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240801102211497827082iTh5Tft2)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [深圳又一座“超级大站”，高铁+城际+机场+地铁！](https://mp.weixin.qq.com/s/MO86335QR0QFKaNEh5vZ2g)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [“深圳很火的溯溪地，劝你翘班去”](https://mp.weixin.qq.com/s/Rv-NgwVR82I4yvvhUN-xKg)
+Token length: 1196
+Summarized using GPT-3.5-turbo
+Append: [「狮子座」人气蛋糕来啦，低至5折](https://mp.weixin.qq.com/s/yG4sdyPNNR1ZDgojsSltGw)
+Token length: 2468
+Summarized using GPT-3.5-turbo
+Append: [收官倒计时3天 | 原版《剧院魅影》深圳站，不容错过的音乐剧巅峰之作！](https://mp.weixin.qq.com/s/XKK43N-Rnz5Zghi-tN5Evw)
+Summarization failed, append the original article
+error: 'NoneType' object is not subscriptable
+Append: [谁买谁夸！小红书推荐的好物天花板！](https://mp.weixin.qq.com/s/hI9BIznRTLW8YpLwjc3vnw)
+Token length: 38
+Summarized using GPT-3.5-turbo
+Append: [视频 | 南山博物馆大展，正式延展了](https://mp.weixin.qq.com/s/-gzCKIDOaC52n3ZyyRLqrw)
+Token length: 2142
+Summarized using GPT-3.5-turbo
+Append: [今起实行！事关深圳公园停车→](https://mp.weixin.qq.com/s/6wcQdwBWSK91sUlaHxUofA)
+Token length: 783
+Summarized using GPT-3.5-turbo
+Append: [深圳这两个自然保护区范围调整](https://mp.weixin.qq.com/s/Vp-S0uilJ60pCVzWnO-jBQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240801102335963964971h2jyTKyN)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [又一公园上新，就在→](https://mp.weixin.qq.com/s/4c9xdiTPSkoKpWE618Vj0A)
+Token length: 3037
+Summarized using GPT-3.5-turbo
+Append: [今起，延时开放！](https://mp.weixin.qq.com/s/QF45NtnuqIefx5OsHi-R1g)
+Token length: 1082
+Summarized using GPT-3.5-turbo
+Append: [比赛前一个小时"摇人”，结果福田姑娘王欣瑜......](https://mp.weixin.qq.com/s/yDpamgyhUnEkwAQGVLMN6w)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240801102412697543043SzAtPF2r)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [成都再发高温橙色预警信号！](https://mp.weixin.qq.com/s/R8iXwmlNRWjpDMJt-YeouA)
+Token length: 798
+Summarized using GPT-3.5-turbo
+Append: [金牌+1！世界纪录+1！潘展乐霸气回应](https://mp.weixin.qq.com/s/Xl1sdXrESF1cqBpZHQkd5Q)
+Token length: 766
+Summarized using GPT-3.5-turbo
+Append: [成都再发高温橙色预警信号！](https://mp.weixin.qq.com/s/ojNhA2DTc5e8FZTpZDgBYQ)
+Token length: 1667
+Summarized using GPT-3.5-turbo
+Append: [今天！向他们致敬！](https://mp.weixin.qq.com/s/Y2oqVuGsStdxtfGftURa0g)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240801102457360556407IFgH3y96)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [稳定增长！429.06万户！](https://mp.weixin.qq.com/s/zZ4a5hoKnjFLsfx8vtAO0w)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [重磅！2024年普通高校招生本科二批调档线出炉](https://mp.weixin.qq.com/s/GS1DgL5ZjpQJEgV7aAgdag)
+append_entries: 30
+Finish: 2024-08-01 10:25:07.633984
