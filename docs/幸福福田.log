@@ -4369,3 +4369,9 @@ Summarized using GPT-3.5-turbo
 Append: [突发！大规模召回超184万辆！](https://mp.weixin.qq.com/s/CJQoAFyAyYVJXM1IgsyNuA)
 append_entries: 6
 Finish: 2024-08-01 10:26:16.677456
+------------------------------------------------------
+Started: 2024-08-01 12:35:31.461396
+Existing_entries: 329
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+Finish: 2024-08-01 12:35:33.717623
