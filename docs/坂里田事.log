@@ -3451,3 +3451,15 @@ Existing_entries: 93
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-08-02 08:22:28.521815
+------------------------------------------------------
+Started: 2024-08-02 10:22:32.088423
+Existing_entries: 93
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Token length: 3039
+Summarized using GPT-3.5-turbo
+Append: [八月书香飘满夏，坂田图书馆活动清凉上线！](https://mp.weixin.qq.com/s/C9VGtUinSqX9m_byr-Ts2A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240802102300762596350nj50Ts0w)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [滨海假日专线上新！坂田一站直达西涌、坝光海滩](https://mp.weixin.qq.com/s/9GI1Akfyjug7DRMB62NW2w)
+append_entries: 2
+Finish: 2024-08-02 10:23:09.416085

@@ -4453,3 +4453,36 @@ Existing_entries: 335
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-02 08:22:38.710417
+------------------------------------------------------
+Started: 2024-08-02 10:23:17.754558
+Existing_entries: 335
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 615
+Summarized using GPT-3.5-turbo
+Append: [拼手速！新一轮消费券开抢](https://mp.weixin.qq.com/s/t-0W820cZqexPPNU_45I-g)
+Token length: 1221
+Summarized using GPT-3.5-turbo
+Append: [有嘻哈！有美食！就在福田这条街→](https://mp.weixin.qq.com/s/NVtlefFjy7kSivLpOdBOyQ)
+Token length: 1291
+Summarized using GPT-3.5-turbo
+Append: [深圳全市严查！](https://mp.weixin.qq.com/s/SHvXru2fF7spkYuBJwYgcw)
+Token length: 706
+Summarized using GPT-3.5-turbo
+Append: [微信“救命”功能上线！网友：已火速设置！](https://mp.weixin.qq.com/s/FP6aU14V5ROBCuhWSKdX2g)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408021023533829609214RqjOe5D)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [福田招聘会要来啦！时间就在......](https://mp.weixin.qq.com/s/p0r4apgbPUEMHtZSowL4Fg)
+Token length: 599
+Summarized using GPT-3.5-turbo
+Append: [停车扫码缴费要关注公众号？深圳：不惯了！涉65个停车场→](https://mp.weixin.qq.com/s/fhxvyTDPEj_1Ami2LwFPLw)
+Token length: 1252
+Summarized using GPT-3.5-turbo
+Append: [危险！这3种颜色的泳衣，赶紧扔](https://mp.weixin.qq.com/s/b9vVGg6g9UtICFoCYWJubQ)
+Token length: 1521
+Summarized using GPT-3.5-turbo
+Append: [最新预测！8月将有2到3个台风来袭！](https://mp.weixin.qq.com/s/FTgpbPj5w8mY3M3cEO7tgg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408021024335754360158Lmfo9fI)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [提高！放宽！医保有变！](https://mp.weixin.qq.com/s/-p4hwoznmIoLGmfZBlf3LA)
+append_entries: 9
+Finish: 2024-08-02 10:24:42.251295
