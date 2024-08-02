@@ -4516,3 +4516,27 @@ Existing_entries: 344
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-02 20:19:42.169834
+------------------------------------------------------
+Started: 2024-08-02 22:22:55.850918
+Existing_entries: 344
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1111
+Summarized using GPT-3.5-turbo
+Append: [玩这么大？连续3天，福田这个地方将被深圳人挤爆！](https://mp.weixin.qq.com/s/wIETeqyzdvWdPQfpQl1k0A)
+Token length: 2175
+Summarized using GPT-3.5-turbo
+Append: [别管了！这个周末拿着这份攻略出来玩→](https://mp.weixin.qq.com/s/ino_2a0oClHxE_qE3bS9Yg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240802222328443459466MJjAA2ym)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [女孩手臂被卷车轮，惨遭“扭麻花”！这种衣服夏天满大街都是](https://mp.weixin.qq.com/s/Cfic8fUT5Lxfn-2mW_edgg)
+Token length: 1963
+Summarized using GPT-3.5-turbo
+Append: [8月，我在福田这条街可以从月初嗨到月尾！](https://mp.weixin.qq.com/s/L_syovy9K-A2RRX7dpc5Wg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240802222403961413967lbM7PvLC)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [福田“竞走女王”第五次奥运之旅，浪漫又动容！至于下一届，她说......](https://mp.weixin.qq.com/s/ayv1u6KwUL5vYh8KXRS7AA)
+Token length: 4868
+Summarized using GPT-3.5-turbo
+Append: [上半年破1万亿！大湾区流量明星“满月”；苹果实验室即将在深运营 | 湾区福财讯](https://mp.weixin.qq.com/s/wp_FnZDZwFSm_6H0xFHU-w)
+append_entries: 6
+Finish: 2024-08-02 22:24:15.320688
