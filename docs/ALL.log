@@ -7892,3 +7892,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-03 20:17:44.274019
+------------------------------------------------------
+Started: 2024-08-03 22:15:34.198159
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 285
+Summarized using GPT-3.5-turbo
+Append: [创造历史！郑钦文，冠军！](https://mp.weixin.qq.com/s/0TXNN3e58nZjh0DfTAecYQ)
+Token length: 1665
+Summarized using GPT-3.5-turbo
+Append: [百花奖这场论坛干货十足！还有重磅发布→](https://mp.weixin.qq.com/s/0U5u5uyOG0YicKXVSLAPrQ)
+Token length: 1499
+Summarized using GPT-3.5-turbo
+Append: [深圳市福田区与深圳机场集团联手打造低空经济高质量发展高地](https://mp.weixin.qq.com/s/UBCPgVbFEFbIcitcwRn_Og)
+Token length: 2960
+Summarized using GPT-3.5-turbo
+Append: [深圳这些地方，算是把法式浪漫给玩明白了......](https://mp.weixin.qq.com/s/uuloGd7VzJjX2cneIBejmg)
+Token length: 2006
+Summarized using GPT-4o
+Append: [赢了！4:0！今晚凤凰山，来了一群“最可爱的人”](https://mp.weixin.qq.com/s/iw7C6CadeSjLgSQX-jqL5A)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [第14金，陈梦拿下！](https://mp.weixin.qq.com/s/gDKWohOeXlvomvAN34UvKQ)
+Token length: 519
+Summarized using GPT-4o
+Append: [第14金！陈梦蝉联！](https://mp.weixin.qq.com/s/1RsuAI_ozzZNuX0wRL_jXg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240803221630923385770YeN2btgL)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [太暖心了！](https://mp.weixin.qq.com/s/Az7To_rBmARcKgVQnt5w-w)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [重要提醒！事关出行！](https://mp.weixin.qq.com/s/gLZGn20Q6t7oUYLqX874dw)
+Token length: 1898
+Summarized using GPT-3.5-turbo
+Append: [医生提醒：拖鞋短裤易中招，广东人小心......](https://mp.weixin.qq.com/s/alprcck9EGbTNs2WOpgbHQ)
+Token length: 447
+Summarized using GPT-3.5-turbo
+Append: [连发4封！贺信来了！](https://mp.weixin.qq.com/s/hIabj8SEqvT9kwUKXQFiHA)
+Token length: 760
+Summarized using GPT-3.5-turbo
+Append: [降降降！每斤上百元跌到个位数！很多成都人爱吃……](https://mp.weixin.qq.com/s/gJin8RO2RzNsrAzC-rhMqQ)
+Token length: 1035
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都发布暴雨黄色预警信号！](https://mp.weixin.qq.com/s/X0BZBfEMG-0_HubeCtkfSQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240803221715764561982qmssBPGK)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [刚刚，成都发布暴雨黄色预警信号！](https://mp.weixin.qq.com/s/TvbhN3i76rkgCtP4iHWSew)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [广东省体育局贺信来了！](https://mp.weixin.qq.com/s/jO_Ev0heagADiQfK2ZXEYA)
+Token length: 1636
+Summarized using GPT-3.5-turbo
+Append: [发现病例！5名接触者确诊感染！会人传人吗？](https://mp.weixin.qq.com/s/FCiPHbV25rC4mf1Qyq9jIg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240803221753444352895gKqDeruh)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [99.9%的人都不晓得！大有来头!](https://mp.weixin.qq.com/s/1DH4_D09qlgbTLHi4u0Rcg)
+append_entries: 17
+Finish: 2024-08-03 22:18:02.545040
