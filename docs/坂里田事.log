@@ -3529,3 +3529,15 @@ Existing_entries: 95
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-08-03 08:22:32.025154
+------------------------------------------------------
+Started: 2024-08-03 10:22:20.801826
+Existing_entries: 95
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Token length: 3244
+Summarized using GPT-3.5-turbo
+Append: [坂田这位保安大叔，把深圳的公园拍成了一幅画！](https://mp.weixin.qq.com/s/Pp-lJQRg2rb65p0o2_69GQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240803102249589864834JcCsQNhJ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [不合格！53款电动自行车、26款电池停止销售！](https://mp.weixin.qq.com/s/YWDLwRKeH8jV6VeFm8CPNA)
+append_entries: 2
+Finish: 2024-08-03 10:22:58.239718

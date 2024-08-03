@@ -4570,3 +4570,27 @@ Existing_entries: 350
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-03 08:22:42.594410
+------------------------------------------------------
+Started: 2024-08-03 10:23:06.853585
+Existing_entries: 350
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 3014
+Summarized using GPT-3.5-turbo
+Append: [一见钟情！我承认：我爱上梅林了！｜我们的街“道”](https://mp.weixin.qq.com/s/OhaHgnZQX01ux6U4cNEK6g)
+Token length: 1340
+Summarized using GPT-3.5-turbo
+Append: [警惕！这类“苦”瓜千万别吃，已有人中招……](https://mp.weixin.qq.com/s/H-jJD3OnG-j20FpfZ8vluQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240803102339433876965tTX7LH3c)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [又上热搜！“神秘东方力量”再现奥运！广东人：这个我熟！](https://mp.weixin.qq.com/s/eCyIMvITYljgX3CCCCwALQ)
+Token length: 482
+Summarized using GPT-3.5-turbo
+Append: [热҈ 热҈ 热҈ ！全市高温黄色预警信号已生效！](https://mp.weixin.qq.com/s/PRi7i1hBKRA-FCT2RfYEeg)
+Token length: 958
+Summarized using GPT-3.5-turbo
+Append: [蜜雪冰城喝出臭虫？“过了一夜还是活的！”](https://mp.weixin.qq.com/s/wjz_yhxm9_oGDr37QxktLw)
+Token length: 1742
+Summarized using GPT-3.5-turbo
+Append: [一觉醒来！深圳首银被福田姑娘拿下！！！](https://mp.weixin.qq.com/s/vG2Grj2fkHctwZJQl6XUJw)
+append_entries: 6
+Finish: 2024-08-03 10:23:54.157502
