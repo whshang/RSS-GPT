@@ -8075,3 +8075,9 @@ Summarized using GPT-3.5-turbo
 Append: [医保将有大变化！](https://mp.weixin.qq.com/s/kLd7x5vzhg33osmWxckehg)
 append_entries: 30
 Finish: 2024-08-04 10:21:35.853127
+------------------------------------------------------
+Started: 2024-08-04 12:32:14.734339
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-04 12:32:17.992804
