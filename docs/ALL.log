@@ -8105,3 +8105,54 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-04 20:19:06.870972
+------------------------------------------------------
+Started: 2024-08-04 22:17:12.304875
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 704
+Summarized using GPT-3.5-turbo
+Append: [刚刚！百花奖获奖名单出炉](https://mp.weixin.qq.com/s/ys24Wnp8iY1vvriJ68G7lQ)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [包揽金银！祝贺刘洋、邹敬园！](https://mp.weixin.qq.com/s/yd3xbOoYeSdx_AGA1d5WIw)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [最新消息！已致8人遇难、19人失联](https://mp.weixin.qq.com/s/_XqExIlXx4b8rJEOdQguJw)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [第17金！拿下！](https://mp.weixin.qq.com/s/FbLLy2w8B92JzfZCi7CMVQ)
+Token length: 3468
+Summarized using GPT-3.5-turbo
+Append: [百花齐放！项目、大片纷至沓来，成都影视产业上新→](https://mp.weixin.qq.com/s/EZRvXMpxU5Es_1wz6e13aw)
+Token length: 2872
+Summarized using GPT-4o
+Append: [官方点名！这15款App，不要再用了！](https://mp.weixin.qq.com/s/JWHCHNwXUN4iXzctN0ZE-Q)
+Token length: 1093
+Summarized using GPT-3.5-turbo
+Append: [雷雨！暴雨！成都这些地方注意→](https://mp.weixin.qq.com/s/hznwMxH-5RDkpdAQG9k4zQ)
+Token length: 1068
+Summarized using GPT-3.5-turbo
+Append: [雷雨！暴雨！成都这些地方注意→](https://mp.weixin.qq.com/s/Fpmz0CC4rcjJIcMPUS7Gcw)
+Token length: 1637
+Summarized using GPT-4o
+Append: [快“动”起来，你这可是在深圳！](https://mp.weixin.qq.com/s/eiDyZluQVMXRHoZWyD5rJQ)
+Token length: 1013
+Summarized using GPT-4o
+Append: [抢票 | 《你平常都干啥》](https://mp.weixin.qq.com/s/HoJgZQ6M0Z-bdTfiywLbVA)
+Token length: 1620
+Summarized using GPT-3.5-turbo
+Append: [紧急提醒：危险！千万别再去了！](https://mp.weixin.qq.com/s/qb-1kfDeadWHOImxKV7pRA)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 2024080422180798212105vquuDjeN)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [成都一周｜吹响再接再厉冲锋号！区（市）县、部门、国企这周在忙啥？](https://mp.weixin.qq.com/s/F8jrOmBs8d8kA7F1TyAy3g)
+Token length: 435
+Summarized using GPT-3.5-turbo
+Append: [太突然！知名歌手宣布退圈](https://mp.weixin.qq.com/s/wXkF9g_JnWAckEEbr0l7qQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240804221837996565866zWyNU5WD)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [大跳水！曾经的“顶流”低至5元/斤，深圳很多人爱吃](https://mp.weixin.qq.com/s/C0T2SVMGbqR-kPLZOxp1WA)
+Token length: 503
+Summarized using GPT-3.5-turbo
+Append: [139个高温预警！广东一地超40℃！热ྂ热ྂ热ྂ还得持续......](https://mp.weixin.qq.com/s/toUC8KT3_gKRSseFpawSDQ)
+append_entries: 15
+Finish: 2024-08-04 22:18:48.553067
