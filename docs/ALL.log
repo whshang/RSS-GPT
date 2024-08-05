@@ -8312,3 +8312,84 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-05 20:19:05.169879
+------------------------------------------------------
+Started: 2024-08-05 22:17:09.803535
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 762
+Summarized using GPT-3.5-turbo
+Append: [王凤朝赴成都东部新区督导推进成都世运会倒计时一周年活动筹备工作 陈彦夫参加](https://mp.weixin.qq.com/s/DlMLX67MpwyB91OJ7nd57A)
+Token length: 2756
+Summarized using GPT-3.5-turbo
+Append: [福田运动员，欧钰珊！掌声请为她响起......](https://mp.weixin.qq.com/s/7SdpK11nX_Ozhvep9Ci6Gg)
+Token length: 827
+Summarized using GPT-3.5-turbo
+Append: [最高奖金10000元！莲花山草地音乐节的这道“风景”，等你来定！](https://mp.weixin.qq.com/s/L5S7hW0CrC5repE52X2qsw)
+Token length: 1301
+Summarized using GPT-3.5-turbo
+Append: [再提速，更便利！](https://mp.weixin.qq.com/s/mBiWQw0gZU3krCfpqMRBBg)
+Token length: 1167
+Summarized using GPT-4o
+Append: [抢票 | 舞剧《孔子》](https://mp.weixin.qq.com/s/0z1t1ZAJna5NWQfkEZi0mg)
+Token length: 935
+Summarized using GPT-3.5-turbo
+Append: [今天，龙岗下冰雹了？](https://mp.weixin.qq.com/s/UDMhLneNELPIww9x0kySrg)
+Token length: 1641
+Summarized using GPT-4o
+Append: [现在！立刻！马上！回答我凉皮是什么做的！](https://mp.weixin.qq.com/s/WhwTmOvaNwY3mWVfIK-DCw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240805221809164127871eHV6Ucb5)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [2024年成都市人才计划申报启动！](https://mp.weixin.qq.com/s/Y_aUJWw9ZO0tzvQLjvZOgA)
+Token length: 1511
+Summarized using GPT-3.5-turbo
+Append: [“我宣布 ，在成都东站拍到了人生照片！”](https://mp.weixin.qq.com/s/aleH40IMfUoMqUxF-IBnZw)
+Token length: 889
+Summarized using GPT-3.5-turbo
+Append: [危急时刻，他霸气大喊：“你开车大胆一点……”](https://mp.weixin.qq.com/s/iQQlMK_k0hipCCx9f3kvUA)
+Token length: 924
+Summarized using GPT-3.5-turbo
+Append: [最新消息！价格即将调整！时间就在→](https://mp.weixin.qq.com/s/yzA1rpYTFVooF3hJuLyPKA)
+Token length: 1443
+Summarized using GPT-3.5-turbo
+Append: [河套首班深港跨境巴士，发车啦！](https://mp.weixin.qq.com/s/QsAdzW9FyqnZtoHNqi0sIA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408052218588498062182XJ9ocOx)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“花”开二度！这场盛会，为成都带来了什么？](https://mp.weixin.qq.com/s/Ic_H0JBJ8vxRuM9yAHWc5g)
+Token length: 788
+Summarized using GPT-3.5-turbo
+Append: [刷新！88.28万人次！](https://mp.weixin.qq.com/s/Axi2N48IvkNqMurPuMHAmw)
+Token length: 459
+Summarized using GPT-3.5-turbo
+Append: [刚刚，中国知名运动员突然宣布弃赛！](https://mp.weixin.qq.com/s/N0hs1ThnoXTmDJexyByF7A)
+Token length: 441
+Summarized using GPT-3.5-turbo
+Append: [堵堵堵！商贩占道经营，市民有路难行！](https://mp.weixin.qq.com/s/kGQLTo4stO5fOdCLD304xA)
+Token length: 429
+Summarized using GPT-3.5-turbo
+Append: [成都⇌昆明，3小时！这条高铁最新进展→](https://mp.weixin.qq.com/s/Zl392zN93y4I5sDFyEmcSA)
+Token length: 958
+Summarized using GPT-3.5-turbo
+Append: [持续闷热！雷雨+大风在路上了！](https://mp.weixin.qq.com/s/QxKq_FBU-IeJnDy8Q9UysQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240805221947373415013oqCCLrVo)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [卫冕冠军！邹敬园，第21金！](https://mp.weixin.qq.com/s/XjScCHWclaCDyy4jZ5Q0Kg)
+Token length: 1360
+Summarized using GPT-3.5-turbo
+Append: [倒计时100天！请看第二十六届高交会亮点→](https://mp.weixin.qq.com/s/LbKlu7FoUbmCeBk2tUddWQ)
+Token length: 444
+Summarized using GPT-3.5-turbo
+Append: [成都最新人事动态](https://mp.weixin.qq.com/s/6EuFv1GU_04QJyITcGkruQ)
+Token length: 1023
+Summarized using GPT-3.5-turbo
+Append: [紧急送ICU，一男子失禁成植物人！深圳这种天气更要小心......](https://mp.weixin.qq.com/s/tmcBQrDCoAv_UYZRBWKsNg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240805222024338625823yStH4Bfl)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“摇”1对新人！七夕集体婚礼来了！错过等一年→](https://mp.weixin.qq.com/s/Wi6jCa4jYn0rZfwco8S7CQ)
+Token length: 1206
+Summarized using GPT-3.5-turbo
+Append: [永久禁言！彻底凉凉！](https://mp.weixin.qq.com/s/A8Ss5QREGgWmK4SVFvmBEQ)
+Token length: 996
+Summarized using GPT-3.5-turbo
+Append: [@所有人，注意！注意！注意！](https://mp.weixin.qq.com/s/HhEapx-GwrEYf5EZAOe0Sg)
+append_entries: 25
+Finish: 2024-08-05 22:20:37.074033

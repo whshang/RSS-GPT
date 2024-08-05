@@ -4831,3 +4831,27 @@ Existing_entries: 377
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-05 20:19:25.665660
+------------------------------------------------------
+Started: 2024-08-05 22:20:53.122957
+Existing_entries: 377
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 2756
+Summarized using GPT-3.5-turbo
+Append: [福田运动员，欧钰珊！掌声请为她响起......](https://mp.weixin.qq.com/s/7SdpK11nX_Ozhvep9Ci6Gg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240805222120909627155y2Ii5nhL)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [最高奖金10000元！莲花山草地音乐节的这道“风景”，等你来定！](https://mp.weixin.qq.com/s/L5S7hW0CrC5repE52X2qsw)
+Token length: 924
+Summarized using GPT-3.5-turbo
+Append: [最新消息！价格即将调整！时间就在→](https://mp.weixin.qq.com/s/yzA1rpYTFVooF3hJuLyPKA)
+Token length: 1443
+Summarized using GPT-3.5-turbo
+Append: [河套首班深港跨境巴士，发车啦！](https://mp.weixin.qq.com/s/QsAdzW9FyqnZtoHNqi0sIA)
+Token length: 1023
+Summarized using GPT-3.5-turbo
+Append: [紧急送ICU，一男子失禁成植物人！深圳这种天气更要小心......](https://mp.weixin.qq.com/s/tmcBQrDCoAv_UYZRBWKsNg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240805222200656935938fdIyUW0F)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“摇”1对新人！七夕集体婚礼来了！错过等一年→](https://mp.weixin.qq.com/s/Wi6jCa4jYn0rZfwco8S7CQ)
+append_entries: 6
+Finish: 2024-08-05 22:22:09.358397
