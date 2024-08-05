@@ -4768,3 +4768,36 @@ Existing_entries: 368
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-05 08:24:04.752114
+------------------------------------------------------
+Started: 2024-08-05 10:23:50.690253
+Existing_entries: 368
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 807
+Summarized using GPT-3.5-turbo
+Append: [暴雨要来了！刚刚，深圳连发4预警！](https://mp.weixin.qq.com/s/MkbPhBF1vcpXN98R02etzw)
+Token length: 1594
+Summarized using GPT-3.5-turbo
+Append: [头皮发麻！大量黑虫冒出，广东近期频发......出现这种情况必须扔→](https://mp.weixin.qq.com/s/WrR8xR9B-EFSplIIUGp5qA)
+Token length: 1842
+Summarized using GPT-3.5-turbo
+Append: [11岁女孩眼皮缝8针！这个暑期热门项目有风险……](https://mp.weixin.qq.com/s/CsK69hCwx-FCoCNq3RRgSQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024080510242663644575H187bbyq)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [广东一高层住宅起火！危急之下，这个操作让一家四口成功获救](https://mp.weixin.qq.com/s/ECsi0MdYgMh_cXsLK_uQ7w)
+Token length: 1518
+Summarized using GPT-3.5-turbo
+Append: [紧急提醒！“文件传输助手”不能这么用！](https://mp.weixin.qq.com/s/IZ8lLa9ERmBWXE7PQ80VPQ)
+Token length: 399
+Summarized using GPT-3.5-turbo
+Append: [超37℃！深圳高温预警升级为橙色！未来天气→](https://mp.weixin.qq.com/s/EA3eIBGKnRxMFVj2KeXJ4Q)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240805102503989122994qsoj9wFy)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [天上“掉”下来的机会？深圳小花王欣瑜：我用实力接住了！](https://mp.weixin.qq.com/s/IfPWjNg3-JxJ-7JlfFWuSg)
+Token length: 1331
+Summarized using GPT-3.5-turbo
+Append: [最新明确：医保将有大变化！](https://mp.weixin.qq.com/s/B_NuxKZ4zH73LS4fiFzqzg)
+Token length: 1281
+Summarized using GPT-3.5-turbo
+Append: [100万人线上观看！这场艺术盛宴，​ “声”入人心！](https://mp.weixin.qq.com/s/TbosEctEAaX33Sq2Dw3yiw)
+append_entries: 9
+Finish: 2024-08-05 10:25:17.483723
