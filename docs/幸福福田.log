@@ -4951,3 +4951,24 @@ Existing_entries: 393
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-06 20:17:17.323742
+------------------------------------------------------
+Started: 2024-08-06 22:22:07.495522
+Existing_entries: 393
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 595
+Summarized using GPT-3.5-turbo
+Append: [腾讯突然宣布：一产品将停运！可退款](https://mp.weixin.qq.com/s/HPnAkPh7r6-UiQh38L3E1g)
+Token length: 1452
+Summarized using GPT-3.5-turbo
+Append: [重大进展！河套深圳园区超7万平方米新空间集中竣工……](https://mp.weixin.qq.com/s/8qjdzJxGxVVpEl0JQmkZAA)
+Token length: 1834
+Summarized using GPT-3.5-turbo
+Append: [连彭于晏都说好！深圳已有170套！至于福田......](https://mp.weixin.qq.com/s/pS8IDb7GlOGmUIxjMGlb4Q)
+Token length: 996
+Summarized using GPT-3.5-turbo
+Append: [三体迷狂喜！刘慈欣科幻漫画展来啦！还有......（文末福利）](https://mp.weixin.qq.com/s/RKp__Y9Xf8A6N8rzBO4Btg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240806222241853911633YpYsFnP1)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [深圳人注意：局地最高39℃！广东或发生超警洪水......](https://mp.weixin.qq.com/s/ipeGgyfXYF8W6FJFt5r2tg)
+append_entries: 5
+Finish: 2024-08-06 22:22:50.523307

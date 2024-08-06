@@ -8549,3 +8549,81 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-06 20:16:57.619832
+------------------------------------------------------
+Started: 2024-08-06 22:18:01.018247
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 2554
+Summarized using GPT-3.5-turbo
+Append: [新顶流出道！火爆上千年！成都人有自己的“高定”→](https://mp.weixin.qq.com/s/ajylCxsAOO5ZpdMXNA0fnQ)
+Token length: 2861
+Summarized using GPT-3.5-turbo
+Append: [共迎成都世运会！这趟主题列车抵达香港](https://mp.weixin.qq.com/s/9oInVXCkQgXMuEsfaSYgOQ)
+Token length: 7137
+Summarized using GPT-4o
+Append: [双语深圳 | Firm helps Chinese companies go global with SZ efficiency](https://mp.weixin.qq.com/s/e_iueB7lKcobjNxsHgllJg)
+Token length: 1416
+Summarized using GPT-3.5-turbo
+Append: [抢票 | 《民乐跨界七夕专场音乐会》](https://mp.weixin.qq.com/s/wh8-n8UxmW9YpITLbhvoAQ)
+Token length: 482
+Summarized using GPT-4o
+Append: [受贿1.08亿余元！陈如桂一审被判无期](https://mp.weixin.qq.com/s/pm3HLybJGlhNUxmkNMaJug)
+Token length: 975
+Summarized using GPT-3.5-turbo
+Append: [短时强降雨来了！成都多地发布暴雨预警信号](https://mp.weixin.qq.com/s/MkbkmBpFkKVoo0Tmu6ukVQ)
+Token length: 2144
+Summarized using GPT-4o
+Append: [暑假，小心被骗！警方提醒](https://mp.weixin.qq.com/s/p0VPkHPZ-m7MzGByV5XUKQ)
+Token length: 221
+Summarized using GPT-3.5-turbo
+Append: [突发！一居民楼倒塌，已救出2人](https://mp.weixin.qq.com/s/DD7GyORG_Ll3VWOw6A7xkw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408062219071599693525JtKU8aX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [成都最新政策出炉！事关电动汽车充（换）电→](https://mp.weixin.qq.com/s/thP2ht3LhiMIoJsyJewiGA)
+Token length: 595
+Summarized using GPT-3.5-turbo
+Append: [腾讯突然宣布：一产品将停运！可退款](https://mp.weixin.qq.com/s/HPnAkPh7r6-UiQh38L3E1g)
+Token length: 1452
+Summarized using GPT-3.5-turbo
+Append: [重大进展！河套深圳园区超7万平方米新空间集中竣工……](https://mp.weixin.qq.com/s/8qjdzJxGxVVpEl0JQmkZAA)
+Token length: 1165
+Summarized using GPT-3.5-turbo
+Append: [川ADT4331！好样的！](https://mp.weixin.qq.com/s/ROxtr3GHINhqbuBMywP1FA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240806221945997033278MrPuxTWp)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [惊险！他在快速路上开“碰碰车”？深圳官方提醒→](https://mp.weixin.qq.com/s/l2nofK03vr0JQJPlwfci2Q)
+Token length: 1590
+Summarized using GPT-3.5-turbo
+Append: [@家长，暑期这些细节要拉满](https://mp.weixin.qq.com/s/TOrmOjRHZLSfV_4-ut-1cQ)
+Token length: 1086
+Summarized using GPT-3.5-turbo
+Append: [山洪+地灾双预警！涉及成都这两地→](https://mp.weixin.qq.com/s/otvsMDNmMS6rvBZS71EPGQ)
+Token length: 1094
+Summarized using GPT-3.5-turbo
+Append: [在找工作？招聘会来了！速戳投简历→](https://mp.weixin.qq.com/s/ooyeK59FvuwTW6-2K5Uy0Q)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240806222027609955760x7d6Y2WX)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [@毕业生，“鹅厂”2025校园招聘启动了！](https://mp.weixin.qq.com/s/qNsGZROZUFqWv5L2SpOB1A)
+Token length: 1834
+Summarized using GPT-3.5-turbo
+Append: [连彭于晏都说好！深圳已有170套！至于福田......](https://mp.weixin.qq.com/s/pS8IDb7GlOGmUIxjMGlb4Q)
+Token length: 996
+Summarized using GPT-3.5-turbo
+Append: [三体迷狂喜！刘慈欣科幻漫画展来啦！还有......（文末福利）](https://mp.weixin.qq.com/s/RKp__Y9Xf8A6N8rzBO4Btg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240806222103973612296DNF1K78e)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [免费看电影！这些影院可以看→](https://mp.weixin.qq.com/s/G_X0my9zSp3c76QKJywCUw)
+Token length: 1418
+Summarized using GPT-3.5-turbo
+Append: [深圳人注意：局地最高39℃！广东或发生超警洪水......](https://mp.weixin.qq.com/s/ipeGgyfXYF8W6FJFt5r2tg)
+Token length: 1208
+Summarized using GPT-3.5-turbo
+Append: [火到全国第二！成都这些直飞航线加密](https://mp.weixin.qq.com/s/LcLZooBPkfvU5PgbiIqUGA)
+Token length: 1309
+Summarized using GPT-3.5-turbo
+Append: [不要用！不要用！不要用！](https://mp.weixin.qq.com/s/nuBb6B2ljlG2gBNVtNOp4g)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240806222142290459069TDIEUT2I)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [人气爆棚！吸睛打卡点在这→](https://mp.weixin.qq.com/s/VYBIhxwVPDq5it54Rep19w)
+append_entries: 24
+Finish: 2024-08-06 22:21:51.032875
