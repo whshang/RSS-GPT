@@ -4885,3 +4885,39 @@ Existing_entries: 383
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-06 08:22:54.052316
+------------------------------------------------------
+Started: 2024-08-06 10:25:43.398216
+Existing_entries: 383
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1635
+Summarized using GPT-3.5-turbo
+Append: [刚刚通报！登革热中风险！深圳这7地蚊子最毒！](https://mp.weixin.qq.com/s/IUiz_GHdIKSbmWY8L1FcPg)
+Token length: 927
+Summarized using GPT-3.5-turbo
+Append: [又出事了！这次直接插穿眼睛！深圳人：出门都提心吊胆......](https://mp.weixin.qq.com/s/Kzd5okgT3td9H8UvE7asjQ)
+Token length: 656
+Summarized using GPT-3.5-turbo
+Append: [涉37款APP！广东官方通报！速自查！](https://mp.weixin.qq.com/s/ncYVk1J90um7LopWcMbzug)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024080610261560196771vI5WNIHe)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [历时一年！正式启用！](https://mp.weixin.qq.com/s/FQU_QhUXmggcygERQ5a3IQ)
+Token length: 623
+Summarized using GPT-3.5-turbo
+Append: [深圳下冰雹了！刚刚，多预警齐发！](https://mp.weixin.qq.com/s/VrnH55nl9gHnTph1I0xBeQ)
+Token length: 861
+Summarized using GPT-3.5-turbo
+Append: [太方便！深圳水电燃气可一并支付啦！](https://mp.weixin.qq.com/s/axS3WC0WlwmFvrdjm4CJcg)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [雷雨+8级大风要来了！分区黄色预警生效！](https://mp.weixin.qq.com/s/GPVJ8Nn923oFZXVxJkxy6Q)
+Token length: 1108
+Summarized using GPT-3.5-turbo
+Append: [深圳⇋广州20分钟互达！预计100天内通车！](https://mp.weixin.qq.com/s/p6mATh4DV9KWvtD-HowD3w)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240806102653363163675A3MxJcMr)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [每天运动1小时！突然被确诊肌肉“溶解”，医生紧急提醒→](https://mp.weixin.qq.com/s/jtpeA88PYma5VT-mxri5WQ)
+Token length: 2949
+Summarized using GPT-3.5-turbo
+Append: [被广泛点赞！福田人大纪录片重磅播出](https://mp.weixin.qq.com/s/yRGlImaSVRCxqS2knQeB0w)
+append_entries: 10
+Finish: 2024-08-06 10:27:04.185687
