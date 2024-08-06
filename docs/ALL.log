@@ -8393,3 +8393,9 @@ Summarized using GPT-3.5-turbo
 Append: [@所有人，注意！注意！注意！](https://mp.weixin.qq.com/s/HhEapx-GwrEYf5EZAOe0Sg)
 append_entries: 25
 Finish: 2024-08-05 22:20:37.074033
+------------------------------------------------------
+Started: 2024-08-06 01:19:40.671335
+Existing_entries: 1025
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-06 01:19:44.150196
