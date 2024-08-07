@@ -8753,3 +8753,9 @@ Summarized using GPT-3.5-turbo
 Append: [暑期过半，深圳还很“热”！](https://mp.weixin.qq.com/s/fTPyFK8Zwh2sLnXERzrSKg)
 append_entries: 30
 Finish: 2024-08-07 10:23:26.606491
+------------------------------------------------------
+Started: 2024-08-07 12:36:12.042820
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-07 12:36:15.458785
