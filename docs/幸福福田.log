@@ -5062,3 +5062,27 @@ Existing_entries: 406
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-07 20:19:35.308078
+------------------------------------------------------
+Started: 2024-08-07 22:21:49.039949
+Existing_entries: 406
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 2480
+Summarized using GPT-3.5-turbo
+Append: [“我就是深圳的女儿！”运动员刘虹，下一个起点见！](https://mp.weixin.qq.com/s/P39ZmBXQFvLMfsABhphMwg)
+Token length: 925
+Summarized using GPT-3.5-turbo
+Append: [重磅！深圳市安居集团拟征集商品房用作保障性住房](https://mp.weixin.qq.com/s/dnMOyDIqoUSHKqcbJc5FKQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807222220116559684QfptPCM9)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [淘“二手电子”没保障？来华强北，有官方平台！](https://mp.weixin.qq.com/s/8YVHkSaHHT9Xr6PONMQpFw)
+Token length: 3678
+Summarized using GPT-3.5-turbo
+Append: [明早10:00开抢！深圳这些地方，免费开放！](https://mp.weixin.qq.com/s/UhCt2X9q_pXX_GAWGEzybQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807222251325037085LIGB2Faw)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [玩转AI！超酷炫的科技研学上线！](https://mp.weixin.qq.com/s/olgDHjVQBaXKmtSStCPgIg)
+Token length: 2605
+Summarized using GPT-3.5-turbo
+Append: [下架！召回！广东公布15批次不合格食品，你买过吗？](https://mp.weixin.qq.com/s/tie14g5D3pYNgW4vyUA6nA)
+append_entries: 6
+Finish: 2024-08-07 22:23:03.148680

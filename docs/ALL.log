@@ -8783,3 +8783,87 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-07 20:19:17.382754
+------------------------------------------------------
+Started: 2024-08-07 22:17:25.802938
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1042
+Summarized using GPT-3.5-turbo
+Append: [成都世运会倒计时一周年仪式在蓉举行 佩鲁雷纳、施小琳、周进强致辞](https://mp.weixin.qq.com/s/0AayMBUjR0mWqbGkM8cVVw)
+Token length: 2148
+Summarized using GPT-3.5-turbo
+Append: [一到秋天！成都年轻人统一动作](https://mp.weixin.qq.com/s/7LZmWMxNAB5gTnFe1XwGLA)
+Token length: 2206
+Summarized using GPT-3.5-turbo
+Append: [连续5天！来成都世园会体验“世运嘉年华”](https://mp.weixin.qq.com/s/dqKW-Ih72FJQB6-bIsVD7A)
+Token length: 2762
+Summarized using GPT-4o
+Append: [覆盖超140万人！“深工守护”织密“全周期保障网”](https://mp.weixin.qq.com/s/94AACLVmzePwK6lvZ0ubIw)
+Token length: 1130
+Summarized using GPT-3.5-turbo
+Append: [这个七夕千灯会好city→](https://mp.weixin.qq.com/s/iX-sgIYs1sLRIN8xtT_ghw)
+Token length: 4144
+Summarized using GPT-4o
+Append: [从大运到世运：赛事，书写成都新故事](https://mp.weixin.qq.com/s/ICJuekEDgFriwGesy2gRJQ)
+Token length: 457
+Summarized using GPT-3.5-turbo
+Append: [覃伟中会见新西兰克赖斯特彻奇市市长菲尔·梅杰](https://mp.weixin.qq.com/s/2P71hfqH7AzpQa0zaBYvtA)
+Token length: 1879
+Summarized using GPT-4o
+Append: [倒计时一周年！成都世运会走进香港，达成这些合作→](https://mp.weixin.qq.com/s/o6QKCBMQ1iha4OS_qkrCbg)
+Token length: 486
+Summarized using GPT-3.5-turbo
+Append: [覃伟中会见澳大利亚驻华大使吉思德](https://mp.weixin.qq.com/s/K5SiqhsaeOguusiX60sRPw)
+Token length: 482
+Summarized using GPT-3.5-turbo
+Append: [孟凡利与越南海防市委书记黎进州一行会谈](https://mp.weixin.qq.com/s/F8hVlmEfWdWg23Ml_j8lhA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807221839670426449se7NcELr)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“我就是深圳的女儿！”运动员刘虹，下一个起点见！](https://mp.weixin.qq.com/s/P39ZmBXQFvLMfsABhphMwg)
+Token length: 1620
+Summarized using GPT-3.5-turbo
+Append: [连唱四天！刘德华演唱会来了，交警提醒！](https://mp.weixin.qq.com/s/dS_GpjEnXpzKQo4jF_EiBw)
+Token length: 925
+Summarized using GPT-3.5-turbo
+Append: [重磅！深圳市安居集团拟征集商品房用作保障性住房](https://mp.weixin.qq.com/s/dnMOyDIqoUSHKqcbJc5FKQ)
+Token length: 1135
+Summarized using GPT-3.5-turbo
+Append: [淘“二手电子”没保障？来华强北，有官方平台！](https://mp.weixin.qq.com/s/8YVHkSaHHT9Xr6PONMQpFw)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [明天举行新闻发布会](https://mp.weixin.qq.com/s/ie6dd6HdnyL9Qlc5j2ZqDw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807221925968498471J6tjCPzt)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [深圳市安居集团拟征集商品房用作保障性住房](https://mp.weixin.qq.com/s/x2bSSruo8PjZ67z3Bn1Uqg)
+Token length: 3678
+Summarized using GPT-3.5-turbo
+Append: [明早10:00开抢！深圳这些地方，免费开放！](https://mp.weixin.qq.com/s/UhCt2X9q_pXX_GAWGEzybQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807222001182605482drLoxBES)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [玩转AI！超酷炫的科技研学上线！](https://mp.weixin.qq.com/s/olgDHjVQBaXKmtSStCPgIg)
+Token length: 328
+Summarized using GPT-3.5-turbo
+Append: [痛心！一直升机坠毁，4名中国乘客遇难](https://mp.weixin.qq.com/s/vRKOQ39d7r60naXg-xnngw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807222037257509542NM80dYKu)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [公开招考！2286人！](https://mp.weixin.qq.com/s/fXV08GZcsEy90DZ7hKIFOw)
+Token length: 3279
+Summarized using GPT-3.5-turbo
+Append: [人民网头条关注！河套合作区：跨小河，开先河](https://mp.weixin.qq.com/s/6V3af6H5PzAEMFtyyvRrcQ)
+Token length: 1486
+Summarized using GPT-3.5-turbo
+Append: [又出事了！一女子面部被刺穿！深圳拟禁止！](https://mp.weixin.qq.com/s/nR2To86K7VvdXuTVI-hA7w)
+Token length: 753
+Summarized using GPT-3.5-turbo
+Append: [12秒97！热搜爆了](https://mp.weixin.qq.com/s/v7QmNRB_PcQBOkQWmh0jMQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807222116727769497L0cdtUgZ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [送演出票！暑假必看！超全儿童剧合集来啦~](https://mp.weixin.qq.com/s/E--jdti38yez-Q8O1NvI2A)
+Token length: 458
+Summarized using GPT-3.5-turbo
+Append: [免费开放，抓紧预约！](https://mp.weixin.qq.com/s/Eju-pmE252ovWbU77JdRQw)
+Token length: 2605
+Summarized using GPT-3.5-turbo
+Append: [下架！召回！广东公布15批次不合格食品，你买过吗？](https://mp.weixin.qq.com/s/tie14g5D3pYNgW4vyUA6nA)
+append_entries: 26
+Finish: 2024-08-07 22:21:29.579722
