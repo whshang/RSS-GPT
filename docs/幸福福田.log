@@ -5002,3 +5002,33 @@ Existing_entries: 398
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-07 08:23:21.497948
+------------------------------------------------------
+Started: 2024-08-07 10:25:18.918343
+Existing_entries: 398
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1102
+Summarized using GPT-3.5-turbo
+Append: [有人在小区放生蟑螂？警方介入！网友气愤......广东也有！](https://mp.weixin.qq.com/s/HvfkLFifYifDeuNNgVNmAQ)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [2小时内影响全市！刚刚，深圳挂雷电预警](https://mp.weixin.qq.com/s/WQZR5mJI21EsiO_8szT7Kw)
+Token length: 1251
+Summarized using GPT-3.5-turbo
+Append: [5天内76例！深圳急救中心：出现这些症状要留意](https://mp.weixin.qq.com/s/OI15r4jjPWzOyUyr5K7GwA)
+Token length: 1669
+Summarized using GPT-3.5-turbo
+Append: [别扫！假的！最近多地出现这种二维码……](https://mp.weixin.qq.com/s/objb9M52SDGyubOUDsfOuA)
+Summarization failed, append the original article
+error: 'NoneType' object is not subscriptable
+Append: [存在安全隐患！特斯拉突发召回超168万辆车](https://mp.weixin.qq.com/s/DRBBw2wzm5BpQ9LS42azDA)
+Token length: 1328
+Summarized using GPT-3.5-turbo
+Append: [深圳男子被细菌“入侵”脑肺、险摘除眼球！这类群体要特别注意！](https://mp.weixin.qq.com/s/9EeKo7jmE9nIu8LzMK3D5w)
+Token length: 1245
+Summarized using GPT-3.5-turbo
+Append: [交警严查！监控已全方位覆盖](https://mp.weixin.qq.com/s/ClXk-YFpnPZCw3IaL7_E3A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240807102625456741372EeqlVmj4)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [降价了！低至2元！这条线路有调整](https://mp.weixin.qq.com/s/wVOw8xzaYeyjq14lieHx2g)
+append_entries: 8
+Finish: 2024-08-07 10:26:34.137242
