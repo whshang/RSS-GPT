@@ -8897,3 +8897,99 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-08 08:23:12.152545
+------------------------------------------------------
+Started: 2024-08-08 10:18:56.990109
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 6100
+Summarized using GPT-3.5-turbo
+Append: [蝶变龙岗·5 | 横岗交谊舞：舞动全城 蜚声国际](https://mp.weixin.qq.com/s/vOHEZh1Fw0WCmVO_D0uxGQ)
+Token length: 608
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都再发暴雨蓝色预警！](https://mp.weixin.qq.com/s/h-929jq7HvvhNb9LQkRViA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808101938476242469AZ4gUdrN)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [刚刚！日本7.1级地震](https://mp.weixin.qq.com/s/G3Ap9X57aGMdkLn2jeqqcg)
+Token length: 587
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都再发暴雨蓝色预警！](https://mp.weixin.qq.com/s/Q37q1kBQqoC_At-S_UYIEA)
+Token length: 1435
+Summarized using GPT-3.5-turbo
+Append: [两个班级36名家长被骗，起初班主任浑然不觉](https://mp.weixin.qq.com/s/CXTO9DZjFlW36Vvxrz4-IQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024080810201615761145DiEFJ3p6)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [全面推进成都世运会筹办聚力攻坚动员大会举行，要求以最佳状态最高标准扎实推进筹办工作，办成一届别具特色精彩纷呈的国际体育文化盛会](https://mp.weixin.qq.com/s/4aRZTAWdE3IhXoUWFDXwag)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [地铁直达！被120万块马赛克拼成的恐龙硬控了→](https://mp.weixin.qq.com/s/J235kqY-r3fkwDT9zxog6A)
+Token length: 697
+Summarized using GPT-3.5-turbo
+Append: [台风“玛莉亚”生成！至于深圳天气……](https://mp.weixin.qq.com/s/9fChBRQ8HfJxAAoFln4Wig)
+Token length: 1820
+Summarized using GPT-3.5-turbo
+Append: [深圳规模最大高铁站获批建设！](https://mp.weixin.qq.com/s/gOjEE1yV7p4CURXHgtz3ow)
+Token length: 392
+Summarized using GPT-3.5-turbo
+Append: [最新通报：涉事民警已停职](https://mp.weixin.qq.com/s/uuwfgtI5AD7x8n_JFnWi8A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102056261743659QywLC1qr)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [小花姐姐喊你，共赴精彩之旅！](https://mp.weixin.qq.com/s/3NyJARexJAFSMBnstLeceQ)
+Token length: 2158
+Summarized using GPT-3.5-turbo
+Append: [近期频发！深圳人：这电话我也接过！多部门提醒→](https://mp.weixin.qq.com/s/xPPm4UxTI1PJ5_H4NUWziw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102132416634983aBVaDpED)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [成都高新区、都江堰、邛崃公开招聘！](https://mp.weixin.qq.com/s/rRM0K0hZ73ErAZ_7SlpVIQ)
+Token length: 584
+Summarized using GPT-3.5-turbo
+Append: [深圳健儿获奥运金牌，市委市政府致电祝贺](https://mp.weixin.qq.com/s/pUhS1ErXRj7iGQMDufZnyw)
+Token length: 870
+Summarized using GPT-3.5-turbo
+Append: [台风“玛莉亚”生成！至于深圳天气……](https://mp.weixin.qq.com/s/2tI0COYtUA63FwJaF_zuCw)
+Token length: 1539
+Summarized using GPT-3.5-turbo
+Append: [全国首批，落地成都！消费支付“碰一下”！](https://mp.weixin.qq.com/s/Lv806SVwr6qyiGpqLLo49A)
+Token length: 1816
+Summarized using GPT-3.5-turbo
+Append: [价格大跳水！2年跌幅近90%，深圳人快冲！](https://mp.weixin.qq.com/s/bT5_OOfIZCdcACJtmPAchA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102214573548400SiDOU5OJ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [冲上热搜！今晚，再冲金！](https://mp.weixin.qq.com/s/egD9S593eCnVNKmqO93w0Q)
+Token length: 2556
+Summarized using GPT-3.5-turbo
+Append: [成华名校寻访｜百年华西，历久弥新](https://mp.weixin.qq.com/s/tTo62eo0Q2fx3QxuSb6AAQ)
+Token length: 1007
+Summarized using GPT-3.5-turbo
+Append: [麦当劳汉堡灯，送给你](https://mp.weixin.qq.com/s/KFAD2_BBHP_KyJteY57vIA)
+Token length: 1277
+Summarized using GPT-3.5-turbo
+Append: [黑池爆款「告白熊」蛋糕99元，限时3天](https://mp.weixin.qq.com/s/IxKofclhYi2gVQKrG2k3lg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102253722458524OmWoon5L)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“这店一开，都要去逛福田了”](https://mp.weixin.qq.com/s/T5aAoXpRF78FF_hiBSK6KA)
+Token length: 2566
+Summarized using GPT-3.5-turbo
+Append: [双人套票优惠 | 殿堂级音乐剧《猫》——离经叛道的成功之作！](https://mp.weixin.qq.com/s/suXSh1uM4b-taL39cgnL9Q)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2024080810232939695849TAhopyRl)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [盒马蛋糕回购榜Top1，云朵般软fufu](https://mp.weixin.qq.com/s/o5eUAAhQag753Fr3BL-Dgw)
+Token length: 44
+Summarized using GPT-3.5-turbo
+Append: [视频 | 打卡「唐老鸭90周年快闪」](https://mp.weixin.qq.com/s/A0m_eXIDUzjAWcVPj18eIA)
+Token length: 1200
+Summarized using GPT-3.5-turbo
+Append: [吓人！深圳一男子抽出绿色血液，只因爱干这件事……](https://mp.weixin.qq.com/s/pniZzj0TywatZRBLQW1Q1g)
+Token length: 773
+Summarized using GPT-3.5-turbo
+Append: [最高温35℃以上！成都发布高温橙色预警信号！](https://mp.weixin.qq.com/s/RSxytCcYLsL86gwH-iPXnQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102408302046872CV8tYDEi)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [一月一个样 一年大变样——写在《河套深港科技创新合作区深圳园区发展规划》发布一周年之际](https://mp.weixin.qq.com/s/0ND4lJxNLNAVZCGKh9HgYQ)
+Token length: 747
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都发布高温橙色预警信号！](https://mp.weixin.qq.com/s/oyB59R81pYCRbEx2i0BbfA)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [人在成都心在巴黎！“动”起来为奥运打call](https://mp.weixin.qq.com/s/w6bSLiL9cWzlj1jPksrT2g)
+append_entries: 30
+Finish: 2024-08-08 10:24:20.615848

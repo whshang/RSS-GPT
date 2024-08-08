@@ -5116,3 +5116,33 @@ Existing_entries: 412
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-08 08:23:31.494863
+------------------------------------------------------
+Started: 2024-08-08 10:24:43.301942
+Existing_entries: 412
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1435
+Summarized using GPT-3.5-turbo
+Append: [两个班级36名家长被骗，起初班主任浑然不觉](https://mp.weixin.qq.com/s/CXTO9DZjFlW36Vvxrz4-IQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102513640740370zqkiwQS)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [近期频发！深圳人：这电话我也接过！多部门提醒→](https://mp.weixin.qq.com/s/xPPm4UxTI1PJ5_H4NUWziw)
+Token length: 870
+Summarized using GPT-3.5-turbo
+Append: [台风“玛莉亚”生成！至于深圳天气……](https://mp.weixin.qq.com/s/2tI0COYtUA63FwJaF_zuCw)
+Token length: 1816
+Summarized using GPT-3.5-turbo
+Append: [价格大跳水！2年跌幅近90%，深圳人快冲！](https://mp.weixin.qq.com/s/bT5_OOfIZCdcACJtmPAchA)
+Token length: 1200
+Summarized using GPT-3.5-turbo
+Append: [吓人！深圳一男子抽出绿色血液，只因爱干这件事……](https://mp.weixin.qq.com/s/pniZzj0TywatZRBLQW1Q1g)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808102553198543452u5sA1n76)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [一月一个样 一年大变样——写在《河套深港科技创新合作区深圳园区发展规划》发布一周年之际](https://mp.weixin.qq.com/s/0ND4lJxNLNAVZCGKh9HgYQ)
+Token length: 1200
+Summarized using GPT-3.5-turbo
+Append: [降了！“顶流水果”断崖式降价！很多深圳人爱吃](https://mp.weixin.qq.com/s/SxiArrcTFjo6Jl16StZyWA)
+Token length: 1309
+Summarized using GPT-3.5-turbo
+Append: [今早10:00开抢！手速要快](https://mp.weixin.qq.com/s/Pb-4DIEou77e5u0VV6EZvA)
+append_entries: 8
+Finish: 2024-08-08 10:26:06.576187
