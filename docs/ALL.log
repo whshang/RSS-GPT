@@ -9023,3 +9023,99 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-08 20:19:59.938145
+------------------------------------------------------
+Started: 2024-08-08 22:17:19.559201
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 3190
+Summarized using GPT-3.5-turbo
+Append: [双语深圳｜Paris Olympics buzz: 'Wing Chun' in French news](https://mp.weixin.qq.com/s/9wNvSEJqmMvyZuBhDsuyvA)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [明天举行新闻发布会](https://mp.weixin.qq.com/s/0yd5knnsJyA4vY2jsyAzLw)
+Token length: 3543
+Summarized using GPT-3.5-turbo
+Append: [来这里，承包你的吃喝玩乐→](https://mp.weixin.qq.com/s/_AwzwE8pU7s0xwTMfc6ang)
+Token length: 754
+Summarized using GPT-3.5-turbo
+Append: [跨省跨市换工作，转社保让你一站搞掂](https://mp.weixin.qq.com/s/XmcE7MUKQ2_EOnGsf9sH2Q)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [怎么办理居住证？来这申领→](https://mp.weixin.qq.com/s/WrfKbVbPOVDAHoaMuASPWA)
+Token length: 1664
+Summarized using GPT-4o
+Append: [住在热搜上？广东奥运健儿燃爆巴黎](https://mp.weixin.qq.com/s/k-5Gb2dPRd6O56G1x0VhKQ)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [这个月注意看工资，会有变化](https://mp.weixin.qq.com/s/Njx5CwN1AjgtEpfSEg45nw)
+Token length: 1358
+Summarized using GPT-4o
+Append: [四川话比火锅还有味道？是真的！](https://mp.weixin.qq.com/s/e9vs1JrOpa6WwkRDvYFzTQ)
+Token length: 530
+Summarized using GPT-3.5-turbo
+Append: [预计明年通车！四川这条高速有新进展→](https://mp.weixin.qq.com/s/rp6dwyOXJWj52tVCZjBbWw)
+Token length: 474
+Summarized using GPT-3.5-turbo
+Append: [每人2张！国际往返机票免费送！](https://mp.weixin.qq.com/s/kQOibBz8QW5kUIRHgWMsRA)
+Token length: 3634
+Summarized using GPT-4o
+Append: [我在龙岗当小护士，父母却以为我在“挖金矿”……](https://mp.weixin.qq.com/s/89iWg2-0yW4jAlIJHekNkg)
+Token length: 1704
+Summarized using GPT-3.5-turbo
+Append: [这件事，人人参与！](https://mp.weixin.qq.com/s/6rBASKkzM-XOC848ROOgHg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808221838528178291EnW3JLDv)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [抢票 |《女侠请留步》](https://mp.weixin.qq.com/s/ngsXvrSngwpNR2ZWanjiLQ)
+Token length: 2598
+Summarized using GPT-3.5-turbo
+Append: [夺金！被“水灵灵的00后”惊艳到了](https://mp.weixin.qq.com/s/9xKrJbFbuOX1lY2_al_wNw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808221914645114849fKM64N4w)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [故意冲撞王楚钦，她被禁入！诋毁运动员，她被刑拘！多平台公告](https://mp.weixin.qq.com/s/5-kx-JDA3y76mYgiAJ5c_g)
+Token length: 2273
+Summarized using GPT-3.5-turbo
+Append: [刚刚，成都发布雷电黄色预警信号！](https://mp.weixin.qq.com/s/R_BuxMO7lYY6YIMq-8tgsQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808221951598283403q5l3JSIg)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [被当众嘲笑、胶水封嘴！拒绝《默杀》在校园中上演，福田这样做→](https://mp.weixin.qq.com/s/0J4Elq7EtG9eqTE4TUbVmg)
+Token length: 912
+Summarized using GPT-3.5-turbo
+Append: [“数千具尸体被盗卖”，最新情况](https://mp.weixin.qq.com/s/P19VAM1K0yOSds6h2QAHcg)
+Token length: 1773
+Summarized using GPT-3.5-turbo
+Append: [近6天88人紧急送医，千万警惕→](https://mp.weixin.qq.com/s/ylR4OSTwzwtJFgdVbBP75Q)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808222030118151341HD6SviWV)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [成都大调研 | 小小军屯锅盔，如何去挣大大的市场？](https://mp.weixin.qq.com/s/iuwmfxZuSuxsIGgyfulASA)
+Token length: 3985
+Summarized using GPT-3.5-turbo
+Append: [这个区今年经济总量将逼近万亿！](https://mp.weixin.qq.com/s/fr5zSANP5oCZ2jCDq66xrQ)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 20240808222053847374849Zf0PL2wl)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [权威发布｜推动高质量发展，深圳南山区这么干](https://mp.weixin.qq.com/s/bESGNkHOXCM0AewgACW5Kg)
+Token length: 2640
+Summarized using GPT-3.5-turbo
+Append: [有奖！深圳这2个公园景点该叫啥？你说了算！](https://mp.weixin.qq.com/s/XJYfeQ8fJPd4szG6DMBuVA)
+Token length: 1561
+Summarized using GPT-3.5-turbo
+Append: [什么！福田人有自己的演唱会，时间地点→](https://mp.weixin.qq.com/s/E6T624hkk1xwOMdDliiF9g)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408082221303103930C6w5AiwY)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [110个重点项目！成都在香港发布城市机会清单](https://mp.weixin.qq.com/s/cEIByt0hZl2UClQdjaYzrw)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [三家国际科技创新机构在河套集中揭牌](https://mp.weixin.qq.com/s/bSIbFUIPrri-SkQ-OWLQ0Q)
+Token length: 603
+Summarized using GPT-3.5-turbo
+Append: [三家国际科技创新机构在河套集中揭牌](https://mp.weixin.qq.com/s/xnVdHMXe_HWkSmoO_afggA)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [定了！今晚下调！](https://mp.weixin.qq.com/s/TNfyjQ7MM0VjTtrBnXJFeA)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [定了！今晚下调！](https://mp.weixin.qq.com/s/T7AqcjRvlqOpVQdbdRXz2A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808222208804053633EcOqbKMY)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [夏季高发，可能夺命！官方紧急提醒](https://mp.weixin.qq.com/s/uH8xaqhtGLtUVW7w2Qp-_A)
+append_entries: 30
+Finish: 2024-08-08 22:22:17.778467

@@ -5176,3 +5176,27 @@ Existing_entries: 420
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-08 20:20:18.628125
+------------------------------------------------------
+Started: 2024-08-08 22:22:36.635372
+Existing_entries: 420
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1169
+Summarized using GPT-3.5-turbo
+Append: [故意冲撞王楚钦，她被禁入！诋毁运动员，她被刑拘！多平台公告](https://mp.weixin.qq.com/s/5-kx-JDA3y76mYgiAJ5c_g)
+Token length: 2262
+Summarized using GPT-3.5-turbo
+Append: [被当众嘲笑、胶水封嘴！拒绝《默杀》在校园中上演，福田这样做→](https://mp.weixin.qq.com/s/0J4Elq7EtG9eqTE4TUbVmg)
+Token length: 2640
+Summarized using GPT-3.5-turbo
+Append: [有奖！深圳这2个公园景点该叫啥？你说了算！](https://mp.weixin.qq.com/s/XJYfeQ8fJPd4szG6DMBuVA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240808222311155076755XzwNMnRT)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [什么！福田人有自己的演唱会，时间地点→](https://mp.weixin.qq.com/s/E6T624hkk1xwOMdDliiF9g)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [三家国际科技创新机构在河套集中揭牌](https://mp.weixin.qq.com/s/bSIbFUIPrri-SkQ-OWLQ0Q)
+Token length: 2206
+Summarized using GPT-3.5-turbo
+Append: [夏季高发，可能夺命！官方紧急提醒](https://mp.weixin.qq.com/s/uH8xaqhtGLtUVW7w2Qp-_A)
+append_entries: 6
+Finish: 2024-08-08 22:23:22.938050
