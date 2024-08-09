@@ -5230,3 +5230,30 @@ Existing_entries: 426
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-09 08:23:55.863814
+------------------------------------------------------
+Started: 2024-08-09 10:27:01.933862
+Existing_entries: 426
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1301
+Summarized using GPT-3.5-turbo
+Append: [深圳拟建一批新口岸！福田也有！](https://mp.weixin.qq.com/s/ePT3mrpEZyWPeYLuI4oHHQ)
+Token length: 1829
+Summarized using GPT-3.5-turbo
+Append: [居民楼突发火灾！一男子被拘十日，原因是......](https://mp.weixin.qq.com/s/67Rcaaq18yhAY0F65xt2Sg)
+Token length: 2259
+Summarized using GPT-3.5-turbo
+Append: [被炒到21万元！有学生近乎疯狂地买！央视曝光](https://mp.weixin.qq.com/s/evDkIcPXENndzZG5UuE3IA)
+Token length: 2103
+Summarized using GPT-3.5-turbo
+Append: [持续严查！这个处罚结果亮了](https://mp.weixin.qq.com/s/_i39T0SCXihVAzmYL9KoYA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408091028037557147882lyWTyV3)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“晚来一步人就没了”！13岁男孩贪吃导致生命垂危......这病暑假高发！](https://mp.weixin.qq.com/s/Yyxzg1s0YwanUTfNsUi3UA)
+Token length: 1088
+Summarized using GPT-3.5-turbo
+Append: [最新通报！你家电动车可能不合格，速自查！](https://mp.weixin.qq.com/s/-X-Fzv27ML0uovCHIr6Z5w)
+Token length: 1342
+Summarized using GPT-3.5-turbo
+Append: [免费看剧！今天12:00开抢🥳](https://mp.weixin.qq.com/s/BT-a9Yrq5SeZYMCqMvYPPA)
+append_entries: 7
+Finish: 2024-08-09 10:28:22.223903

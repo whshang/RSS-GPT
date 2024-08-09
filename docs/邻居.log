@@ -3781,3 +3781,18 @@ Existing_entries: 29
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
 append_entries: 0
 Finish: 2024-08-09 08:23:38.510738
+------------------------------------------------------
+Started: 2024-08-09 10:25:43.313839
+Existing_entries: 29
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+Token length: 1748
+Summarized using GPT-3.5-turbo
+Append: [有趣的邻居@住这儿｜回大理半年，“段王爷”可没闲着](https://mp.weixin.qq.com/s/daxawHt8jgin_lJHnpd0ZQ)
+Token length: 1554
+Summarized using GPT-3.5-turbo
+Append: [智慧生活，邻里情更浓：万科物业周年庆带你High翻社区！](https://mp.weixin.qq.com/s/XqpHY28SRuwDbbA9Brnjkw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240809102622933539453euCnVXmM)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [黑科技加持，看智慧物业如何改变生活？](https://mp.weixin.qq.com/s/PKzEZVAO86ehsnVMYVUbHA)
+append_entries: 3
+Finish: 2024-08-09 10:26:31.561851
