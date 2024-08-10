@@ -9368,3 +9368,9 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [权威发布｜一颗秋糖两头甜，甜蜜再升级！](https://mp.weixin.qq.com/s/hwKCuqHF-YmV19XVXuw6kQ)
 append_entries: 29
 Finish: 2024-08-09 22:22:51.294958
+------------------------------------------------------
+Started: 2024-08-10 01:20:46.847124
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-10 01:20:50.774588
