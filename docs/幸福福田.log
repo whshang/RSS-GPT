@@ -5347,3 +5347,30 @@ Existing_entries: 441
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-10 08:21:58.997130
+------------------------------------------------------
+Started: 2024-08-10 10:24:47.500811
+Existing_entries: 441
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1250
+Summarized using GPT-3.5-turbo
+Append: [又是因为它！2天内上百人中招，深圳人注意](https://mp.weixin.qq.com/s/kdAVL-79dDlbkNhs4dFIIw)
+Token length: 938
+Summarized using GPT-3.5-turbo
+Append: [深圳人社：纯属谣言！](https://mp.weixin.qq.com/s/CnGJ2slMD0qXVFBQP-UKDw)
+Token length: 785
+Summarized using GPT-3.5-turbo
+Append: [连发4预警！全市戒备！分区暴雨橙色预警信号生效中！](https://mp.weixin.qq.com/s/2DNcJOu5puaikATAHqW5pA)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [出门请注意！刚刚，全市雷电预警生效](https://mp.weixin.qq.com/s/iEeyL1zvRuf9if2LSNfg1A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408101025247245083941GE2wbpM)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [七夕还想“临时抱佛脚”？咋想的？这份攻略你拿去！](https://mp.weixin.qq.com/s/y_TwoxXgHzMtlomM0e_ysQ)
+Token length: 1231
+Summarized using GPT-3.5-turbo
+Append: [冲上热搜！滥用远光灯致人死亡，交警提醒→](https://mp.weixin.qq.com/s/wXXH0n2zGVYdqwu18GUStg)
+Token length: 872
+Summarized using GPT-3.5-turbo
+Append: [连放17天假！工资照发......你符合条件吗？](https://mp.weixin.qq.com/s/E83zSMdAeY9qI-9aZtJfyw)
+append_entries: 7
+Finish: 2024-08-10 10:25:42.319421

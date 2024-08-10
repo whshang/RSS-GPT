@@ -4078,3 +4078,15 @@ Existing_entries: 110
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-08-10 08:21:46.084394
+------------------------------------------------------
+Started: 2024-08-10 10:23:57.957348
+Existing_entries: 110
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Token length: 794
+Summarized using GPT-3.5-turbo
+Append: [免费课堂！30个名额！一起来坂田学习茶礼、茶文化！](https://mp.weixin.qq.com/s/figQOb-GTA3v3j_YvnvMxw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240810102427854016458aNHM6H6d)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [万万没想到！两个班级36名家长被骗，起初班主任浑然不觉](https://mp.weixin.qq.com/s/7cveyeuK1qrGgaoBzpi5_A)
+append_entries: 2
+Finish: 2024-08-10 10:24:36.541782
