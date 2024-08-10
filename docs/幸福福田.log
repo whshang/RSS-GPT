@@ -5404,3 +5404,21 @@ Existing_entries: 448
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-10 20:18:50.293047
+------------------------------------------------------
+Started: 2024-08-10 22:19:00.989040
+Existing_entries: 448
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 1091
+Summarized using GPT-3.5-turbo
+Append: [火车餐车不消费不能就座？12306：是的！](https://mp.weixin.qq.com/s/NtHmF3bxxu3tzGmR40BLRg)
+Token length: 1606
+Summarized using GPT-3.5-turbo
+Append: [即日起可报名！福田区面向全市招人](https://mp.weixin.qq.com/s/EnUUnRa7WhEl8kM9DMhSlA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240810221932975079076wuzXtIJP)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [200张！电影票免费送！](https://mp.weixin.qq.com/s/JkTXt3mdvW1yY8cumCXIcw)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [酒店+餐饮优惠，游玩定制！福田：夏天的快乐，我承包了🤩......](https://mp.weixin.qq.com/s/GsEkqIm0VwdMSv_NcvSNcw)
+append_entries: 4
+Finish: 2024-08-10 22:19:43.248013

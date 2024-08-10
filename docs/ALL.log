@@ -9524,3 +9524,63 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-10 20:18:27.865950
+------------------------------------------------------
+Started: 2024-08-10 22:16:54.116318
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 2920
+Summarized using GPT-3.5-turbo
+Append: [夺金！成都妹儿黄张嘉洋🤙🤙🤙](https://mp.weixin.qq.com/s/TSpOsyzTvVu-siA6aL-jmA)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [冠军！五连冠！手速跟不上了！](https://mp.weixin.qq.com/s/eGZNWetpIOeLPImFnhtwow)
+Token length: 564
+Summarized using GPT-3.5-turbo
+Append: [看，七夕深圳有这么多对新人领证脱单](https://mp.weixin.qq.com/s/Pc7prjOH286l1uWW6LWODA)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [第36金，太！快！了！](https://mp.weixin.qq.com/s/FJouM5HgdysaLbBOQ-nYDQ)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [夺金！创造历史！](https://mp.weixin.qq.com/s/mZuOZhEOXNadadOle2ba-w)
+Token length: 1091
+Summarized using GPT-3.5-turbo
+Append: [火车餐车不消费不能就座？12306：是的！](https://mp.weixin.qq.com/s/NtHmF3bxxu3tzGmR40BLRg)
+Token length: 632
+Summarized using GPT-3.5-turbo
+Append: [坐飞机注意！四川多个机场值机截载时间有变](https://mp.weixin.qq.com/s/lYZe1oQEsATqWu1qaTHYaw)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [已致1死60伤！知名景区一项目突发故障](https://mp.weixin.qq.com/s/p00ObPFJqV1vaDG3cc_xng)
+Token length: 1606
+Summarized using GPT-4o
+Append: [即日起可报名！福田区面向全市招人](https://mp.weixin.qq.com/s/EnUUnRa7WhEl8kM9DMhSlA)
+Token length: 2500
+Summarized using GPT-4o
+Append: [200张！电影票免费送！](https://mp.weixin.qq.com/s/JkTXt3mdvW1yY8cumCXIcw)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [酒店+餐饮优惠，游玩定制！福田：夏天的快乐，我承包了🤩......](https://mp.weixin.qq.com/s/GsEkqIm0VwdMSv_NcvSNcw)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [第34金！“00后”拿下！](https://mp.weixin.qq.com/s/WLogtyaucfj8eCiCprsK_w)
+Token length: 671
+Summarized using GPT-3.5-turbo
+Append: [再次爆发！未来三天或将出现](https://mp.weixin.qq.com/s/EP5GV8Jks27cvEWPEGE6yg)
+Token length: 1907
+Summarized using GPT-4o
+Append: [3683家！占全国比重13.7%](https://mp.weixin.qq.com/s/3ocuDcGgtyVLO9CS7WPUXA)
+Token length: 643
+Summarized using GPT-3.5-turbo
+Append: [再次爆发！未来三天或将出现](https://mp.weixin.qq.com/s/id2m2EcMYPPlwmpGjTW7Uw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240810221823216490556bqFFI1up)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [🫶好浪漫！龙岗的七夕活动也太太太City了......](https://mp.weixin.qq.com/s/fMnIW21gHljUbVdMDVJLNA)
+Token length: 1595
+Summarized using GPT-3.5-turbo
+Append: [公开招聘！正在报名](https://mp.weixin.qq.com/s/t_qhh4idraWg0OWkccazVA)
+Token length: 1304
+Summarized using GPT-3.5-turbo
+Append: [萌娃变身小小奥运冠军，咱家楼下的「社区运动节」真香啊！](https://mp.weixin.qq.com/s/W9hTeaVF8Kq1VAa2yNkz5A)
+append_entries: 18
+Finish: 2024-08-10 22:18:36.997249
