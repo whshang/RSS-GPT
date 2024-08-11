@@ -9740,3 +9740,48 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-11 20:18:45.522927
+------------------------------------------------------
+Started: 2024-08-11 22:18:06.938639
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 2528
+Summarized using GPT-3.5-turbo
+Append: [最高150万元！这个设计大赛报名即将截止！](https://mp.weixin.qq.com/s/BoeVyjENjkvLBE7uXPswpQ)
+Token length: 2151
+Summarized using GPT-3.5-turbo
+Append: [2金1银1铜！深圳健儿巴黎奥运三创历史](https://mp.weixin.qq.com/s/gGRnI9L_zBmtlrZlCpvSmQ)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [这17款APP被通报！赶紧卸载→](https://mp.weixin.qq.com/s/1p8gOYTGUNFLfHp7AW05nw)
+Token length: 491
+Summarized using GPT-3.5-turbo
+Append: [纪录刷新！88.7万人次！](https://mp.weixin.qq.com/s/BlLpKVLc6oLj2oTlxnDyfA)
+Token length: 2211
+Summarized using GPT-4o
+Append: [1人丧生60人受伤！今起闭园！亲历者发声→](https://mp.weixin.qq.com/s/ClwaATZ2GPwxmb0PR6OiwA)
+Token length: 1752
+Summarized using GPT-3.5-turbo
+Append: [年销3000吨！有人狂爱，有人根本碰不得……](https://mp.weixin.qq.com/s/6zuHqBF7K915hVpUDFxOIw)
+Token length: 1177
+Summarized using GPT-4o
+Append: [燃情八月，旅游热热热](https://mp.weixin.qq.com/s/-e63H9okkSj-5BxFRK9qsw)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [抢票 |《侠骨柔情》](https://mp.weixin.qq.com/s/ED_QTwo6mhJLstH_OiWGZw)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [“两蒙面男子”被抓，警方通报](https://mp.weixin.qq.com/s/w-USqgeBijy1K18W_ocEWw)
+Token length: 2236
+Summarized using GPT-4o
+Append: [确诊增多！有人背部打入18枚螺钉！](https://mp.weixin.qq.com/s/sQJD_dNW9vi6AKZa7FDWyw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240811221917752044514tTNA19Vh)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [刚刚，第​40金！中国队完美收官！](https://mp.weixin.qq.com/s/P7oMNflYbDqVqb6XHB_6SQ)
+Token length: 1020
+Summarized using GPT-3.5-turbo
+Append: [这类电话一旦拨通，涉嫌犯罪](https://mp.weixin.qq.com/s/FHlzoaznILW_NCQ9eyMIjw)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 2024081122193347332403fuK8YoIa)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [成都一周｜集中精力抓项目，全力奋战三季度！区（市）县、部门、国企这周在忙啥？](https://mp.weixin.qq.com/s/LZTdyd0FvnyID2cIu-kn0w)
+append_entries: 13
+Finish: 2024-08-11 22:19:37.494656

@@ -5509,3 +5509,24 @@ Existing_entries: 459
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-11 20:19:05.115568
+------------------------------------------------------
+Started: 2024-08-11 22:19:55.916536
+Existing_entries: 459
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 2151
+Summarized using GPT-3.5-turbo
+Append: [2金1银1铜！深圳健儿巴黎奥运三创历史](https://mp.weixin.qq.com/s/gGRnI9L_zBmtlrZlCpvSmQ)
+Token length: 2528
+Summarized using GPT-3.5-turbo
+Append: [最高150万元！这个设计大赛报名即将截止！](https://mp.weixin.qq.com/s/BoeVyjENjkvLBE7uXPswpQ)
+Token length: 2211
+Summarized using GPT-3.5-turbo
+Append: [1人丧生60人受伤！今起闭园！亲历者发声→](https://mp.weixin.qq.com/s/ClwaATZ2GPwxmb0PR6OiwA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240811222031533026298uexnJBjp)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [确诊增多！有人背部打入18枚螺钉！](https://mp.weixin.qq.com/s/sQJD_dNW9vi6AKZa7FDWyw)
+Token length: 1020
+Summarized using GPT-3.5-turbo
+Append: [这类电话一旦拨通，涉嫌犯罪](https://mp.weixin.qq.com/s/FHlzoaznILW_NCQ9eyMIjw)
+append_entries: 5
+Finish: 2024-08-11 22:20:42.240878
