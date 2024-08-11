@@ -5452,3 +5452,30 @@ Existing_entries: 452
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-11 08:21:11.924628
+------------------------------------------------------
+Started: 2024-08-11 10:22:45.702343
+Existing_entries: 452
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 973
+Summarized using GPT-3.5-turbo
+Append: [入行需谨慎！深圳交通部门：警惕4大风险](https://mp.weixin.qq.com/s/Q3bfmyGWhjnTWungahQcrQ)
+Token length: 949
+Summarized using GPT-3.5-turbo
+Append: [准备好！2个新台风！深圳将退出“35℃高温群聊”](https://mp.weixin.qq.com/s/slRt6L62H0Aq1x5J5QWbuA)
+Token length: 1624
+Summarized using GPT-3.5-turbo
+Append: [又来了！爆发区域正对地球！会影响身体吗？](https://mp.weixin.qq.com/s/elSekSm65pFMTT5UOMLcrQ)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [雷阵雨+8级大风！深圳发出全市预警！出门注意](https://mp.weixin.qq.com/s/Mt3g6B1DgMTA1K4ELeX1Rw)
+Token length: 1244
+Summarized using GPT-3.5-turbo
+Append: [天气有多晒？1岁娃户外光脚跑，5分钟后起水泡如“气球”……](https://mp.weixin.qq.com/s/8Qf-dbwRmVNVs8EfAaPIGg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240811102321422590333DwNpgI3b)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [太需要了！网友：建议全国推广](https://mp.weixin.qq.com/s/cRbojkJ_K3POk-uTMKgA5g)
+Token length: 1225
+Summarized using GPT-3.5-turbo
+Append: [大咖空降！摘金+1🥇！福田又凭实力“圈粉”了......](https://mp.weixin.qq.com/s/0zsaul0et3jPdxK8hOaThw)
+append_entries: 7
+Finish: 2024-08-11 10:23:31.924300
