@@ -5530,3 +5530,9 @@ Summarized using GPT-3.5-turbo
 Append: [这类电话一旦拨通，涉嫌犯罪](https://mp.weixin.qq.com/s/FHlzoaznILW_NCQ9eyMIjw)
 append_entries: 5
 Finish: 2024-08-11 22:20:42.240878
+------------------------------------------------------
+Started: 2024-08-12 01:22:39.539367
+Existing_entries: 464
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+append_entries: 0
+Finish: 2024-08-12 01:22:42.039128
