@@ -9935,3 +9935,9 @@ Summarized using GPT-3.5-turbo
 Append: [小心中毒！这种菜正上市，越新鲜越危险](https://mp.weixin.qq.com/s/DE_-3zsbnVvOrYfJLy85tA)
 append_entries: 30
 Finish: 2024-08-12 10:23:46.286182
+------------------------------------------------------
+Started: 2024-08-12 12:37:25.327629
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-12 12:37:28.562040
