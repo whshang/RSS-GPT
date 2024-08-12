@@ -9839,3 +9839,99 @@ Summarized using GPT-3.5-turbo
 Append: [【鲜牛乳冰淇淋】129元12杯！+0.01再送6支冰淇淋+1箱牛奶！](https://mp.weixin.qq.com/s/4nSz0q0kXYGUHwyB22aJiw)
 append_entries: 5
 Finish: 2024-08-12 08:25:36.916359
+------------------------------------------------------
+Started: 2024-08-12 10:20:00.254261
+Existing_entries: 1005
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 828
+Summarized using GPT-3.5-turbo
+Append: [最新回应！事关“深圳取消中小学礼服”](https://mp.weixin.qq.com/s/J73dUYKX78dBcPl6Hb94Ow)
+Token length: 573
+Summarized using GPT-3.5-turbo
+Append: [假的！假的！假的！](https://mp.weixin.qq.com/s/Nr1LvZDRNgzj8-8UEGFUYA)
+Token length: 988
+Summarized using GPT-3.5-turbo
+Append: [6死10伤！遇到雷击正确做法？这个动作很关键→](https://mp.weixin.qq.com/s/4SFqgN5ng47tqkUi3lZRbg)
+Token length: 1445
+Summarized using GPT-3.5-turbo
+Append: [黄埔大道，广州最繁忙的“快车道”](https://mp.weixin.qq.com/s/9tR_XPlDEyqhyqd1KML45A)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [在天河，你的职场人设是___?](https://mp.weixin.qq.com/s/Ut2sl0UT1YSmqwXvlgmtkg)
+Token length: 1011
+Summarized using GPT-3.5-turbo
+Append: [成都下月实施：可直接用公积金支付购房款，无需垫付](https://mp.weixin.qq.com/s/x9iTV2PjRK7gsW2GmmSskA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408121020429547009947N5wg1hk)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“已经Next Level了”！深圳地铁这项服务“圈粉”无数](https://mp.weixin.qq.com/s/dk8ovMvEjhKMtT3fEcvQrQ)
+Token length: 1644
+Summarized using GPT-3.5-turbo
+Append: [突破2亿！TOP1是这个站→](https://mp.weixin.qq.com/s/PrnMntvfrqZRcOc9oSVH_A)
+Token length: 867
+Summarized using GPT-3.5-turbo
+Append: [第6号台风“山神”生成！降温+降雨，接下来深圳天气→](https://mp.weixin.qq.com/s/L3yinXsjB2HIqLzndT-TCA)
+Token length: 979
+Summarized using GPT-3.5-turbo
+Append: [超！热！闹！市民纷纷与“TA”合影](https://mp.weixin.qq.com/s/NdBxXXgnPztIBYKp8Cm-bA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812102121538866976yxekiOmJ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [重磅！成都出台房产新政](https://mp.weixin.qq.com/s/V6NzGJwhco_p39jKJlU5eQ)
+Token length: 932
+Summarized using GPT-3.5-turbo
+Append: [深圳将规划建设国际一流滨海湿地城市！](https://mp.weixin.qq.com/s/OJ8Oyq0l5bAthSyrKXBaHA)
+Token length: 894
+Summarized using GPT-3.5-turbo
+Append: [地铁里有“会合点”了！网友：建议全国推广](https://mp.weixin.qq.com/s/i_x7gKKcQUNv3BaF7Xa84g)
+Token length: 367
+Summarized using GPT-3.5-turbo
+Append: [重磅！成都出台房产新政](https://mp.weixin.qq.com/s/4XnRS5WAtj-Meo8g2gFsrA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 202408121022019742153396lXCcDaq)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [有雨带伞！本周深圳天气→](https://mp.weixin.qq.com/s/Tr5VBQJdJmzHxfEL2VYBag)
+Token length: 1341
+Summarized using GPT-3.5-turbo
+Append: [走！晚上去图书馆上自习🤪🤪](https://mp.weixin.qq.com/s/1Pi8BtOdttBcO98tqnIKlQ)
+Token length: 753
+Summarized using GPT-3.5-turbo
+Append: [已到货！成都可预约接种了](https://mp.weixin.qq.com/s/tDC1DvAviIWWvhvKQ5Lhxw)
+Token length: 547
+Summarized using GPT-3.5-turbo
+Append: [即将上新！深圳拟建设一批新口岸](https://mp.weixin.qq.com/s/2wQ_TtCEsz_IDWtbOQvAZQ)
+Token length: 1059
+Summarized using GPT-3.5-turbo
+Append: [秋日「99元蛋糕」特惠专场 | 周一福利日](https://mp.weixin.qq.com/s/GztMf2z3YVwO7NXobgnP4w)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [“南山朋友推荐了5次，终于去了这家店”](https://mp.weixin.qq.com/s/FF3GtO-ZOh0580apfw9etA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812102247124468353iZm3TZCZ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [音乐剧「芝加哥」原版上演，重磅卡司登录深圳！](https://mp.weixin.qq.com/s/B6IcvjKJ7-pnhQk22GiWIg)
+Token length: 1260
+Summarized using GPT-3.5-turbo
+Append: [盒马热卖清单！每周必囤](https://mp.weixin.qq.com/s/DPKXn8JgYL-TUcDGNgSweA)
+Token length: 38
+Summarized using GPT-3.5-turbo
+Append: [视频 | 霸王茶姬开茶楼了](https://mp.weixin.qq.com/s/KzeaUY02bCGT49eulr5JaA)
+Token length: 2334
+Summarized using GPT-3.5-turbo
+Append: [暴涨近10倍！成都人，“飞”上天了！](https://mp.weixin.qq.com/s/ITvvb7KIzj63mxiySBQJWQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812102330831612506KwfH0Ydh)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“请重要的客人吃饭，预订这家店”](https://mp.weixin.qq.com/s/FD7222TVHhspTw56XpgOWA)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [深圳又一新街区来了！东京咖啡节也来了！](https://mp.weixin.qq.com/s/1qauRegYzy7JH3bCLzMYIQ)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [秋日「99元蛋糕」特惠专场 | 周一福利日](https://mp.weixin.qq.com/s/SXw8uX1MJ8wT-Juftg10Xg)
+Token length: 1135
+Summarized using GPT-3.5-turbo
+Append: [山姆最值得买的，必须是这个啊](https://mp.weixin.qq.com/s/VdvBtIcjc8Z4rwz9eWWybg)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [音乐剧「芝加哥」原版上演，重磅卡司登录深圳！](https://mp.weixin.qq.com/s/69eSvHbH3hnuqL2HrPv1hw)
+Token length: 1753
+Summarized using GPT-3.5-turbo
+Append: [小心中毒！这种菜正上市，越新鲜越危险](https://mp.weixin.qq.com/s/DE_-3zsbnVvOrYfJLy85tA)
+append_entries: 30
+Finish: 2024-08-12 10:23:46.286182

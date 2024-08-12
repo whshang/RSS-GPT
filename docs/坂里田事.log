@@ -4236,3 +4236,15 @@ Existing_entries: 114
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-08-12 08:25:45.585822
+------------------------------------------------------
+Started: 2024-08-12 10:23:52.396649
+Existing_entries: 114
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key. (request id: 20240812102400817767053EEgMHXkg)', 'type': 'chatanywhere_error', 'param': '', 'code': '403 FORBIDDEN'}}
+Append: [坂田16家企业招178人，最高月薪3万！](https://mp.weixin.qq.com/s/4inzWQX-wW7j4p3I4fbS1Q)
+Token length: 1627
+Summarized using GPT-3.5-turbo
+Append: [坂田一司机看到交警“转身就走”？原来是……](https://mp.weixin.qq.com/s/WdWwgTZeAmp5SZ-4Q79iiA)
+append_entries: 2
+Finish: 2024-08-12 10:24:06.920116

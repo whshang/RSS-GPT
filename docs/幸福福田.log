@@ -5560,3 +5560,30 @@ Existing_entries: 464
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-12 08:25:59.175992
+------------------------------------------------------
+Started: 2024-08-12 10:24:18.697635
+Existing_entries: 464
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Token length: 988
+Summarized using GPT-3.5-turbo
+Append: [6死10伤！遇到雷击正确做法？这个动作很关键→](https://mp.weixin.qq.com/s/4SFqgN5ng47tqkUi3lZRbg)
+Token length: 932
+Summarized using GPT-3.5-turbo
+Append: [“已经Next Level了”！深圳地铁这项服务“圈粉”无数](https://mp.weixin.qq.com/s/dk8ovMvEjhKMtT3fEcvQrQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812102452687294678h8oCOgSQ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [小心中毒！这种菜正上市，越新鲜越危险](https://mp.weixin.qq.com/s/DE_-3zsbnVvOrYfJLy85tA)
+Token length: 2770
+Summarized using GPT-3.5-turbo
+Append: [深圳最新公布：42107元！可支配收入咋算的，你懂吗？](https://mp.weixin.qq.com/s/b9QbpZnGaVVj_iIhpr6N_A)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812102527841653631mZ87fzWB)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [广东最新通报：死亡2例！很多深圳人都爱吃](https://mp.weixin.qq.com/s/ekp3qf7gVTwogaD42WKDzg)
+Token length: 3050
+Summarized using GPT-3.5-turbo
+Append: [18384例！广东新冠感染人数“抬头”，医生提醒！](https://mp.weixin.qq.com/s/vFJbfB7XML8SQcN0kRAbdw)
+Token length: 1154
+Summarized using GPT-3.5-turbo
+Append: [暴雨来了！深圳4预警齐发！全市戒备](https://mp.weixin.qq.com/s/snSdi2JHdB7C7vaAbVqWSQ)
+append_entries: 7
+Finish: 2024-08-12 10:25:41.034302
