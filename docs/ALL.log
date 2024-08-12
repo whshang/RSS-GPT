@@ -9812,3 +9812,9 @@ Summarized using GPT-3.5-turbo
 Append: [“信游珠三角”首发体验团，启程！](https://mp.weixin.qq.com/s/YFgdy2J6whsR9fBT2sMMYw)
 append_entries: 3
 Finish: 2024-08-12 04:22:10.070412
+------------------------------------------------------
+Started: 2024-08-12 06:26:40.174329
+Existing_entries: 1003
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-12 06:26:42.561016
