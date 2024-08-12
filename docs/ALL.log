@@ -9965,3 +9965,99 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-12 20:19:08.304908
+------------------------------------------------------
+Started: 2024-08-12 22:17:58.084820
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Token length: 1280
+Summarized using GPT-3.5-turbo
+Append: [免费！15万个名额！](https://mp.weixin.qq.com/s/1_HlPu5KtOl7G0QFGE3PAQ)
+Token length: 1195
+Summarized using GPT-3.5-turbo
+Append: [夏日炎炎，快来纳凉→](https://mp.weixin.qq.com/s/5CICqG76007mdmq_0O69Og)
+Token length: 1247
+Summarized using GPT-3.5-turbo
+Append: [火火火！超2亿流量！](https://mp.weixin.qq.com/s/woZ6fsiFf8FkUN9LN7mScw)
+Token length: 2161
+Summarized using GPT-3.5-turbo
+Append: [出海！“天问”从成都走向全球](https://mp.weixin.qq.com/s/zBb94FmJhsIEw27s24qHXQ)
+Token length: 6203
+Summarized using GPT-4o
+Append: [双语深圳｜AI meets biology: The journey of Dr. Zhou](https://mp.weixin.qq.com/s/IrjCqaHh7wfgMuYTC6cscw)
+Token length: 1917
+Summarized using GPT-4o
+Append: [深圳博物馆免费接驳巴士来啦！周边游攻略看这里🤩](https://mp.weixin.qq.com/s/tYttIWtgi4NErglzQZauUw)
+Token length: 3128
+Summarized using GPT-4o
+Append: [宝藏小店！火了四十年！每件都独一无二……](https://mp.weixin.qq.com/s/l2GoORFFPcH-XpB-M7zzEQ)
+Token length: 1149
+Summarized using GPT-3.5-turbo
+Append: [在全国率先示范碳排放双控制度，《国家碳达峰试点（深圳）实施方案》发布](https://mp.weixin.qq.com/s/YujxskJruqdZ67hCW1nHjQ)
+Token length: 1238
+Summarized using GPT-3.5-turbo
+Append: [夜读 | 这届奥运会，运动员们的这些话值得收藏](https://mp.weixin.qq.com/s/kggUs5jRz-WaElQi4VZudA)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [广东最新通报：死亡2例！小心食用！](https://mp.weixin.qq.com/s/Qyq1jlhSeBwS-EdRyXlecw)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812221912277090765fz4VwEex)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [深圳一居民区惊现毒蛇！现场视频曝光→](https://mp.weixin.qq.com/s/HnwW2uUYEd0ty7fkor8_bQ)
+Token length: 1347
+Summarized using GPT-3.5-turbo
+Append: [不是，你们录取通知书真送“金”啊？](https://mp.weixin.qq.com/s/XuKp2M5VJv5UwbGvaDp_ZQ)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [抢票 | 冰上灰姑娘](https://mp.weixin.qq.com/s/dfHGas0LgPOUwqha78g45w)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812221949556519527iAyRKtx5)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [来，喝杯成都盖碗茶！新中式的风吹到了巴黎街头！](https://mp.weixin.qq.com/s/eB-fdkfZKxv2zKUeAufXHw)
+Token length: 1278
+Summarized using GPT-3.5-turbo
+Append: [深圳现龙卷风！暴雨要来！3台风将共舞……](https://mp.weixin.qq.com/s/nkIYEkpGB8NRsanCZXMxSw)
+Token length: 1732
+Summarized using GPT-3.5-turbo
+Append: [一秒穿越！体验沉浸式戏剧表演！这个研学营招募啦！](https://mp.weixin.qq.com/s/aaZ1a6Fhdg3a7aM5510j-Q)
+Token length: 1964
+Summarized using GPT-3.5-turbo
+Append: [热门博物馆抢不到票？越秀“宝藏”场馆免预约！](https://mp.weixin.qq.com/s/fullWKTm0F6t9cc1m4o-fg)
+Token length: 38
+Summarized using GPT-3.5-turbo
+Append: [党纪学习教育｜党的干部必须具备哪些基本条件？](https://mp.weixin.qq.com/s/6Y-0Vt9KpzayB8i2WiDlrA)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812222033373614459DXdeCIVK)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [时间定了！又一赛事将在成都举办](https://mp.weixin.qq.com/s/iwvOqEGQjYPj0uiwN44D0g)
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [成都小孩圈传疯了！暑假最适合看的展览来啦](https://mp.weixin.qq.com/s/ENcUgUoDAhKJ1vjWvwx-hQ)
+Token length: 2410
+Summarized using GPT-3.5-turbo
+Append: [学习贯彻党的二十届三中全会精神省委宣讲团宣讲报告会、市委宣讲团宣讲报告会暨全市局级领导干部专题研讨班开班式举行](https://mp.weixin.qq.com/s/xnCceWWcBIAbAA-qrt57Tw)
+Token length: 609
+Summarized using GPT-3.5-turbo
+Append: [山东临沂一男子持弓箭射伤多人！动机披露→](https://mp.weixin.qq.com/s/P8SiwdBNbde92Ay5s36NDg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812222110841746085XMgXX3YY)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [公开招考！4201人！成都岗位→](https://mp.weixin.qq.com/s/YjASWDup87Fm_DXjTjMWzw)
+Token length: 667
+Summarized using GPT-3.5-turbo
+Append: [成华发布| 袁顺明看望慰问一线工作人员](https://mp.weixin.qq.com/s/I_G_NZ8qC0QVX27Uoh789w)
+Token length: 3061
+Summarized using GPT-3.5-turbo
+Append: [成都购房、公积金提取政策调整！](https://mp.weixin.qq.com/s/Vj8-8tW0uaKMDIL1IswMYQ)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812222148712097824n7zEjSUs)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [即将开始报名！想学历提升的看过来，最快1.5年毕业！](https://mp.weixin.qq.com/s/e3BBrl5BjJrWXjB1rujUaQ)
+Token length: 1421
+Summarized using GPT-3.5-turbo
+Append: [成都科幻馆免费参观！预约时间/入口→](https://mp.weixin.qq.com/s/3B0_mt0cS1Ak2cNEvSsZeA)
+Token length: 1701
+Summarized using GPT-3.5-turbo
+Append: [单间/套一/套二户型！成都城北保租房上新，附实拍→](https://mp.weixin.qq.com/s/0FavLksooRkn_zZticDPVg)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 20240812222227120958455lEj1JWLQ)', 'type': 'chatanywhere_error', 'param': '', 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [成都地铁乘车禁带物品目录！](https://mp.weixin.qq.com/s/wNPBIqS1bNUEy5fz9uKhgA)
+Token length: 626
+Summarized using GPT-3.5-turbo
+Append: [多名路人突遭弓箭射伤！详情披露→](https://mp.weixin.qq.com/s/LdTsKWPxFf3pmLOdBPDKvA)
+append_entries: 30
+Finish: 2024-08-12 22:22:37.900570
