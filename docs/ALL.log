@@ -10061,3 +10061,9 @@ Summarized using GPT-3.5-turbo
 Append: [多名路人突遭弓箭射伤！详情披露→](https://mp.weixin.qq.com/s/LdTsKWPxFf3pmLOdBPDKvA)
 append_entries: 30
 Finish: 2024-08-12 22:22:37.900570
+------------------------------------------------------
+Started: 2024-08-13 01:21:59.864145
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-13 01:22:03.294300
