@@ -5665,3 +5665,36 @@ Existing_entries: 475
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-13 08:23:21.949731
+------------------------------------------------------
+Started: 2024-08-13 10:24:43.933215
+Existing_entries: 475
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [全面排查！事关公租房违规转租转借！](https://mp.weixin.qq.com/s/O5X56tbH9GFlzdDX81EOow)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [连开3天！咖啡、巧克力重度爱好者进→（文末送票）](https://mp.weixin.qq.com/s/hlHQBpHJzWL5Urvr6oYsoQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [在阳台种花草，也能赢千元奖金？福田人快冲](https://mp.weixin.qq.com/s/rnokwdiauRZG9bSnHkTTmg)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [暴雨来了！伴有7级大风！深圳双预警生效](https://mp.weixin.qq.com/s/Mw9T7lZJK3A8Gt_MTyKZvQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [多家银行官宣：下调！](https://mp.weixin.qq.com/s/b-EAna66Vdlu9T6sanELWA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [深圳家长建言“取消中小学礼服”？官方回应→](https://mp.weixin.qq.com/s/bl93J2_sydUr1j0Fp9CL4w)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [近期热门！有人学完终身瘫痪！紧急提醒：别模仿！](https://mp.weixin.qq.com/s/9kENOWNhv3iDJ_I2L0SsHg)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [假的！假的！假的！](https://mp.weixin.qq.com/s/RJ98uib_E1LZyLP7FDKDsQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [深圳官方提醒：危险！很多人都有……](https://mp.weixin.qq.com/s/s_62XCezIUJS6DrFK4N7Ig)
+append_entries: 9
+Finish: 2024-08-13 10:25:49.960699

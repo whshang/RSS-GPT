@@ -4314,3 +4314,18 @@ Existing_entries: 116
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-08-13 08:23:07.178574
+------------------------------------------------------
+Started: 2024-08-13 10:24:09.501428
+Existing_entries: 116
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [承租人提前解约退租，已支付的租金和押金如何处置？](https://mp.weixin.qq.com/s/YNluZeOF_y46D_aL3me7EA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [童年经典游戏来了！速来坂田闯关挑战赢奖品](https://mp.weixin.qq.com/s/r9gVkZ_f0YPpcyGi5o_N4A)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [@坂田人，如有线索，请举报！！](https://mp.weixin.qq.com/s/yFY3ZHt0QkHn9IxE5neQwA)
+append_entries: 3
+Finish: 2024-08-13 10:24:31.956790

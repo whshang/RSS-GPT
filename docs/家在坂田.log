@@ -4043,3 +4043,15 @@ Existing_entries: 23
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-08-13 08:23:23.006812
+------------------------------------------------------
+Started: 2024-08-13 10:25:50.150102
+Existing_entries: 23
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [好消息，坂田这一超大旧改正式立项](https://mp.weixin.qq.com/s/DTxqi_AXgYR5SCeu3fptGA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [认领代替购买，坂田人的福利来了。](https://mp.weixin.qq.com/s/Nsxu5KyEw4i5-959qTwrGw)
+append_entries: 2
+Finish: 2024-08-13 10:26:05.489192
