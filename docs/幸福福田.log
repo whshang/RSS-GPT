@@ -5728,3 +5728,24 @@ Existing_entries: 484
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-13 20:19:38.473634
+------------------------------------------------------
+Started: 2024-08-13 22:21:42.495117
+Existing_entries: 484
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [“奥运瘾”还没过够？家门口的CBA续上！赠票→](https://mp.weixin.qq.com/s/czxA62snOr0vCw6PxX8KEw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [引众怒！多人报警！事发深圳一道路](https://mp.weixin.qq.com/s/Y7AgCsMZNL3uMbQzDg3Jlw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [AI+变装！在福田，他们把“潮”玩明白了！](https://mp.weixin.qq.com/s/21VwqXyAkJGM01PKXy2onQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [速来投票！福田这五家单位谁更给力？](https://mp.weixin.qq.com/s/3cvUluwxL7kLfZlkVe_4cA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [明早10点开抢！错过等明年🤩](https://mp.weixin.qq.com/s/jqLljD7014xMTPSRJo_QcQ)
+append_entries: 5
+Finish: 2024-08-13 22:22:22.533023
