@@ -5779,3 +5779,36 @@ Existing_entries: 489
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
 append_entries: 0
 Finish: 2024-08-14 08:24:39.482874
+------------------------------------------------------
+Started: 2024-08-14 10:24:09.209479
+Existing_entries: 489
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3085072713.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [放假通知！](https://mp.weixin.qq.com/s/XEntp1IMHdxu0nF599ngzg)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [同一小区价格竟差2倍？广东明确：明码标价！](https://mp.weixin.qq.com/s/amdB2iugljlp8SAjPJMmiQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [网友：延长关口开放时间？官方回复→](https://mp.weixin.qq.com/s/mgRrf_a9SpmabHJcUbKqrw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [网红品牌重回10元时代！网友：感动哭了！](https://mp.weixin.qq.com/s/nroRnhbIqEeEVn8JmQ1LKw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [深圳机场大面积航班延误橙色预警生效中](https://mp.weixin.qq.com/s/NzX9rWPhsfw_LT7EmuXv2w)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [2台风停编，又有2台风生成？深圳全市进入暴雨防御状态](https://mp.weixin.qq.com/s/sc1xDU-GGWcOjnPKHh3vMw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [细菌超600倍！公厕这两样东西，千万别碰！](https://mp.weixin.qq.com/s/1kOdLuqlU0cSMapNO0ORmw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [开始报名！超15000+岗位！](https://mp.weixin.qq.com/s/9Tp_Dod5bwAbCYHgLGXCCQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [强雷雨持续！分区橙色暴雨预警信号生效中](https://mp.weixin.qq.com/s/daiVdPFF0C6nVQy-djbwKg)
+append_entries: 9
+Finish: 2024-08-14 10:25:17.736784

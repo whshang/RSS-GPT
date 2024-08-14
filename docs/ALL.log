@@ -10355,3 +10355,99 @@ Existing_entries: 1004
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-14 08:24:18.631040
+------------------------------------------------------
+Started: 2024-08-14 10:19:37.844795
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [最新发布！成都两地上榜全国百强](https://mp.weixin.qq.com/s/6Gicp2xsN3k77rPp04AdQw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [台风“升级”！强降水+10级大风！深圳多航班延误......](https://mp.weixin.qq.com/s/nTNjgp5JXsv-ioDxnuSc-w)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [放假通知！](https://mp.weixin.qq.com/s/XEntp1IMHdxu0nF599ngzg)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [再见巴黎，下一站大湾区](https://mp.weixin.qq.com/s/NYhhqM0TpeIWHLqWhB5wfQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [蓄势待发！这场体育盛会就在天体→](https://mp.weixin.qq.com/s/PRhcdWgTEADNa1c133QfqQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [成都将新增一座体育公园！时间就在→](https://mp.weixin.qq.com/s/Q-LsOSVc9GlPDZcy9O4IKQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [初秋享野趣！深圳公园免费露营攻略来啦](https://mp.weixin.qq.com/s/wPCjKSYZ4BmDanXle--aRw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [新进展！地铁11号线二期热滑成功](https://mp.weixin.qq.com/s/_WdhZTtz7GnnI0iFXuSdYw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [深圳新地标来了！预计明年投运！](https://mp.weixin.qq.com/s/yePGGpCeWdRjtCrbduJQVQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [最新放假通知！](https://mp.weixin.qq.com/s/ZMyGzyaNzSy956sNMfs_2g)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [最新放假通知！](https://mp.weixin.qq.com/s/UswO6moX1L0kvdDkzWDlIA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [同一小区价格竟差2倍？广东明确：明码标价！](https://mp.weixin.qq.com/s/amdB2iugljlp8SAjPJMmiQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [外国友人在深圳逛公园迷路？官方回应→](https://mp.weixin.qq.com/s/WlhZyp7xZpzdGk14tvbzFw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [最新放假通知！](https://mp.weixin.qq.com/s/SLFgAF_OwgAppKGMt2UmlQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [盒马「买100送100」，限时优惠来了](https://mp.weixin.qq.com/s/vsPH3BRQGO9CJ148B0N-tA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [“深圳排名第1的饭，重开了”](https://mp.weixin.qq.com/s/MN5OLWaFa0Hs6_SoyRbWCw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [夏日热销「冰淇淋蛋糕」TOP3，低至88元](https://mp.weixin.qq.com/s/NNbHO39VicDQZSui0LaYPA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [低至2.8折 |「侠骨柔情」经典武侠金曲音乐会 · 本周开演！](https://mp.weixin.qq.com/s/d5IN9TCVCilttkJ42J6_0A)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [好吃到停不下来！脆零食库又更新啦](https://mp.weixin.qq.com/s/NQJtSiVezHGSf3_-0gUfQw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [视频 | 深圳看海新地标](https://mp.weixin.qq.com/s/kRorve52XWaZbUef_Vc_xg)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [“深圳排名第1的饭，重开了”](https://mp.weixin.qq.com/s/bGZSK3hvrgiokq1TgJzRcA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [世界最好吃的泡面，8月零食热销榜](https://mp.weixin.qq.com/s/G4grIRi4Er69Qy1aIhJWTA)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [夏日热销「冰淇淋蛋糕」TOP3，低至88元](https://mp.weixin.qq.com/s/KNPI0RaDISlzhy0A-4d4Uw)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [不愧是深圳！首个「赛博朋克地铁站」来了](https://mp.weixin.qq.com/s/TdMR8SiUSxiKV2M94KyB_w)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [低至2.8折 |「侠骨柔情」经典武侠金曲音乐会 · 本周开演！](https://mp.weixin.qq.com/s/KaPBeESrIOhiOfmCFdWXRQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [盒马「买100送100」，818大嘴节来了](https://mp.weixin.qq.com/s/PPXNNP0kPW72NWBYdDd_9g)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [粉丝福利！送音乐会门票！](https://mp.weixin.qq.com/s/BV4LDaDpGOQhsrM27wsn4w)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [逆天！近期去过大梅沙的深圳人，你可能已经“粪坑游泳”了…](https://mp.weixin.qq.com/s/Ogl8fgqNSwIfHtt9x-10EQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [生什么病，就忌什么口，这张表留着很有用 ！速看](https://mp.weixin.qq.com/s/GD0WwzYCM3G9KpBVOS0QDQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [【⁩面包新语蛋黄酥礼盒装】39.9元20枚！甜咸适口，酥到掉渣 ！](https://mp.weixin.qq.com/s/lgTMka7AtieQ5JpvS1MXRA)
+append_entries: 30
+Finish: 2024-08-14 10:23:25.336111
