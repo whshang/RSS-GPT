@@ -10451,3 +10451,9 @@ error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway
 Append: [【⁩面包新语蛋黄酥礼盒装】39.9元20枚！甜咸适口，酥到掉渣 ！](https://mp.weixin.qq.com/s/lgTMka7AtieQ5JpvS1MXRA)
 append_entries: 30
 Finish: 2024-08-14 10:23:25.336111
+------------------------------------------------------
+Started: 2024-08-14 12:35:42.446771
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-14 12:35:45.809119
