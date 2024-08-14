@@ -10331,3 +10331,21 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-14 04:21:53.287628
+------------------------------------------------------
+Started: 2024-08-14 06:25:47.331318
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [演出 | 新西兰民谣歌手「LukeThompson」，深圳开唱](https://mp.weixin.qq.com/s/Q6mMxT7Y2BlgjF07xbr5EQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [不愧是深圳！首个「赛博朋克地铁站」来了](https://mp.weixin.qq.com/s/13QuWcemVxUTSD8yLKMpjQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [演出 | 赖声川经典话剧「宝岛一村」 ，即将开演](https://mp.weixin.qq.com/s/UG4UXNk_e7-Yn8A8szgSOQ)
+Summarization failed, append the original article
+error: Error code: 502 - {'code': 'SERVICE_UNAVAILABLE', 'message': 'Bad Gateway'}
+Append: [今日 | “得之我幸，失之我幸”](https://mp.weixin.qq.com/s/PwkYiKp9VqSNWI9aAC-GxQ)
+append_entries: 4
+Finish: 2024-08-14 06:26:20.340985
