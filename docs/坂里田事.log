@@ -4564,3 +4564,11 @@ Fetch error: 400
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 error when rendering xml, skip docs/坂里田事
+------------------------------------------------------
+Started: 2024-08-16 04:21:28.509623
+Existing_entries: 122
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Fetch error: 400
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+error when rendering xml, skip docs/坂里田事
