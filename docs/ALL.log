@@ -10921,3 +10921,11 @@ Fetch error: HTTPSConnectionPool(host='wewerss.whshang.me', port=443): Read time
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-08-19 22:19:09.310972
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: 502
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
