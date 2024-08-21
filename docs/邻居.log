@@ -4793,3 +4793,11 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
 append_entries: 0
 error when rendering xml, skip docs/邻居
+------------------------------------------------------
+Started: 2024-08-21 04:23:01.611674
+Existing_entries: 33
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+Fetch error: 502
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+append_entries: 0
+error when rendering xml, skip docs/邻居
