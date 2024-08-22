@@ -11137,3 +11137,11 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-08-22 04:21:54.187782
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: 502
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
