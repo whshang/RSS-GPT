@@ -5105,3 +5105,11 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 error when rendering xml, skip docs/家在坂田
+------------------------------------------------------
+Started: 2024-08-24 18:23:17.204133
+Existing_entries: 25
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Fetch error: 502
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+append_entries: 0
+error when rendering xml, skip docs/家在坂田
