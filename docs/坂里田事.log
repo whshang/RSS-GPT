@@ -5540,3 +5540,39 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 error when rendering xml, skip docs/坂里田事
+------------------------------------------------------
+Started: 2024-08-26 08:25:27.230361
+Existing_entries: 122
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [速来！坂田急招151人，最高月薪3W！](https://mp.weixin.qq.com/s/X4PLKHlJp7dQOB4w4qfeIA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [电动车商铺深夜突发火灾，6人遇难](https://mp.weixin.qq.com/s/hcUzk_7TPJTAbNtm_dKfyA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳消暑好地🧊超出片梦幻玩水乐园💖](https://mp.weixin.qq.com/s/rZydOI3nG4XHi2qSCxZR3A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [20来分钟直达机场！坂田这条城际铁路迎新进展！](https://mp.weixin.qq.com/s/OO7YGLL-r_nJMj57EQWv6A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“爆改”梦中情「台」！龙岗这个有奖活动不容错过→](https://mp.weixin.qq.com/s/XkcBN-UjQyOSYqLa3VKS3g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [找不到车位？“坂里田事”智慧停车帮您一键预约！](https://mp.weixin.qq.com/s/IsKGEKMQOKfNEnMDlhBJuQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [在深圳被欠薪了？用这款小程序，7天内解决！](https://mp.weixin.qq.com/s/011x0zEKN7CY36CMXYDrlw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [拍星河双子塔，赢2千元大奖！快来参与！](https://mp.weixin.qq.com/s/t-pTX_wb9r39YIrCd0eP7Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [惊险！拉电闸、下水救人、心肺复苏……坂田郑跃辉见义勇为，好样的！](https://mp.weixin.qq.com/s/S4HiHQqdwQCkgMX9iNkWDQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田志愿者点亮19名“迷途者”归家路](https://mp.weixin.qq.com/s/ewXCFYtgbxl9vKlMvacKwA)
+append_entries: 10
+Finish: 2024-08-26 08:25:33.550570
