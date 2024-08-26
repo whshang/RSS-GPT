@@ -11633,3 +11633,12 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [福利！龙岗广电少儿语言表达力提升班来喽！](https://mp.weixin.qq.com/s/6A9iH8UqXra5XaAxwrrNjQ)
 append_entries: 30
 Finish: 2024-08-26 08:25:22.252435
+------------------------------------------------------
+Started: 2024-08-26 10:20:22.751969
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“泼天的富贵”，终于轮到龙岗人了！](https://mp.weixin.qq.com/s/6kuqfnHJg4-owfO0TmvzvA)
+append_entries: 1
+Finish: 2024-08-26 10:20:24.102920
