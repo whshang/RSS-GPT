@@ -5532,3 +5532,11 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 error when rendering xml, skip docs/坂里田事
+------------------------------------------------------
+Started: 2024-08-26 06:27:23.371794
+Existing_entries: 122
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Fetch error: 502
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+error when rendering xml, skip docs/坂里田事
