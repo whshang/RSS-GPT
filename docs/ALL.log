@@ -11672,3 +11672,15 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-26 20:20:54.115648
+------------------------------------------------------
+Started: 2024-08-26 22:18:19.840879
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成龙，突传新消息！](https://mp.weixin.qq.com/s/C3AVIsdz16vVSq_7KrEA3g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [蝶变龙岗·10 | 甘坑古镇：百年老村上演文旅“变形记”](https://mp.weixin.qq.com/s/MHYy3KjdDTtsYbuH3XcZug)
+append_entries: 2
+Finish: 2024-08-26 22:18:21.767520
