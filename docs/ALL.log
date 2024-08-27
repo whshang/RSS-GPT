@@ -11771,3 +11771,18 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-27 20:20:15.642769
+------------------------------------------------------
+Started: 2024-08-27 22:19:54.949282
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [香港“光头警长”现身龙岗，只为这件事……](https://mp.weixin.qq.com/s/8pX7VGHE3YhsmlEzOfOFxA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [下班后不必回复工作信息，公司违规罚45万！](https://mp.weixin.qq.com/s/1x0yH632Z1nmS22Un11ymg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [上6休3上3休2上5休1上2休7上5休1！网友算晕了](https://mp.weixin.qq.com/s/QSfbPBLnOdzKFibDRMzV-A)
+append_entries: 3
+Finish: 2024-08-27 22:19:57.900471
