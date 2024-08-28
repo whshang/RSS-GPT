@@ -11864,3 +11864,11 @@ Existing_entries: 1008
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-28 12:37:06.250584
+------------------------------------------------------
+Started: 2024-08-28 14:17:11.274510
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: 521
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
