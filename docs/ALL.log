@@ -11804,3 +11804,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [10000只阳澄湖大闸蟹免费送！手慢无！](https://mp.weixin.qq.com/s/U2T4b88Yhw9Su5KdelwywA)
 append_entries: 4
 Finish: 2024-08-28 01:23:01.201845
+------------------------------------------------------
+Started: 2024-08-28 02:39:48.404549
+Existing_entries: 1004
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-28 02:39:49.004378
