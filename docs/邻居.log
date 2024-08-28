@@ -5511,3 +5511,11 @@ Fetch error: 521
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
 append_entries: 0
 error when rendering xml, skip docs/邻居
+------------------------------------------------------
+Started: 2024-08-28 16:24:23.442437
+Existing_entries: 37
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+Fetch error: 400
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+append_entries: 0
+error when rendering xml, skip docs/邻居
