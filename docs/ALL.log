@@ -11858,3 +11858,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [关于坂田村，你可能不知道的故事](https://mp.weixin.qq.com/s/4xoJYw80MKoVsKDiNBEgDA)
 append_entries: 8
 Finish: 2024-08-28 10:19:16.206233
+------------------------------------------------------
+Started: 2024-08-28 12:37:05.701623
+Existing_entries: 1008
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-28 12:37:06.250584
