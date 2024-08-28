@@ -11786,3 +11786,21 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [上6休3上3休2上5休1上2休7上5休1！网友算晕了](https://mp.weixin.qq.com/s/QSfbPBLnOdzKFibDRMzV-A)
 append_entries: 3
 Finish: 2024-08-27 22:19:57.900471
+------------------------------------------------------
+Started: 2024-08-28 01:22:57.701237
+Existing_entries: 1003
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [岁月见证服务历久弥新 入驻周年共创美好家园](https://mp.weixin.qq.com/s/IPplk6ioPfsa4F5oh9MrTw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [2024自然观察节万科社区携手百户亲子家庭共探生态之美](https://mp.weixin.qq.com/s/SYu7KlHSX3OH2gFmTqj8Ew)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [品质服务持续升级，中邦城市花园旧貌换新颜](https://mp.weixin.qq.com/s/t1Q4xNVUpHx6zWnaK8j-Uw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [10000只阳澄湖大闸蟹免费送！手慢无！](https://mp.weixin.qq.com/s/U2T4b88Yhw9Su5KdelwywA)
+append_entries: 4
+Finish: 2024-08-28 01:23:01.201845

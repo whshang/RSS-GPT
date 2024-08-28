@@ -5449,3 +5449,21 @@ Fetch error: 400
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
 append_entries: 0
 error when rendering xml, skip docs/邻居
+------------------------------------------------------
+Started: 2024-08-28 01:23:01.514564
+Existing_entries: 33
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [2024自然观察节万科社区携手百户亲子家庭共探生态之美](https://mp.weixin.qq.com/s/SYu7KlHSX3OH2gFmTqj8Ew)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [10000只阳澄湖大闸蟹免费送！手慢无！](https://mp.weixin.qq.com/s/U2T4b88Yhw9Su5KdelwywA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [岁月见证服务历久弥新 入驻周年共创美好家园](https://mp.weixin.qq.com/s/IPplk6ioPfsa4F5oh9MrTw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [品质服务持续升级，中邦城市花园旧貌换新颜](https://mp.weixin.qq.com/s/t1Q4xNVUpHx6zWnaK8j-Uw)
+append_entries: 4
+Finish: 2024-08-28 01:23:04.632406
