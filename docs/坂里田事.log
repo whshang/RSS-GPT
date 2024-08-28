@@ -5726,3 +5726,15 @@ Existing_entries: 134
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-08-28 08:24:08.648330
+------------------------------------------------------
+Started: 2024-08-28 10:19:21.224378
+Existing_entries: 134
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [关于坂田村，你可能不知道的故事](https://mp.weixin.qq.com/s/4xoJYw80MKoVsKDiNBEgDA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [已有多人被骗，警方紧急提醒→](https://mp.weixin.qq.com/s/ZFSzGG8Y1voz9Y1yT2t6Qg)
+append_entries: 2
+Finish: 2024-08-28 10:19:22.760712

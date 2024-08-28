@@ -11828,3 +11828,33 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-28 08:24:03.525083
+------------------------------------------------------
+Started: 2024-08-28 10:19:10.002069
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突然加重，已有多名孩子中招！家长老师：超出了想象......](https://mp.weixin.qq.com/s/xIN-qNf5SrCNPw37yrVw9g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [惊险！龙岗2人深夜接连被困山林→](https://mp.weixin.qq.com/s/z4gI0Oo_MJx6w7q2twQv7A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [暑期档最后一期！电影票送送送~](https://mp.weixin.qq.com/s/S1tNrDzIIjLJoYEYsNi0VQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [看守所内“酿酒”引发爆炸？警方通报→](https://mp.weixin.qq.com/s/E7sny9SwiPqqRrPnN2WQDA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [热搜第一！刘谦自曝罹患肺腺癌](https://mp.weixin.qq.com/s/IZQOXoGjk1jZjPjCT5xWrQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [紧急通知：暂停！](https://mp.weixin.qq.com/s/f_9QLjxA5DlbTOznETgRdg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [已有多人被骗，警方紧急提醒→](https://mp.weixin.qq.com/s/ZFSzGG8Y1voz9Y1yT2t6Qg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [关于坂田村，你可能不知道的故事](https://mp.weixin.qq.com/s/4xoJYw80MKoVsKDiNBEgDA)
+append_entries: 8
+Finish: 2024-08-28 10:19:16.206233
