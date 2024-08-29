@@ -12022,3 +12022,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [广州首家！就在珠江新城！](https://mp.weixin.qq.com/s/52tUQROh-eRmoi9T9V7spg)
 append_entries: 19
 Finish: 2024-08-29 02:41:51.438544
+------------------------------------------------------
+Started: 2024-08-29 04:22:45.705150
+Existing_entries: 1019
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-29 04:22:47.584601
