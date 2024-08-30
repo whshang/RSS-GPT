@@ -12122,3 +12122,15 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [重大事件！PIPI隐世形象大公开](https://mp.weixin.qq.com/s/yQaWVTHPHaGy9yhd68JOXA)
 append_entries: 2
 Finish: 2024-08-30 04:23:15.058082
+------------------------------------------------------
+Started: 2024-08-30 06:26:57.718883
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [快收藏！家门口的运动场地攻略，帮你缓解“奥运会后遗症”](https://mp.weixin.qq.com/s/akzMTt3Nfe1Nc0SWw4A6Iw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田中心房源，精装两房至改善大平层多种户型出售，随时看房！](https://mp.weixin.qq.com/s/Ko9As_CfjqODBF-qffTSeQ)
+append_entries: 2
+Finish: 2024-08-30 06:27:01.458664
