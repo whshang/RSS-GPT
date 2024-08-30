@@ -12134,3 +12134,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田中心房源，精装两房至改善大平层多种户型出售，随时看房！](https://mp.weixin.qq.com/s/Ko9As_CfjqODBF-qffTSeQ)
 append_entries: 2
 Finish: 2024-08-30 06:27:01.458664
+------------------------------------------------------
+Started: 2024-08-30 08:24:35.629087
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-08-30 08:24:37.448138
