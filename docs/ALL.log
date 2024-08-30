@@ -12140,3 +12140,48 @@ Existing_entries: 1002
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-30 08:24:37.448138
+------------------------------------------------------
+Started: 2024-08-30 10:19:47.166766
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [升级改造停车棚、供水管网、照明灯……林和街道这样做→](https://mp.weixin.qq.com/s/m5Ckx-9S3ugGjurYjVB-Ig)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [即将开工！天河新添“国字号”平台！](https://mp.weixin.qq.com/s/8y877apl1cqmo1DQQ324zw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [超300个岗位！天河这场招聘会“职”等你来](https://mp.weixin.qq.com/s/6Be_eYF6qbKu_ZNy2IeRtw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [9月起，买手机、家电、汽车等有补贴！](https://mp.weixin.qq.com/s/fSxkYd33qJxtEPml9JBHJw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [告急！坂田家长请注意！](https://mp.weixin.qq.com/s/rnBYtnaK-Ax8puWJcpTUCA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [强制休息！坂田已有多位老司机被罚](https://mp.weixin.qq.com/s/81qjHuGBT2DZBOQ8N4WmDg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [下班雨来袭！天河区暴雨橙色预警生效！](https://mp.weixin.qq.com/s/F6XiHbnLQD1DeS8ipnZ9xQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [假期就这么水灵灵地结束了！这学期我要……](https://mp.weixin.qq.com/s/oGAGXTBG9lKeox-LSWptFw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官宣！天河这所博物馆跻身“国家级”→](https://mp.weixin.qq.com/s/0HYDxRq3aK3MLkUqP0_keg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [多元文化交汇，还得是天河！](https://mp.weixin.qq.com/s/NbsK1rG7otV_P2Z_O7e1_w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你点我检！饮料、食用油、水产品......天河请你参与食品安全监管→](https://mp.weixin.qq.com/s/i5ACrRmHsLW1KvFW1hB_Fg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [赠票福利 | 小泥巴多巴胺脏玩派对全新上线！](https://mp.weixin.qq.com/s/yu3FNzjyd7yNIFml7lbD0g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [@青年创业者，这波“泼天的富贵”你可要接住了！](https://mp.weixin.qq.com/s/ez1pEr0es8ZbzWX_1HtPYw)
+append_entries: 13
+Finish: 2024-08-30 10:19:57.713236
