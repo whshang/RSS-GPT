@@ -12110,3 +12110,15 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-30 02:42:24.985376
+------------------------------------------------------
+Started: 2024-08-30 04:23:11.006415
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官宣！9月26日盛大开业，「城市快闪计划」启动中](https://mp.weixin.qq.com/s/yGHZ08VOl8pSquyU9jGJkA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重大事件！PIPI隐世形象大公开](https://mp.weixin.qq.com/s/yQaWVTHPHaGy9yhd68JOXA)
+append_entries: 2
+Finish: 2024-08-30 04:23:15.058082
