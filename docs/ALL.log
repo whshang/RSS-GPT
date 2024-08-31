@@ -12251,3 +12251,21 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-08-31 08:23:51.660485
+------------------------------------------------------
+Started: 2024-08-31 10:18:24.630309
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [省级荣誉！猎德这里居然这么美！](https://mp.weixin.qq.com/s/xeRZvNnGhLq8XLImnxFeeA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [电动自行车起火原因集中公布！涉及这些品牌→](https://mp.weixin.qq.com/s/htnhpCvBrx9mqXifNwzk_Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨夜突发！坂田两车相撞，志愿者紧急救援](https://mp.weixin.qq.com/s/IsKxnXQ9LcjB5rwR00PC-Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高奖金3000元！快来参与！](https://mp.weixin.qq.com/s/sODj0UYCACJIh2fOt9hrWA)
+append_entries: 4
+Finish: 2024-08-31 10:18:29.520312
