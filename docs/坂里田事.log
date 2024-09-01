@@ -6056,3 +6056,15 @@ Existing_entries: 142
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-01 08:22:23.122031
+------------------------------------------------------
+Started: 2024-09-01 10:18:22.103447
+Existing_entries: 142
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [上人民日报啦！坂田的智能“攀登者”在重庆大展身手！](https://mp.weixin.qq.com/s/j62p2mDl7AA0J-4Epbhj6Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [能量不足？这份云谷减压指南请收好→](https://mp.weixin.qq.com/s/GezQzRt_QKjXwHTm8NnbRA)
+append_entries: 2
+Finish: 2024-09-01 10:18:24.105901

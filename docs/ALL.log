@@ -12335,3 +12335,21 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-01 08:22:16.896658
+------------------------------------------------------
+Started: 2024-09-01 10:18:13.173371
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新物种+1！发现地点就在天河！](https://mp.weixin.qq.com/s/DZOY0AKYjY6J1DIXrjyVGQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [天河区又添一个教育集团！包括这5所学校→](https://mp.weixin.qq.com/s/juzyT7VmEqratg_jD6mgiQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [上人民日报啦！坂田的智能“攀登者”在重庆大展身手！](https://mp.weixin.qq.com/s/j62p2mDl7AA0J-4Epbhj6Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [能量不足？这份云谷减压指南请收好→](https://mp.weixin.qq.com/s/GezQzRt_QKjXwHTm8NnbRA)
+append_entries: 4
+Finish: 2024-09-01 10:18:17.004406
