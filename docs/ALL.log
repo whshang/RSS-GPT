@@ -12401,3 +12401,11 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-02 02:45:27.230466
+------------------------------------------------------
+Started: 2024-09-02 04:23:40.517726
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: 502
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
