@@ -12425,3 +12425,27 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 error when rendering xml, skip docs/ALL
+------------------------------------------------------
+Started: 2024-09-02 10:20:40.053974
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高5万元！广州人又有钱拿了！](https://mp.weixin.qq.com/s/Lroygqf_z_RPdtUuzlgbOQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全线“洞通”！这条途经天河的地铁有重大进展→](https://mp.weixin.qq.com/s/mDFV6jWvBt31M0hO2BVeKg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [免费体验！来天河学雕刻饼印，做广式水晶饼→](https://mp.weixin.qq.com/s/7J8A9Eumw3g_eYR7ess76w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [多图直击！天河“开学大片”来啦🥰](https://mp.weixin.qq.com/s/5lMq3TJxewhc5NGSPzyQ-g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [18家坂田企业急招，最高月薪3.5W！](https://mp.weixin.qq.com/s/tgB1PxzziZueHJglmB2z9w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不见面也能传！涉及深圳多个区域！深圳疾控提醒：做好防范](https://mp.weixin.qq.com/s/wKpuVtJhiwzIrk_BX0wr5A)
+append_entries: 6
+Finish: 2024-09-02 10:20:46.514163

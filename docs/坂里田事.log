@@ -6140,3 +6140,15 @@ Fetch error: 502
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 error when rendering xml, skip docs/坂里田事
+------------------------------------------------------
+Started: 2024-09-02 10:20:51.975897
+Existing_entries: 144
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不见面也能传！涉及深圳多个区域！深圳疾控提醒：做好防范](https://mp.weixin.qq.com/s/wKpuVtJhiwzIrk_BX0wr5A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [18家坂田企业急招，最高月薪3.5W！](https://mp.weixin.qq.com/s/tgB1PxzziZueHJglmB2z9w)
+append_entries: 2
+Finish: 2024-09-02 10:20:55.151444
