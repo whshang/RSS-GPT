@@ -12515,3 +12515,27 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-03 08:24:26.009957
+------------------------------------------------------
+Started: 2024-09-03 10:19:52.880997
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [广州最新发文：全市新房，开始实施！](https://mp.weixin.qq.com/s/Tr0VxbKrkEkJUhOCbFVThg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [强台风级或超强台风级！“摩羯”将直接影响广东，登陆时间→](https://mp.weixin.qq.com/s/2EXWnO6-ZkGLah9t9jhI3w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新增5000多个学位！天河6所学校“上新”→](https://mp.weixin.qq.com/s/Ac8Vt4BS0NzDu38I-NuWHg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高1.6万元补贴！线下买新家电太香啦！](https://mp.weixin.qq.com/s/fpFQdDHVhtTnuzdnwiR1yQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [开学啦🥳，来看看坂田学校的花式迎新！](https://mp.weixin.qq.com/s/fDvqtU4WGWY6eTUFz6lWuQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [急！急！急！坂田需要大家的“一臂之力”](https://mp.weixin.qq.com/s/Kp2TtpJJG_irqPL6VnXi1Q)
+append_entries: 6
+Finish: 2024-09-03 10:19:59.367366
