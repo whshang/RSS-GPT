@@ -6296,3 +6296,15 @@ Existing_entries: 148
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-04 08:23:24.830918
+------------------------------------------------------
+Started: 2024-09-04 10:20:21.325885
+Existing_entries: 148
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [统统免费！汉服、插花、彩妆、瑜伽……9月青年之家活动报名开启](https://mp.weixin.qq.com/s/3yPO8sufUK4qS4inbkzj6A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [途经坂田2个站点的22号线一期新进展来啦→](https://mp.weixin.qq.com/s/EAvC3hOEHQG_kkXlx-wtdA)
+append_entries: 2
+Finish: 2024-09-04 10:20:23.725153
