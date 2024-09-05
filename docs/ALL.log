@@ -12749,3 +12749,18 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-05 20:20:20.063038
+------------------------------------------------------
+Started: 2024-09-05 22:17:34.295906
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】黑神话悟空畅玩24元/小时，洗剪吹17.9元，大杯奶茶10.9元，淘气堡亲子票9.9元，皇冠梨4.5斤19.9元..](https://mp.weixin.qq.com/s/4dma2Tb0BrOcptlIgBvt6Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】餐吧免费领百威啤酒，洗车享会员价，羽毛球馆周一周二上午免费，四季同仁椰子鸡新店6折，砀山皇冠梨4.5斤19.9元..](https://mp.weixin.qq.com/s/A70HxoV-NPs66H2a2Q1rjQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】日料单人餐48元，心灵瑜伽0元体验课，superlucky牛乳茶2杯15元，砀山皇冠梨4.5斤19.9元...](https://mp.weixin.qq.com/s/SKV7egsgTusYTERe3NAevg)
+append_entries: 3
+Finish: 2024-09-05 22:17:38.426991
