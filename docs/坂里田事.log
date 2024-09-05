@@ -6374,3 +6374,15 @@ Existing_entries: 150
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-05 08:24:44.476272
+------------------------------------------------------
+Started: 2024-09-05 10:20:32.986183
+Existing_entries: 150
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [预告 | 汽车产业展、小弹唱LIVE、集装箱涂鸦挑战……坂田又一波精彩活动来袭](https://mp.weixin.qq.com/s/hkiV2FOeZHPm9bw2eIhXXA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [粉丝福利到！送20张票！](https://mp.weixin.qq.com/s/VTx0Qms-1GPTTBWB0T1ttg)
+append_entries: 2
+Finish: 2024-09-05 10:20:35.321778

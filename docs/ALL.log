@@ -12695,3 +12695,27 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-05 08:24:38.413736
+------------------------------------------------------
+Started: 2024-09-05 10:20:21.164038
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [出行请注意！天河这个路段将施工改造→](https://mp.weixin.qq.com/s/VSJtx__Q3eyKGf36lbB8mg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [明年投入使用！天河将新添三座天桥→](https://mp.weixin.qq.com/s/jzxzaJ7ALx_2OFMoMoUGDQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [工资有变！近期或将多两笔钱](https://mp.weixin.qq.com/s/nZPehlvCuIxpDSAGZOF8EA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [升至17级！“摩羯”预计将正面登陆广东！最新动态→](https://mp.weixin.qq.com/s/2eI_KNzVY9puncxjWFcCxg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [粉丝福利到！送20张票！](https://mp.weixin.qq.com/s/VTx0Qms-1GPTTBWB0T1ttg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [预告 | 汽车产业展、小弹唱LIVE、集装箱涂鸦挑战……坂田又一波精彩活动来袭](https://mp.weixin.qq.com/s/hkiV2FOeZHPm9bw2eIhXXA)
+append_entries: 6
+Finish: 2024-09-05 10:20:27.588313
