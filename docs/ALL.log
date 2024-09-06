@@ -12815,3 +12815,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田首届足协杯，开始报名啦！](https://mp.weixin.qq.com/s/hbpiyiOolrg4cPR7SfCljA)
 append_entries: 5
 Finish: 2024-09-06 10:20:14.816849
+------------------------------------------------------
+Started: 2024-09-06 12:36:15.848043
+Existing_entries: 1005
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-06 12:36:17.921581
