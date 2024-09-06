@@ -12794,3 +12794,24 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-06 08:24:17.774512
+------------------------------------------------------
+Started: 2024-09-06 10:20:09.379974
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“剪”除居民烦恼！新塘街清理枯枝除隐患→](https://mp.weixin.qq.com/s/t9Igp8gxfO6PZv6iUi962A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你问我什么是环五山？](https://mp.weixin.qq.com/s/2UwNZBNI_UifCkwMxjQmbA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [台风“摩羯”已成“风王”！今天下午至傍晚或以巅峰强度登陆！](https://mp.weixin.qq.com/s/-QIf8tvGxVIZok9wisZPuQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [台风黄色预警！全市停课！Ⅰ级应急响应！坂田公布应急热线！](https://mp.weixin.qq.com/s/T1O15_UykRwN4FmuNhY5cQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田首届足协杯，开始报名啦！](https://mp.weixin.qq.com/s/hbpiyiOolrg4cPR7SfCljA)
+append_entries: 5
+Finish: 2024-09-06 10:20:14.816849

@@ -6452,3 +6452,15 @@ Existing_entries: 152
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-06 08:24:23.728328
+------------------------------------------------------
+Started: 2024-09-06 10:20:20.222183
+Existing_entries: 152
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [台风黄色预警！全市停课！Ⅰ级应急响应！坂田公布应急热线！](https://mp.weixin.qq.com/s/T1O15_UykRwN4FmuNhY5cQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田首届足协杯，开始报名啦！](https://mp.weixin.qq.com/s/hbpiyiOolrg4cPR7SfCljA)
+append_entries: 2
+Finish: 2024-09-06 10:20:22.507808
