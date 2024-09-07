@@ -6530,3 +6530,15 @@ Existing_entries: 154
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-07 08:22:01.895023
+------------------------------------------------------
+Started: 2024-09-07 10:19:13.393392
+Existing_entries: 154
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [建议收藏，坂田图书馆九月活动预告来袭！](https://mp.weixin.qq.com/s/isrgoBIuLM3DndLeSR3RVw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [五线换乘！坂田这一“超级枢纽” 有新进展→](https://mp.weixin.qq.com/s/AZwIXzDn_wNWK9q3oQ27lw)
+append_entries: 2
+Finish: 2024-09-07 10:19:15.627524

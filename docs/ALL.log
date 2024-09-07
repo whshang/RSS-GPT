@@ -12881,3 +12881,21 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-07 08:21:55.520402
+------------------------------------------------------
+Started: 2024-09-07 10:19:03.230730
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“摩羯”今日或将第三次登陆！广州今天还有雨……](https://mp.weixin.qq.com/s/A_hx2EL2tvZtpUs3luiqRw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今起恢复停靠！涉及天河这些公交线路→](https://mp.weixin.qq.com/s/xEpAE9JE7phke0KlDRO9Mw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [建议收藏，坂田图书馆九月活动预告来袭！](https://mp.weixin.qq.com/s/isrgoBIuLM3DndLeSR3RVw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [五线换乘！坂田这一“超级枢纽” 有新进展→](https://mp.weixin.qq.com/s/AZwIXzDn_wNWK9q3oQ27lw)
+append_entries: 4
+Finish: 2024-09-07 10:19:08.046645
