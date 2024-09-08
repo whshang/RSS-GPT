@@ -12983,3 +12983,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最高200元！新一轮广东消费券即将开抢→](https://mp.weixin.qq.com/s/BL2a-c7bv1ryl-b2Ydem6g)
 append_entries: 4
 Finish: 2024-09-08 10:19:08.513273
+------------------------------------------------------
+Started: 2024-09-08 12:34:15.705492
+Existing_entries: 1004
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-08 12:34:17.853803
