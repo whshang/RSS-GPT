@@ -6608,3 +6608,15 @@ Existing_entries: 156
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-08 08:22:29.170580
+------------------------------------------------------
+Started: 2024-09-08 10:19:13.932064
+Existing_entries: 156
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田优品 | 当当博士学生手机上市啦！超值福利超多赠品](https://mp.weixin.qq.com/s/qx0qLj4kU_Tp0SYP3ciDvQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [聚焦智能网联汽车产业！坂田帮企业搭场景促发展](https://mp.weixin.qq.com/s/lNYQ13IMEw_ZWjXUDp946g)
+append_entries: 2
+Finish: 2024-09-08 10:19:16.292307

@@ -12965,3 +12965,21 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-08 08:22:22.740285
+------------------------------------------------------
+Started: 2024-09-08 10:19:03.542829
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [聚焦智能网联汽车产业！坂田帮企业搭场景促发展](https://mp.weixin.qq.com/s/lNYQ13IMEw_ZWjXUDp946g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田优品 | 当当博士学生手机上市啦！超值福利超多赠品](https://mp.weixin.qq.com/s/qx0qLj4kU_Tp0SYP3ciDvQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [伸手2秒进站！广州BRT试运行“刷掌”乘车→](https://mp.weixin.qq.com/s/-_e6Zaex4Lt3zNJVEGK_kw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高200元！新一轮广东消费券即将开抢→](https://mp.weixin.qq.com/s/BL2a-c7bv1ryl-b2Ydem6g)
+append_entries: 4
+Finish: 2024-09-08 10:19:08.513273
