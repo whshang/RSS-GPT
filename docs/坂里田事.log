@@ -6698,3 +6698,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田万科广场开业时间定啦！本周岗位多多，月薪最高10W](https://mp.weixin.qq.com/s/KRlHde4DjvxCALPLGgN6rg)
 append_entries: 2
 Finish: 2024-09-09 10:22:01.556542
+------------------------------------------------------
+Started: 2024-09-09 12:38:06.540156
+Existing_entries: 160
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+Finish: 2024-09-09 12:38:07.544537
