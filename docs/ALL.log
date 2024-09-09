@@ -13256,3 +13256,45 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-09 20:20:19.505164
+------------------------------------------------------
+Started: 2024-09-09 22:17:50.581413
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成华发布 | 袁顺明看望慰问教师，向全区广大教师和教育工作者致以节日祝福和诚挚问候](https://mp.weixin.qq.com/s/MjRCKofpeDhv0BeSB0l75g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [首批新生已入学！成都市树德中学淮州学校正式启用 →](https://mp.weixin.qq.com/s/Vnhg0Tb6dShP4Uhrzq3v8w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [致敬！今晚，成都为你亮灯！](https://mp.weixin.qq.com/s/Pvl-EOkhZkQcGnbmlHZjAg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都又一博物馆免费开放！](https://mp.weixin.qq.com/s/WOGWdnVLAtYsenOFYdCU1Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军调研城市运行和应急管理工作，要求加快构建超大城市智慧高效治理体系，促进高质量发展和高水平安全良性互动](https://mp.weixin.qq.com/s/4u3id2r13eksFGAAFi7uQA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [圆满成功！来这里，点亮孩子语言梦想→](https://mp.weixin.qq.com/s/FMsfFQ37YvkEH2394FxGxQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚确定怀孕，三天后就生了！](https://mp.weixin.qq.com/s/CMnAp0USMfxfpYBY2_nJtQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军王凤朝看望慰问教师，向全市教育战线广大教师和教育工作者致以节日祝贺和亲切问候](https://mp.weixin.qq.com/s/I66jDkEev3JimcLMDckctA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新通知：延时服务！](https://mp.weixin.qq.com/s/HMBzdwazb1n7RGkH4mHMSA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [展现“硬核”实力！晋级全国总决赛→](https://mp.weixin.qq.com/s/UKYH1zqkP-1ErFD2ieGDaw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [蝶变龙岗·14 | 横岗再生水厂：成就多项“深圳之最”的节水先行者](https://mp.weixin.qq.com/s/XP3QeJLkmkOeSb1SqjaJQA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雷雨大风来了！成都发布山洪+地灾双预警！](https://mp.weixin.qq.com/s/-hSq9tU1D-70le6zTvMxzQ)
+append_entries: 12
+Finish: 2024-09-09 22:18:01.058898
