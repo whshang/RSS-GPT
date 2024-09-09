@@ -13103,3 +13103,45 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [广东多所高校，紧急通知！](https://mp.weixin.qq.com/s/ZYgUWXpoOOnIJrObf-CkJw)
 append_entries: 20
 Finish: 2024-09-09 06:30:26.745703
+------------------------------------------------------
+Started: 2024-09-09 08:26:36.733348
+Existing_entries: 1020
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [单件最高补贴2000元，一次性最高补贴32000元……](https://mp.weixin.qq.com/s/KftjO4AsajcgZFljTJdU1Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [员工搬去哪？“我们来解决！”](https://mp.weixin.qq.com/s/Dn2IQZjYg-aUqu624UMq9A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不要买！不要吃！紧急提醒：或含致癌物](https://mp.weixin.qq.com/s/eAewLcC_xSZ2LN8hRWdf3Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事业单位公开招聘！](https://mp.weixin.qq.com/s/mY6OWg1UQ1_9xd8J08bKAA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [踏水桥的桥名来历，原来是……](https://mp.weixin.qq.com/s/9Q0fLtRdiQGbyANnZPDUAA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [阵雨、雷雨将至！成都这些地方注意→](https://mp.weixin.qq.com/s/fD-fQ6fX_CQiIy2x3p_GuQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [当四川人开始说英语🤙🤙](https://mp.weixin.qq.com/s/KMZph1ptvbxomZP75lA4Yw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [下架！微信最新公告→](https://mp.weixin.qq.com/s/wQUCQPiRMcnEOh5mvsQmcg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [淘宝、微信正式宣布！时间定了→](https://mp.weixin.qq.com/s/Ak4Ot3ujVeGGolB9Yvtddg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [香惨了！你们早饭都这么会吃？](https://mp.weixin.qq.com/s/HttQayQ09yLwuRJ4BEF-kA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [持续火爆！成都演唱会、演出又上新了→](https://mp.weixin.qq.com/s/OBtaKFyNeuZ3QjcW7RDNMQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [地铁直达！升仙湖畔的彼岸花又开啦🌸🌸](https://mp.weixin.qq.com/s/Ta9Pf_tc3Ty_8lqY_nWENQ)
+append_entries: 12
+Finish: 2024-09-09 08:26:46.813455
