@@ -6842,3 +6842,15 @@ Existing_entries: 162
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-11 08:25:41.227926
+------------------------------------------------------
+Started: 2024-09-11 10:20:06.305446
+Existing_entries: 162
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这里要火了！非遗火壶、英歌舞、周同学主题快闪……还有月饼礼盒送！](https://mp.weixin.qq.com/s/3Q9NTNUQ8BTEw8Tt5dZyyQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田“反诈杂货铺”周四营业！反诈礼包送送送！](https://mp.weixin.qq.com/s/9MsM98LFrlm6so9g6YLp1w)
+append_entries: 2
+Finish: 2024-09-11 10:20:08.423544
