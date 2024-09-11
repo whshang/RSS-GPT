@@ -13648,3 +13648,54 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-11 20:19:07.027896
+------------------------------------------------------
+Started: 2024-09-11 22:17:56.085977
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都这场座谈会，来了十几家“华字辈”企业](https://mp.weixin.qq.com/s/S9MzIw7rWEDLuiyHbL4wOg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [当面精准解答，现场“领任务”！成都各部门这样做→](https://mp.weixin.qq.com/s/pmvU_lRHzVml1qng2V91SQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军王凤朝会见眉山市党政代表团](https://mp.weixin.qq.com/s/tNTsATDMiPRb5jEC86zhlQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都这两所大学，新校区投用！](https://mp.weixin.qq.com/s/BdM0foLmaAo7aXBBGEiu0w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [广东3名干部被处分](https://mp.weixin.qq.com/s/9KWkM1jLn-9Tg4RmVvfprw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [元凶又是它！医生提醒→](https://mp.weixin.qq.com/s/xiQ8SbAJLAEXonxzS_233A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [对工业企业自发电给予补贴！成都出台迎峰度夏电力供应保障十条措施](https://mp.weixin.qq.com/s/1URLZupzUJzqqHIblE6muQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [王晓晖主持召开全省经济运行工作推进会议强调：坚定不移实现全年目标任务，勇担经济大省责任为全国大局多作贡献](https://mp.weixin.qq.com/s/hJFGEg6Gx27m1p6Oat2-Zw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [逆天啦！](https://mp.weixin.qq.com/s/HQQKNCNs99ipY0fX2pcFxA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [别跑空！这三天暂停服务！](https://mp.weixin.qq.com/s/A4TN_0B8oP-8TYeeRwrF6Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [家门口的黄金工作最高月薪1.2W，等你来撩！坂田车库，等你来租！6只喵星人急寻专属铲屎官 I 邻里便民墙](https://mp.weixin.qq.com/s/F0Hq-ffYerpuvQxPQShrrA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [月薪直逼万元，家门口的岗位等你撩！珠海横琴秘境木屋入住转让，体现梦想家园！萌宠狗狗寻爱心主人，幸福生活一键开启  I 邻里便民墙](https://mp.weixin.qq.com/s/ojjT3WGxrTVaCG_z-pyLKQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [家门口月薪8000的工作等你来端！壁挂炉打印机低价转让，等你带回家！喵界通缉令，急寻走失的喵星人 I邻里便民墙](https://mp.weixin.qq.com/s/V0jHxzW1dXGDqCiXKWz7JA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来K11看老照片！二十年前的珠江新城原来长这样……](https://mp.weixin.qq.com/s/P-lHZ6rtD4bzb5gWngIqBA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [知名演员家属紧急发声：硬刚到底！](https://mp.weixin.qq.com/s/RQe5T85rpAxQ8AC7ScbjxA)
+append_entries: 15
+Finish: 2024-09-11 22:18:08.254075
