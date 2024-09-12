@@ -6920,3 +6920,15 @@ Existing_entries: 164
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-12 08:24:20.483713
+------------------------------------------------------
+Started: 2024-09-12 10:21:07.363459
+Existing_entries: 164
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [速来！坂田本周两场招聘会，月薪最高3.5W！](https://mp.weixin.qq.com/s/26bCEuiSh_Yiu0dOiiVM3w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [超级玉兔惊现坂田！中秋游园来这里→](https://mp.weixin.qq.com/s/rmX6DJUFFtzC7f9e5Apwjw)
+append_entries: 2
+Finish: 2024-09-12 10:21:09.567604
