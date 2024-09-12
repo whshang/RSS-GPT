@@ -13831,3 +13831,63 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-12 20:20:41.095867
+------------------------------------------------------
+Started: 2024-09-12 22:18:50.881813
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太太太好逛了！网络大V带你玩转龙岗！](https://mp.weixin.qq.com/s/prHNtQbBpZuw1WRohPwLgw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都大调研丨日均8万人流量，这个社区如何释放超强吸引力？](https://mp.weixin.qq.com/s/z6J5JqnEXgSZ8c0JNhihoA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“老师收礼、家长设局”疯传！官方回应](https://mp.weixin.qq.com/s/oRWBVHG2bagDJugXWO6LHA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [请你看电影！每人两张！](https://mp.weixin.qq.com/s/kq_U5z7L5Q9AOvZ9cEnp3Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今起，淘宝可用微信支付！](https://mp.weixin.qq.com/s/Hmw8xtu7PmeGEPlbEelNSg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [体验龙舟、皮划艇，逛民俗集市……这个中秋，成都这里也太好耍了！](https://mp.weixin.qq.com/s/lIns6TVHGOclMvSo1v6hLw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都这群人，太！帅！了！](https://mp.weixin.qq.com/s/vZxV03sfxxouEWoBkwNmhw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [四川首批！成都这些地名入选→](https://mp.weixin.qq.com/s/ssbUAw3MC-T4l8Gerpw4Lg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [家门口人均百元内就能搞定的聚会餐厅？中秋国庆约上家人朋友欢聚吧！](https://mp.weixin.qq.com/s/kbm7D07SWTE7uXRCFVnGwA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田人均百元内就能搞定的聚会餐厅？中秋国庆约上家人朋友欢聚吧！](https://mp.weixin.qq.com/s/t4v1dmO_WGyTHtG14TehLA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成渝立交人均50元就能搞定的聚会餐厅？中秋国庆约上家人朋友欢聚吧！](https://mp.weixin.qq.com/s/g8O09MNnrsQh07Z5zb5eIw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成渝联动！这场“真”攻“实”防的网络安全演练今日启动](https://mp.weixin.qq.com/s/52VuH0AmS3F6_xxSd4xErQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重要提醒！上班时间有变！](https://mp.weixin.qq.com/s/W83mSziWdyt6aNqbIXE4dQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这样的龙岗，太AI了！](https://mp.weixin.qq.com/s/meD9k15rk-Jp1D4qnLqhfw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [捡不完，用桶装用车载！提醒：危险，别吃！](https://mp.weixin.qq.com/s/biKsuAes6LtGTYrWDAmgqg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [马斯克点赞！龙岗无人机表演火到国外了！](https://mp.weixin.qq.com/s/U38x2q2kfZ7ZsiQTuW7cxA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚，成都发布暴雨蓝色预警！](https://mp.weixin.qq.com/s/f-PvIyJHcsrtKVM_lBE1FA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都发布暴雨蓝色预警](https://mp.weixin.qq.com/s/xgZoBNlj_ZKc7MP1SS9-ow)
+append_entries: 18
+Finish: 2024-09-12 22:19:03.794881
