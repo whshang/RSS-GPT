@@ -14005,3 +14005,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [同样是违停，为啥有的免罚，有的罚200、500甚至2000？](https://mp.weixin.qq.com/s/xGNkYyj7iYA2zzAT53CIDw)
 append_entries: 26
 Finish: 2024-09-13 10:20:22.001789
+------------------------------------------------------
+Started: 2024-09-13 12:36:20.212452
+Existing_entries: 1026
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-13 12:36:21.967423
