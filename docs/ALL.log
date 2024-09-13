@@ -13891,3 +13891,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [成都发布暴雨蓝色预警](https://mp.weixin.qq.com/s/xgZoBNlj_ZKc7MP1SS9-ow)
 append_entries: 18
 Finish: 2024-09-12 22:19:03.794881
+------------------------------------------------------
+Started: 2024-09-13 01:25:12.520103
+Existing_entries: 1018
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-13 01:25:13.989883
