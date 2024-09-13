@@ -14035,3 +14035,33 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-13 20:20:07.598765
+------------------------------------------------------
+Started: 2024-09-13 22:18:52.165150
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨҈雨҈雨҈持续！明日晚高峰将提前→](https://mp.weixin.qq.com/s/24b-r8zcVpW8_ow-VI3KXQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [首批家电换新补贴开始发放！下一步能否“立减”？部门最新答疑](https://mp.weixin.qq.com/s/WRDzlC-p-C0TPl0joFcDOQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [现场出主意，“组团”送服务！这事儿立马办→](https://mp.weixin.qq.com/s/SpI7xf2C65IAPie5tB6coQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [知名女星，官宣结婚！](https://mp.weixin.qq.com/s/8TGfHtz3yAlzBJiJfE_71Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成华发布 | 面对面听诉求，现场办公解难题！袁顺明走访工业企业](https://mp.weixin.qq.com/s/Jiz8Kj4Qakl6ZBo0b7oEFA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [四部门详解延迟退休办法](https://mp.weixin.qq.com/s/VLyagn5FS5w79uNm_g8jSg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重要提醒！这4天不限行！](https://mp.weixin.qq.com/s/VfwXHuIDfCCfIi35v6XGmg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [嚯哟！你到底有好洋盘！](https://mp.weixin.qq.com/s/t9Y9W-f5qLPmV_qP6H_FtA)
+append_entries: 8
+Finish: 2024-09-13 22:18:59.467616
