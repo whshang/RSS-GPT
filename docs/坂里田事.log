@@ -6998,3 +6998,15 @@ Existing_entries: 166
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-13 08:24:17.663233
+------------------------------------------------------
+Started: 2024-09-13 10:20:27.606818
+Existing_entries: 166
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [同样是违停，为啥有的免罚，有的罚200、500甚至2000？](https://mp.weixin.qq.com/s/xGNkYyj7iYA2zzAT53CIDw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这些都是“霸王条款”！涉及健身、购房、教育培训等领域→](https://mp.weixin.qq.com/s/AYLRkSKLJWhtaRhZo_aH9A)
+append_entries: 2
+Finish: 2024-09-13 10:20:29.745814
