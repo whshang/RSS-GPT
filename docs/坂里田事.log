@@ -7076,3 +7076,15 @@ Existing_entries: 168
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-14 08:24:34.832819
+------------------------------------------------------
+Started: 2024-09-14 10:18:47.711836
+Existing_entries: 168
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [龙岗⇌大鹏仅需30分钟！这条城际铁路刷新进度条！](https://mp.weixin.qq.com/s/eM6q08GFOyZN2M1Ew2YBGg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [司机撞死人无刑责，行人获刑两年半，为啥？](https://mp.weixin.qq.com/s/6kpQe9gfGUj_CVI8yWCqfw)
+append_entries: 2
+Finish: 2024-09-14 10:18:50.011034
