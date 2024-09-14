@@ -14167,3 +14167,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [司机撞死人无刑责，行人获刑两年半，为啥？](https://mp.weixin.qq.com/s/6kpQe9gfGUj_CVI8yWCqfw)
 append_entries: 22
 Finish: 2024-09-14 10:18:42.227934
+------------------------------------------------------
+Started: 2024-09-14 12:34:47.812624
+Existing_entries: 1022
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-14 12:34:49.588208
