@@ -7154,3 +7154,15 @@ Existing_entries: 170
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-15 08:24:35.181749
+------------------------------------------------------
+Started: 2024-09-15 10:19:08.990059
+Existing_entries: 170
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [在坂田过中秋🥮，太好玩了！超全攻略→](https://mp.weixin.qq.com/s/dtiQsccGCjzMcFcKWmqhIg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不用交租！坂田这个地方可以免费住7天！](https://mp.weixin.qq.com/s/5LjGSdgWuDSN3Buq96Bk3Q)
+append_entries: 2
+Finish: 2024-09-15 10:19:11.382140
