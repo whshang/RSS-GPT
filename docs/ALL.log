@@ -14362,3 +14362,36 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-15 20:19:37.469882
+------------------------------------------------------
+Started: 2024-09-15 22:18:30.186477
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最受欢迎的依然是Ta！哪款是你的“心头好”](https://mp.weixin.qq.com/s/HL5RPx0my68ryje-9EhW4w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [速递简历！成都这些单位正在招人](https://mp.weixin.qq.com/s/0HrVCtL4lALoWMSmuqpN3Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都一周｜与市场共绘“热力图”！区（市）县、部门、国企这周在忙啥？](https://mp.weixin.qq.com/s/InW7AYs-R7X2tYpBW7IOdA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [人人人人人人！成华各大商超人气旺！](https://mp.weixin.qq.com/s/qYJ9Ok51x3uRrKVULS6dJw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [涉及四川多所高校，拟新增这些专业！](https://mp.weixin.qq.com/s/K-kay4MWr0iZBjx-naZYhw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [微信紧急公告！](https://mp.weixin.qq.com/s/Jo58kB4y5FKzATABU08Dyw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太突然！知名武打演员去世](https://mp.weixin.qq.com/s/LfEo4UTpaMfWcZ-xKdvAbA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [好安逸！和熊猫一起逛世园会](https://mp.weixin.qq.com/s/LvVSYbdAsjFGuTdc3fEO7A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [让我看看，这两天有多少人要去东安湖“练兵”？](https://mp.weixin.qq.com/s/VQv1G7dVRiamS9CNsRs4OQ)
+append_entries: 9
+Finish: 2024-09-15 22:18:38.670615
