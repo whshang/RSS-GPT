@@ -7232,3 +7232,15 @@ Existing_entries: 172
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-16 08:26:16.200464
+------------------------------------------------------
+Started: 2024-09-16 10:22:08.566117
+Existing_entries: 172
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [老年朋友就餐八折！就在坂田这个社区→](https://mp.weixin.qq.com/s/5MVxz_eQK6E3ehvHj-pmrw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [中秋送金秋肥蟹福利？小心你的“钳”！](https://mp.weixin.qq.com/s/oM0Ko_yQjEM_LswNuf3gEg)
+append_entries: 2
+Finish: 2024-09-16 10:22:10.766285
