@@ -14527,3 +14527,57 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-16 20:20:20.397555
+------------------------------------------------------
+Started: 2024-09-16 22:17:15.986707
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新召回！你家可能也有……](https://mp.weixin.qq.com/s/R_p2DBEtUPm51aUpu9xBwA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [即将开行动车！事关成都铁路枢纽环线](https://mp.weixin.qq.com/s/Q-aYRgZfcV7tGYyzT7618Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [火火火火火！成华到底有好多人？](https://mp.weixin.qq.com/s/4jjK00-Fq8apR-KaKqL9Fw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“上天入海”？成都这些新耍法，太火爆！](https://mp.weixin.qq.com/s/1CU9lcppfBaXtGVIDnh0_A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [中秋紧急预警！全国多地均有人收到，深圳官方提醒→](https://mp.weixin.qq.com/s/6kWtL8jpqCk5EWy6yIOWTg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [2144名！成都多个区（市）县公开招聘](https://mp.weixin.qq.com/s/aGE0GWHIuqu-y3RDVC0hLg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [芸山季 | 开业福利6.8折](https://mp.weixin.qq.com/s/Xf8Vq_KqqwP5tKaexF6sww)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [从此，自然有生活 | 坂田万科广场全品牌剧透！](https://mp.weixin.qq.com/s/fhXdo8gSyvAgOyZIZByu3w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [斯凯奇 | 到店即享多重礼遇](https://mp.weixin.qq.com/s/muhaqthRm3j_T-fRHGlFLA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全棉时代丨新店有礼 舒适自在](https://mp.weixin.qq.com/s/GINTlmQb8TxlHF6AVQR6UQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [热风 | 全场特价折上折](https://mp.weixin.qq.com/s/isx-5Ao4g39SXmQ8q7jHEg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [会员攻略 | 多重权益一键Get](https://mp.weixin.qq.com/s/uatIIE_PAXn-ikvsoA4e9g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [湘辣辣 | 坂田万科店盛大开业](https://mp.weixin.qq.com/s/SjbXhMerOwcr78eBSzZK3Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [科沃斯｜滚筒活洗 行业革命](https://mp.weixin.qq.com/s/Zl4OgNvY8QagJc7y_4xk6w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这些微短剧，下架！](https://mp.weixin.qq.com/s/RixCfxmyKK506F4TYuiERQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突传消息，雷军退出！](https://mp.weixin.qq.com/s/7GMR3GzkugvgiVASlOTQeA)
+append_entries: 16
+Finish: 2024-09-16 22:17:28.095366
