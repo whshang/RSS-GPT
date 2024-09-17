@@ -7310,3 +7310,15 @@ Existing_entries: 174
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-17 08:25:38.035864
+------------------------------------------------------
+Started: 2024-09-17 10:20:43.766854
+Existing_entries: 174
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [中秋除了拜月和月饼，还有这些习俗你可能不知道](https://mp.weixin.qq.com/s/IVwD3I99wDcLNp8xHoRioA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这家开在山上的烧鸡店，你吃过吗？](https://mp.weixin.qq.com/s/lNEqlZOzoQnkVdEP37Pm4w)
+append_entries: 2
+Finish: 2024-09-17 10:20:46.314908
