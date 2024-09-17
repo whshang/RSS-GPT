@@ -14707,3 +14707,33 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-17 20:20:44.122617
+------------------------------------------------------
+Started: 2024-09-17 22:17:58.266680
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官方通告：立即停售！](https://mp.weixin.qq.com/s/EWFolXkpNQ7gcl6OR9aEyw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [价格大跳水！低至6元/公斤！](https://mp.weixin.qq.com/s/s4gZnMtjSPfndpAYqAxaOA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都这一高铁站开启改造！](https://mp.weixin.qq.com/s/NHs9-eLmpvgJzKFMltrR6A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [谁懂啊？！这届年轻人都在喝......](https://mp.weixin.qq.com/s/LU4988Mquf6qfP9UbDrg4A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚，圆了！60年一遇！](https://mp.weixin.qq.com/s/OtGEBY1aMKBPF5XAeSOaPg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [价格暴跌！正大量上市](https://mp.weixin.qq.com/s/_EpfjYLTNW9NLuOqN1fIIw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今秋成都为何桂花香“迟到了”？专家解答→](https://mp.weixin.qq.com/s/EJsU04WskTeQC6ESAs5dKQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [多地有震感！乌鲁木齐突发地震！](https://mp.weixin.qq.com/s/jdk1aYMNZkOqm5mlsmH35Q)
+append_entries: 8
+Finish: 2024-09-17 22:18:06.109275
