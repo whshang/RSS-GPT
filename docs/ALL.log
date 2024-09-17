@@ -14581,3 +14581,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [突传消息，雷军退出！](https://mp.weixin.qq.com/s/7GMR3GzkugvgiVASlOTQeA)
 append_entries: 16
 Finish: 2024-09-16 22:17:28.095366
+------------------------------------------------------
+Started: 2024-09-17 01:11:25.797936
+Existing_entries: 1016
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-17 01:11:27.583981
