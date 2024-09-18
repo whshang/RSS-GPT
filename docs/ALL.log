@@ -14884,3 +14884,42 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-18 20:20:16.230468
+------------------------------------------------------
+Started: 2024-09-18 22:18:31.624768
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [还有人“飞线充电”！老旧院落“电马儿”安全隐患仍存在→](https://mp.weixin.qq.com/s/96IPt1jYeGxx-wxL7sY4fg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [燃烧国乐“多巴胺”，看这里→](https://mp.weixin.qq.com/s/Z54Z7GV3tonkSl6B19PO8w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚，突发地震！多地有震感！](https://mp.weixin.qq.com/s/JOuHWP6_87BY2gNea2_gcQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重磅！成都出台优化外商投资环境“20条”](https://mp.weixin.qq.com/s/MHH5CFwEOfm2cWu8WilNww)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军王凤朝会见中国商飞公司董事长贺东风](https://mp.weixin.qq.com/s/6Yg3iW-eFgjjABaTtIyggw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [一场对接会，来了上百家潜在伙伴！看政企如何“双向奔赴”→](https://mp.weixin.qq.com/s/RarNXp42_LWdLn3nlSCiYA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“周星驰御用配音”石班瑜去世](https://mp.weixin.qq.com/s/eEnDGUbcSSzYWlvdD9BZoA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这一天，铭记！吾辈当自强](https://mp.weixin.qq.com/s/Znht0ID5E-QAnCCXMX2soA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新放假通知！这一时间有变→](https://mp.weixin.qq.com/s/f-FPD2HostjEh0BjIPo7sA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [🧡84.09万人次！这个假期成华热力全开〰️](https://mp.weixin.qq.com/s/8xbYBgBITCOo7GpEy_Ct7w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [明确了！连续7天免费！](https://mp.weixin.qq.com/s/YWcSwTDd-TjAkYwehL4Nsw)
+append_entries: 11
+Finish: 2024-09-18 22:18:41.122982
