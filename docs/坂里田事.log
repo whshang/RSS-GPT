@@ -7388,3 +7388,15 @@ Existing_entries: 176
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-18 08:23:03.593720
+------------------------------------------------------
+Started: 2024-09-18 10:21:11.137062
+Existing_entries: 176
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田急招59人，年薪最高50W！](https://mp.weixin.qq.com/s/PNEcx8aHM1UZS6AXW2I33Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [好消息，🥳坂田遛娃好去处+1！](https://mp.weixin.qq.com/s/MfNz2i5gk82IKqrGKqOEoQ)
+append_entries: 2
+Finish: 2024-09-18 10:21:13.339210
