@@ -15058,3 +15058,57 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-19 20:20:19.099897
+------------------------------------------------------
+Started: 2024-09-19 22:18:10.436478
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军主持召开全市经济运行工作推进会议，要求坚定信心、攻坚克难、加压奋进，努力实现全年经济社会发展目标任务](https://mp.weixin.qq.com/s/LjaW-MY0mzR2kc80xKjzVw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [政府、协会、企业，如何打通“最后一公里”？这场调研聚焦→](https://mp.weixin.qq.com/s/yZqHr7PSmoBNXPIlv85WLg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [危险！老旧院落“飞线”充电？马上整改→](https://mp.weixin.qq.com/s/31UUSXeXbRKI8ITvWywVag)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新！买这些车辆可减免一笔钱](https://mp.weixin.qq.com/s/_gVf6Lbtw-pjS_IejbsjjA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“空中ICU”来了！看成都如何“起飞”](https://mp.weixin.qq.com/s/qIcnKVo_yit2rFN0hWkqwg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [赶飞机注意！天府机场正式启用→](https://mp.weixin.qq.com/s/N5ywZJBLfBSGlPiQ5VVk4g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [龙岗电视台全新少儿节目《朗朗新声》校园小主播招募令！](https://mp.weixin.qq.com/s/zspYIhEqTPpssiD2kxYoVQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚证实！他被找到了](https://mp.weixin.qq.com/s/nsqKHBB61Cm5N4KDTRjJ4g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [多个低空经济产业重大项目签约落地成都！](https://mp.weixin.qq.com/s/22ZlXx_2_cJWr9mdDeXJEw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [2024中国（成都）国际低空经济合作伙伴大会举行 曹立军胡亚东致辞](https://mp.weixin.qq.com/s/WM3Wnf96dh_P0pHe1UFb0A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发！一财政厅厅长坠楼身亡](https://mp.weixin.qq.com/s/9EiG2dX9gqxNTO55JlYNiQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】30枚鸡蛋19.9元，500g西梅11.8元，3天健身体验卡免费领，山东秋月梨4.5斤34.9元，红心蜜柚9.9元](https://mp.weixin.qq.com/s/CDnsXRLoeeuJ81u8rJrW2Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】美式咖啡6.5元，面部清洁58元，尤克里里体验课9.9元，山东秋月梨4.5斤34.9元，福建红心蜜柚9.9元...](https://mp.weixin.qq.com/s/liuH-L4lIBmOl_GkqHk_8Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】天虹超市30枚鸡蛋19.9元，鲜牛奶950ml7.8元，三明治拿铁早餐9.8元，盒饭5选1仅13.8元...](https://mp.weixin.qq.com/s/StMj12NAJjkqUQ1VaLKwWg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [定了！9月24日在成都开赛！](https://mp.weixin.qq.com/s/Lx6XFx1dWOxAUstx2AA-dA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [团购优惠、就学支持……成华发布房地产新政](https://mp.weixin.qq.com/s/2H_RBZCY3gCbBnQJt-iSIw)
+append_entries: 16
+Finish: 2024-09-19 22:18:23.275791
