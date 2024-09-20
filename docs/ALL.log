@@ -15112,3 +15112,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [团购优惠、就学支持……成华发布房地产新政](https://mp.weixin.qq.com/s/2H_RBZCY3gCbBnQJt-iSIw)
 append_entries: 16
 Finish: 2024-09-19 22:18:23.275791
+------------------------------------------------------
+Started: 2024-09-20 01:26:24.914538
+Existing_entries: 1016
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-20 01:26:26.663673
