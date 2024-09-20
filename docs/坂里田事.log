@@ -7544,3 +7544,15 @@ Existing_entries: 180
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-20 08:25:02.940447
+------------------------------------------------------
+Started: 2024-09-20 10:20:59.790190
+Existing_entries: 180
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [欢送新兵入伍！坂田这批热血青年光荣启航，逐梦军营！](https://mp.weixin.qq.com/s/9_6i-hmzk1TbT52qbGYYnQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不允许你不知道，这周末坂田超“有戏”！](https://mp.weixin.qq.com/s/EAW04EiGYGTZJgAL8fI2ow)
+append_entries: 2
+Finish: 2024-09-20 10:21:02.011553
