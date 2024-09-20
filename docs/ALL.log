@@ -15256,3 +15256,51 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-20 20:21:35.435068
+------------------------------------------------------
+Started: 2024-09-20 22:19:35.519381
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [8个“95后”，给这个“大家庭”写了一封感谢信](https://mp.weixin.qq.com/s/CWqE0vP4kYkTihGlpJf7YA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今天，开幕！签约金额近60亿](https://mp.weixin.qq.com/s/hrIsIVvJZxjZnAlgLTUTPA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [立减！成都家电以旧换新线上立减平台再添一家](https://mp.weixin.qq.com/s/YzpK5-oOJQBP8pHUY303Bw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [考试时间定了！重要提醒→](https://mp.weixin.qq.com/s/nvNVr-c1gt_rDatF92y_Ww)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都首个！商业新地标+1](https://mp.weixin.qq.com/s/FxgyvCnB_4d198YuX4vdWw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [首届天问华语科幻文学大赛，决赛入围名单、LOGO、吉祥物等公布](https://mp.weixin.qq.com/s/zXoisYPfYOFAcPfGg6nMig)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今晚调油价](https://mp.weixin.qq.com/s/dKZCa6UAUINtT1MxCzcWUQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官宣！万元大奖花落谁家？](https://mp.weixin.qq.com/s/7e7Fz0tRfEru6jI4Qr3Wqg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [有戏！就在明天！](https://mp.weixin.qq.com/s/0T3NA0aE3LwnUtSA4b7muA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [华西二院领办！成都这家医院，新院区来了！](https://mp.weixin.qq.com/s/Fv16ZZqXLWX-S9NWVMrkrA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [就在明天！成都人，见者有份！](https://mp.weixin.qq.com/s/8r-2qbEdXOA7d9gjdf41lg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [中共四川省委十二届六次全会公报](https://mp.weixin.qq.com/s/77DtSM8nmFdOVRTvY5MAUQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“起飞”！多个项目签约](https://mp.weixin.qq.com/s/lEwFRAf1FTBRD6L6cUuxgg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [注意！双预警生效！](https://mp.weixin.qq.com/s/qavtFapCjzGFGdbn4fXwUw)
+append_entries: 14
+Finish: 2024-09-20 22:19:47.771624
