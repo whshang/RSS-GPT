@@ -15430,3 +15430,48 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-21 20:19:17.090686
+------------------------------------------------------
+Started: 2024-09-21 22:17:15.060192
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [666！老年大学里，AI绘画、无人机摄影课火了！](https://mp.weixin.qq.com/s/8h6wUYXot-eGwT8veIpXDA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“90后”的她，出任副市长](https://mp.weixin.qq.com/s/cPOPfQFQpsBWXO0N-K22qw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“抱着试一试的想法”！没想到，他们真的来了→](https://mp.weixin.qq.com/s/ViprztuMXHgGbmN0Oi7BAg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [速递简历！这些单位正在招人](https://mp.weixin.qq.com/s/dwBwIfnQEaDF0tFh3yBpaA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [电影展映、讲座、主题活动……这个月全市都在关注国防教育](https://mp.weixin.qq.com/s/s7brvFoL4bGySJJrwR7Idg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [就在明天！这一天文景观将上线](https://mp.weixin.qq.com/s/TCaxGMmAN1SxocR-eytH6w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全国首批试点！成都入选](https://mp.weixin.qq.com/s/SFSJLeDJjbMHhLUIyZy-jg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新余市市长徐鸿、渝水区委书记刘颖豪等被撤职，55名公职人员被严肃追责问责，佳乐苑小区特别重大火灾事故多名相关责任人被查处](https://mp.weixin.qq.com/s/JrUSv2aJ3snFooCingE3fQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国务院调查组相关负责人就佳乐苑小区特别重大火灾事故调查工作答记者问](https://mp.weixin.qq.com/s/zUxCflNEIHSSw-VO33rRRw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国务院调查组相关负责人就佳乐苑小区特别重大火灾事故调查工作答记者问](https://mp.weixin.qq.com/s/Ygs7Tai7M_qek-6rJJjLfQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [近期高发！中疾控最新提醒→](https://mp.weixin.qq.com/s/zZksdzkKXQQy04f0Z3YkRg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [致39死9伤！调查报告公布](https://mp.weixin.qq.com/s/30f0kRxeSf724awkJq_bIg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新！成都家电以旧换新，线下门店可立减！](https://mp.weixin.qq.com/s/_k6V4ddOkEN-9YgDdY33Pg)
+append_entries: 13
+Finish: 2024-09-21 22:17:26.654081
