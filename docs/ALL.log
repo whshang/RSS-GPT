@@ -15400,3 +15400,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [事关随迁子女入学！成都市教育局权威答疑→](https://mp.weixin.qq.com/s/QFlm_jznKnNtDMyxKlZ3Nw)
 append_entries: 20
 Finish: 2024-09-21 10:18:41.746090
+------------------------------------------------------
+Started: 2024-09-21 12:34:39.267538
+Existing_entries: 1020
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-21 12:34:40.915883
