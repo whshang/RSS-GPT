@@ -7622,3 +7622,15 @@ Existing_entries: 182
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-21 08:22:47.862646
+------------------------------------------------------
+Started: 2024-09-21 10:18:47.488321
+Existing_entries: 182
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [本周日来坂田雪竹径公园参加「瓜呱乐嘉年华」！](https://mp.weixin.qq.com/s/-yAYo8oMK_t5QAdcqkr_xQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最快25km/h！电动自行车将有强制性“新国标”](https://mp.weixin.qq.com/s/Pli1wonl5UOHYqXRz-GRpQ)
+append_entries: 2
+Finish: 2024-09-21 10:18:49.871093
