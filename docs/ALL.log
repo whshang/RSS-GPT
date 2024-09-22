@@ -15475,3 +15475,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最新！成都家电以旧换新，线下门店可立减！](https://mp.weixin.qq.com/s/_k6V4ddOkEN-9YgDdY33Pg)
 append_entries: 13
 Finish: 2024-09-21 22:17:26.654081
+------------------------------------------------------
+Started: 2024-09-22 01:40:40.094663
+Existing_entries: 1013
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-22 01:40:41.908092
