@@ -7700,3 +7700,15 @@ Existing_entries: 184
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-22 08:22:47.089942
+------------------------------------------------------
+Started: 2024-09-22 10:19:17.604451
+Existing_entries: 184
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [10000m²星空广场开放了！还有一大批新店，即将开业](https://mp.weixin.qq.com/s/kky6yaGsDEIA8QqacghF9Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田招5人！有编制！](https://mp.weixin.qq.com/s/plNrNa_0vhamNAR-Yw2yyw)
+append_entries: 2
+Finish: 2024-09-22 10:19:20.037251
