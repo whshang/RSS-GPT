@@ -15637,3 +15637,21 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-23 02:50:50.237017
+------------------------------------------------------
+Started: 2024-09-23 04:23:24.354878
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [授牌！省级联盟入驻越秀！](https://mp.weixin.qq.com/s/BCdzOM8twRZ0niM4U5ZBtg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [换新有着数！“为食”又“识货”的街坊都来越秀了！](https://mp.weixin.qq.com/s/SPBH1rES0MR_Suoei2AXLA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [秋分时节，“科学”养生新食尚为你推荐两“参”美食指南](https://mp.weixin.qq.com/s/_lEXwe_eEuYkPlpXKA8_uQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [非遗体验、文化讲座，好玩还能涨知识！附报名方式](https://mp.weixin.qq.com/s/Npl5AegXykbM_c-I9olk7g)
+append_entries: 4
+Finish: 2024-09-23 04:23:29.097232
