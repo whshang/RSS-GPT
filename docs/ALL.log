@@ -15790,3 +15790,48 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-23 20:22:32.022726
+------------------------------------------------------
+Started: 2024-09-23 22:19:13.485505
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [12306上线新功能！](https://mp.weixin.qq.com/s/NcsSHqNqL43B-MCcBaQDkA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [放假通知！最新出行预测来了](https://mp.weixin.qq.com/s/xB1R-Y_8wPQal7fMYcE2AA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [党纪学习教育｜纪律处分应当从重或者加重处分的情形有哪些？](https://mp.weixin.qq.com/s/I0GN5U4ddviODICrAMjhHQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [精彩上演！宣讲融入情景剧，走新更入心！](https://mp.weixin.qq.com/s/Zhl0DpkOMx6US3ntTbinzw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [市委常委会召开（扩大）会议，专题传达学习省委十二届六次全会精神，研究成都贯彻落实举措](https://mp.weixin.qq.com/s/pf5mGfcsMe9b6KJ9deYPzw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳首个，龙岗启用！](https://mp.weixin.qq.com/s/VZhm4UT-UoXyb6Q4ymScwA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [知名男星，正式复出！](https://mp.weixin.qq.com/s/dQArnULjZV_uJrijzjW6_A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成渝中线高铁、西渝高铁，最新消息来了！](https://mp.weixin.qq.com/s/hfLh9YZd98JE9swITNbxWw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [市委常委会召开（扩大）会议，传达学习习近平总书记近期重要讲话、重要指示精神，研究成都贯彻落实措施](https://mp.weixin.qq.com/s/Eu1mdKOtgkYMnNqsfG-sfA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [生命健康“置顶”！这场大会连续五届落地越秀！](https://mp.weixin.qq.com/s/XGqv8GVZYKWv7_oSURU_bQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [气温直降11.8℃，只冷三天！今天起降温又降雨](https://mp.weixin.qq.com/s/Hp8bvXMRIN8U6tq4K9pT2w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都5.5小时跑拢川青边界！这些高速又有新进展](https://mp.weixin.qq.com/s/y1iuzymF3QCU8v1NNGzuQA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [🌳城市中竟然藏着一片森林？快来探秘！！！](https://mp.weixin.qq.com/s/_dQ0zLoNqQJ0lWTqPWQ32g)
+append_entries: 13
+Finish: 2024-09-23 22:19:24.188599
