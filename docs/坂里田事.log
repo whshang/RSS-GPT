@@ -7856,3 +7856,15 @@ Existing_entries: 188
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-24 08:26:30.436818
+------------------------------------------------------
+Started: 2024-09-24 10:22:38.328097
+Existing_entries: 188
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [大阵仗！31888枚烟花，首次加入无人机表演！多图剧透→](https://mp.weixin.qq.com/s/fBGYdcfbXchwTI2Qbr3J1A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [7.36万㎡！坂田这一文体中心进度刷新→](https://mp.weixin.qq.com/s/PMj3JyylOl9YqN6naqg3ew)
+append_entries: 2
+Finish: 2024-09-24 10:22:40.560595
