@@ -16171,3 +16171,11 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-25 14:19:16.625477
+------------------------------------------------------
+Started: 2024-09-25 16:27:06.485551
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Fetch error: 500
+Fetch failed from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+error when rendering xml, skip docs/ALL
