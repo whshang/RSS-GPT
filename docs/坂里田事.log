@@ -7934,3 +7934,15 @@ Existing_entries: 190
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-25 08:27:39.772454
+------------------------------------------------------
+Started: 2024-09-25 10:22:35.399664
+Existing_entries: 190
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [损失354848元！熊娃捡个打火机，害惨23户邻居](https://mp.weixin.qq.com/s/CvQ2c89AgKLor2VykWFP0A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [6天新增775例！坂田在行动！深圳这些区域存在风险！](https://mp.weixin.qq.com/s/fk5ih0fhmRdYIxe4xEQ_DQ)
+append_entries: 2
+Finish: 2024-09-25 10:22:37.623664
