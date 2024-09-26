@@ -8012,3 +8012,15 @@ Existing_entries: 192
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-26 08:26:31.774301
+------------------------------------------------------
+Started: 2024-09-26 10:21:43.481329
+Existing_entries: 192
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [摇骰子赢好礼，博饼嘉年华来啦！](https://mp.weixin.qq.com/s/3AvFoKIeeeq5M3DcYY2dtA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [寻味坂田⑥ | 烟火气拉满！带上搭子来这条街！](https://mp.weixin.qq.com/s/8KgocUne8-_fT29mWiznZQ)
+append_entries: 2
+Finish: 2024-09-26 10:21:45.887007
