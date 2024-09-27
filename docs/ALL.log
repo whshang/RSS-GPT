@@ -16620,3 +16620,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-09-27 20:21:08.605708
+------------------------------------------------------
+Started: 2024-09-27 22:18:21.981280
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事关假期出行！成都交警提醒→](https://mp.weixin.qq.com/s/aFYl_poIkr1JRqlepNNSXQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [结婚登记户外颁证点+1！走爱情天梯，赏最美江景](https://mp.weixin.qq.com/s/aSwfKpc7fPZqyvYR2p1cKQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [金秋时节来越秀换新生活，超多优惠！](https://mp.weixin.qq.com/s/IqBaw6YqDeBtr-pLk2S62w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [别跑空！这八天暂停服务！](https://mp.weixin.qq.com/s/bJuEiFz7JCbEFKXbM5QdIg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成华发布｜真心实意为企业发展疏通堵点、化解痛点、消除难点，袁顺明走访服务重点企业](https://mp.weixin.qq.com/s/EJR3GDFzFqX8lPu34LbtCQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [中共广州市越秀区委十三届八次全会召开](https://mp.weixin.qq.com/s/HsInBdmZe5EX8_9lVbxyHA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [明天12点开领！新一波消费券来了→](https://mp.weixin.qq.com/s/hq_SWxDSlieDFoTN5zGbPQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重磅官宣！国庆7天，这些全免费🤩！](https://mp.weixin.qq.com/s/XpsvykLT_ZqkgzcsGYSgMg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [购车大奖出炉！快来看看有你吗→](https://mp.weixin.qq.com/s/CYY90lDsIdEJHMpLM8jCYQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [狂降10℃！成都将迎断崖式降温](https://mp.weixin.qq.com/s/TK9iM7FKCyCzSQ4If53Xjg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [开讲！沪穗师生同上一节思政课，超多干货！](https://mp.weixin.qq.com/s/UqAzav9SQ3TTzaR8habs1w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [2024年广州文化企业30强发布！越秀这些文企上榜上分🤙](https://mp.weixin.qq.com/s/BW54OABopFZ60DYC17IFEg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [3500余人！成都高新区公开招聘](https://mp.weixin.qq.com/s/FQYpeLHJk13Ex1EvNyKK0w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚，淘宝官宣！](https://mp.weixin.qq.com/s/tS9LYEvjzrFzGL8hKskeNg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [政企携手！成都这里“氢”风正劲](https://mp.weixin.qq.com/s/hfcM6aUzAtwqDm5RIIklPw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [本周新上万科金域华府三房双卫，使用率高达120%还带“书包”？！赶紧来看看吧~](https://mp.weixin.qq.com/s/5jurqRFNXyWxQcLd3bsYaA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [痛心！14岁女孩遭体罚去世](https://mp.weixin.qq.com/s/E0Z1ctMn5P-1OgpE0UyoCA)
+append_entries: 17
+Finish: 2024-09-27 22:18:41.436343
