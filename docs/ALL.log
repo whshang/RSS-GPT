@@ -16590,3 +16590,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [龙岗发布两款功能游戏！全面聚焦青少年心理健康](https://mp.weixin.qq.com/s/Jh4s6K3YoIxBLJmZGBpUXg)
 append_entries: 27
 Finish: 2024-09-27 10:21:32.734359
+------------------------------------------------------
+Started: 2024-09-27 12:38:54.034963
+Existing_entries: 1027
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-27 12:38:55.052695
