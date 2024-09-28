@@ -16677,3 +16677,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [痛心！14岁女孩遭体罚去世](https://mp.weixin.qq.com/s/E0Z1ctMn5P-1OgpE0UyoCA)
 append_entries: 17
 Finish: 2024-09-27 22:18:41.436343
+------------------------------------------------------
+Started: 2024-09-28 01:34:46.539972
+Existing_entries: 1017
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-28 01:34:48.392259
