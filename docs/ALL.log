@@ -16989,3 +16989,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [深圳万架无人机国庆假期连演7天，地点和时间戳→](https://mp.weixin.qq.com/s/XM8hIcaaEHOdn_n3JoK7kg)
 append_entries: 25
 Finish: 2024-09-29 10:18:57.313538
+------------------------------------------------------
+Started: 2024-09-29 12:35:53.875195
+Existing_entries: 1025
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-29 12:35:55.708127
