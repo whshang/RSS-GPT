@@ -8246,3 +8246,15 @@ Existing_entries: 198
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-09-29 08:23:53.941850
+------------------------------------------------------
+Started: 2024-09-29 10:19:02.883538
+Existing_entries: 198
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳万架无人机国庆假期连演7天，地点和时间戳→](https://mp.weixin.qq.com/s/XM8hIcaaEHOdn_n3JoK7kg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [4天新增3例！坂田3个区域存在风险](https://mp.weixin.qq.com/s/oPMjMZ1Nx19qt3WZcv3JGA)
+append_entries: 2
+Finish: 2024-09-29 10:19:04.974941
