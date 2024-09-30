@@ -17085,3 +17085,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [川大华西第二医院高新妇女儿童医院今日开诊！](https://mp.weixin.qq.com/s/kuY4eQaQo_pSJHnXgvlXWQ)
 append_entries: 20
 Finish: 2024-09-29 22:17:43.247044
+------------------------------------------------------
+Started: 2024-09-30 01:38:59.678326
+Existing_entries: 1020
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-09-30 01:39:01.352194
