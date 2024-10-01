@@ -8402,3 +8402,15 @@ Existing_entries: 202
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-01 08:27:17.512338
+------------------------------------------------------
+Started: 2024-10-01 10:22:47.736951
+Existing_entries: 202
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [在坂田如何玩转国庆？吃喝玩乐一站式解决！](https://mp.weixin.qq.com/s/qbB2-NxYy925JpB6ziTjGg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳楼市新政10月1日起实施！重点解读→](https://mp.weixin.qq.com/s/AOQbiRDFQfH-pZCqPTV4ZA)
+append_entries: 2
+Finish: 2024-10-01 10:22:50.142066
