@@ -17484,3 +17484,45 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-01 20:21:04.784893
+------------------------------------------------------
+Started: 2024-10-01 22:18:40.089097
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [微信重要更新！](https://mp.weixin.qq.com/s/BeLMYGVCyyvgfNKpOCqlrQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [拒绝广告！成都发布停车场扫码缴费服务合规指引→](https://mp.weixin.qq.com/s/w3Q44m0LGCjJER1Cl3IIdg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今天，他们齐聚这里，只因为……](https://mp.weixin.qq.com/s/VPcfO5UFIVAJPT7kOZEymw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [一“站”就是26年！他最大的愿望是，人们平安回家……](https://mp.weixin.qq.com/s/Uw16XaLIvAK_6Y1zrT0UXg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [TOP3！国庆首日，成都好热闹！](https://mp.weixin.qq.com/s/7XWlQOvuNIIJ8indHh89RA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨҈雨҈雨҈来了！接下来天气→](https://mp.weixin.qq.com/s/wcZP17_sEn42P-lrc4y7IA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [赏花展、古风游园......来越秀趣玩，get假期松弛感！](https://mp.weixin.qq.com/s/vhbEsQLDID-X0BmkrIYmmA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最强气氛组就位！越秀醒狮舞动连城！](https://mp.weixin.qq.com/s/9XbzGnbdtXIdL45C9z_4uA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [强季风蓝色预警信号生效！​冷空气即将抵达！深圳未来天气......](https://mp.weixin.qq.com/s/xR6e9tk06gbaI-x7e0844g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨҈雨҈雨҈来了！接下来天气→](https://mp.weixin.qq.com/s/Lu5fhbTWl1X-SJ087jl3RA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [九寨沟、三星堆、熊猫基地等景区最新通告！](https://mp.weixin.qq.com/s/omunGVlYwSOQZFiTxVtYZw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [热搜第一！明星夫妻官宣怀孕！](https://mp.weixin.qq.com/s/Als2DqJ1agzvjNXa_b4RgQ)
+append_entries: 12
+Finish: 2024-10-01 22:18:50.187574
