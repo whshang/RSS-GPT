@@ -17454,3 +17454,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [在坂田如何玩转国庆？吃喝玩乐一站式解决！](https://mp.weixin.qq.com/s/qbB2-NxYy925JpB6ziTjGg)
 append_entries: 28
 Finish: 2024-10-01 10:22:42.109974
+------------------------------------------------------
+Started: 2024-10-01 12:39:40.513033
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-01 12:39:42.916669
