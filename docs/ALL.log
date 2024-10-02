@@ -17670,3 +17670,45 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-02 20:23:02.180947
+------------------------------------------------------
+Started: 2024-10-02 22:19:35.591689
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [赶快自查！这些App有问题](https://mp.weixin.qq.com/s/zxibdalXTQtZ0-nQ1lXDJg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [春熙路站单日客流近50万！清晨5点半，她已到岗](https://mp.weixin.qq.com/s/ZGlJlnUVKA9DHXahJTomfw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国庆假期志愿服务招募中！快来报名！](https://mp.weixin.qq.com/s/elU-B-9BhnDejwYRBPylHg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [壹号见 | 邂逅壹段旧时光](https://mp.weixin.qq.com/s/cq110hpejLFXPk26Sr5C0g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [本周#深圳笋盘#上新，委托价低于近期成交价200万？！国庆宅家，不如上门看房~](https://mp.weixin.qq.com/s/NUP_PZlk9H6_4XAJKMHyPQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [约满！排队！人人人人人你人人人人人](https://mp.weixin.qq.com/s/h--JUnGLjSA-wcxYsKx5lQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [秋高气爽！但雨҈雨҈雨҈也在路上……](https://mp.weixin.qq.com/s/NkXLzTMI2o0ydPEZJlyY7Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [台风逼近！航线停航，还有……](https://mp.weixin.qq.com/s/GXDu1mlZiXtkHG-_p2lrQw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不重样！国庆假期，成都人太会耍！](https://mp.weixin.qq.com/s/mhBOG0KTY1CNgrfmC-o0BA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成德线、成眉线，最新进展来了！](https://mp.weixin.qq.com/s/Odyc3hutioP3O81ot35r8Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [快闪合唱+citywalk研学！中山纪念堂音乐灯光秀，假期每天上演](https://mp.weixin.qq.com/s/DdX0rFAPdv-r1W2fzYbDZw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你好，文艺越秀](https://mp.weixin.qq.com/s/mbk5dro6NIFT2H9lzdM2aQ)
+append_entries: 12
+Finish: 2024-10-02 22:19:45.927470
