@@ -8480,3 +8480,15 @@ Existing_entries: 204
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-02 08:26:11.741201
+------------------------------------------------------
+Started: 2024-10-02 10:21:10.566984
+Existing_entries: 204
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田图书馆10月都有什么活动？来看看→](https://mp.weixin.qq.com/s/hsp7OZAd5j3c7txkQZcVPg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [无人机表演、演唱会、定向挑战……龙岗的10月也太好玩啦（上直播链接）](https://mp.weixin.qq.com/s/VnJnGL8dJuq9VKiE_7GoLg)
+append_entries: 2
+Finish: 2024-10-02 10:21:12.782182
