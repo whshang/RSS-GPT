@@ -17814,3 +17814,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [带你打卡23座文化名城，看看有没有你的家乡→](https://mp.weixin.qq.com/s/Ft4ReZwI6W2ibjZRt8SyAQ)
 append_entries: 22
 Finish: 2024-10-03 10:21:14.808807
+------------------------------------------------------
+Started: 2024-10-03 12:38:56.200084
+Existing_entries: 1022
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-03 12:38:57.965332
