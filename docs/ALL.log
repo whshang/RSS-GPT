@@ -17844,3 +17844,45 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-03 20:21:09.235486
+------------------------------------------------------
+Started: 2024-10-03 22:18:55.523034
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新召回公告！](https://mp.weixin.qq.com/s/uDoUIO9TARW_M9C80wCXhA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国庆不放假！他的一日“游”是→](https://mp.weixin.qq.com/s/s_GTPOOC5eXF6hz4mjvMfw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [热热热！国庆假期前三天，四川累计接待游客超1691万人次](https://mp.weixin.qq.com/s/YMpB6zb0I-cuRJToSSbD_g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高2万元！广州家装厨卫“焕新”补贴来了！越秀参与企业名单→](https://mp.weixin.qq.com/s/QzR9-cn2jabQL6S4OjjDag)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国庆钜惠！越秀区好房来袭，收好这份购房攻略](https://mp.weixin.qq.com/s/v351-z5GTLjVfMDlJMtG7g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [人从众，游客大喊“差评”！当地文旅局回应→](https://mp.weixin.qq.com/s/5nkPo-T-m-qq7OZhtCvC5A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突然爆火！成都有人组团到处捡！紧急提醒→](https://mp.weixin.qq.com/s/-w_6T1XaBUAXPaXuAWCImg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [热҉热҉热҉热҉热҉热҉热҉热҉，成华好！热！闹！](https://mp.weixin.qq.com/s/u5mRbx6tNG6Xzyrgogp4RA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国庆来越博，太好玩了！](https://mp.weixin.qq.com/s/r5R73KxnsHvvuKDF0gEKKA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你好，红色越秀](https://mp.weixin.qq.com/s/rzLs_MtQDy8OJbzSI5ro5w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发故障！游客从缆车坠落，知名景区通报](https://mp.weixin.qq.com/s/Yn8OeLNiM93kCMwR1oRjIw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [严查！成都交警重要提醒！](https://mp.weixin.qq.com/s/B4pOEIVWKLrO9-lBExQnuw)
+append_entries: 12
+Finish: 2024-10-03 22:19:05.882250
