@@ -8636,3 +8636,15 @@ Existing_entries: 208
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-04 08:25:45.009984
+------------------------------------------------------
+Started: 2024-10-04 10:22:16.429314
+Existing_entries: 208
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“十一”来领家电补贴！最高2000元！](https://mp.weixin.qq.com/s/p9PdAJ6Ht9rQ09H96GM_Qg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国庆畅玩深圳，时尚最时尚路线来啦！](https://mp.weixin.qq.com/s/UX9dDEy7yoJ1AGx-7o0s1g)
+append_entries: 2
+Finish: 2024-10-04 10:22:18.776689
