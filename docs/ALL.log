@@ -18009,3 +18009,39 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-04 20:20:42.694870
+------------------------------------------------------
+Started: 2024-10-04 22:18:08.849723
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你的家电以旧换新了吗？成都已兑付近48万件、约3.6亿元](https://mp.weixin.qq.com/s/3gVTURBYLswDrZbXS4JLiQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全国TOP1！持续火爆！外地游客专程来成都打卡→](https://mp.weixin.qq.com/s/trZBdobzfeoXnXdVIfltVw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你好，摩登越秀](https://mp.weixin.qq.com/s/xUh2kgUfU5kb_03Q5up4QA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [谁懂？AI滤镜下的越秀，原来这么出片！](https://mp.weixin.qq.com/s/9aiT293RDT5QfRYgeUQywA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“星月童话”，明晚上演！](https://mp.weixin.qq.com/s/7iURbBIau-kNuPUYRLlQRQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨҈雨҈雨！新一轮冷空气在路上！](https://mp.weixin.qq.com/s/IU9RKqYwh32nvFvLePTfJQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全网曝光！当红女演员致歉](https://mp.weixin.qq.com/s/ganS8yGffIMrOLqboGItuA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [游觅古街巷丨昔日文人墨客聚集之地](https://mp.weixin.qq.com/s/zFgUgxtOUDi5lmReyKZQQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [音乐会、情景诗剧……越秀多场演出任你选！](https://mp.weixin.qq.com/s/mYaWTtd9cmCBVKEXyHMEOg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官宣！成都一大波演唱会来了](https://mp.weixin.qq.com/s/H-y1EEMUcBUHtKFVZaLeIQ)
+append_entries: 10
+Finish: 2024-10-04 22:18:17.590137
