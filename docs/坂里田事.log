@@ -8714,3 +8714,15 @@ Existing_entries: 210
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-05 08:24:06.025666
+------------------------------------------------------
+Started: 2024-10-05 10:19:01.906693
+Existing_entries: 210
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [紧急提醒：别点！别扫！已有多人受骗](https://mp.weixin.qq.com/s/z7PzmWMaJ75dd7Z1yF8eSA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田隐藏的湖南风味，一口烧鸡公带你穿越回乡！](https://mp.weixin.qq.com/s/X2AAIJJLLyymK7fKAyDdBQ)
+append_entries: 2
+Finish: 2024-10-05 10:19:04.186626
