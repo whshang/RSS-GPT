@@ -18141,3 +18141,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田隐藏的湖南风味，一口烧鸡公带你穿越回乡！](https://mp.weixin.qq.com/s/X2AAIJJLLyymK7fKAyDdBQ)
 append_entries: 20
 Finish: 2024-10-05 10:18:56.164074
+------------------------------------------------------
+Started: 2024-10-05 12:36:06.125667
+Existing_entries: 1020
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-05 12:36:08.177565
