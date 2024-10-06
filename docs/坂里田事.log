@@ -8792,3 +8792,15 @@ Existing_entries: 212
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-06 08:23:22.655393
+------------------------------------------------------
+Started: 2024-10-06 10:19:30.910202
+Existing_entries: 212
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [串联多个重点片区！坂田这条地铁线上新啦！](https://mp.weixin.qq.com/s/L--BUTvSd5B1UvfS_8BKKg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事关拐卖儿童、校园欺凌、禁养烈性犬伤人、高空抛物……最新司法解释→](https://mp.weixin.qq.com/s/QTzUPq5XK-k1_NupR_-OBQ)
+append_entries: 2
+Finish: 2024-10-06 10:19:33.107384
