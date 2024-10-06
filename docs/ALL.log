@@ -18354,3 +18354,39 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-06 20:19:26.574821
+------------------------------------------------------
+Started: 2024-10-06 22:17:58.075344
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [10月8日起，开放时间有变！](https://mp.weixin.qq.com/s/JN_tJh1ul-xH77mGLCTFfg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [假期首日迎来近10万人次！这里几乎天天爆满→](https://mp.weixin.qq.com/s/Uk2GohuP5RWu4tri0WBXPQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [失联夫妻，确认罹难！](https://mp.weixin.qq.com/s/jYJ23IEpCVCwspMgaeJi7A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [紧急提醒：不要晒！不能发！](https://mp.weixin.qq.com/s/lQN0rYDLZ497fDOMLMT_VA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [下周上班时间有变！最新提醒](https://mp.weixin.qq.com/s/F2OpJDR7iF48WkxI7H_Dkw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [你好，浪漫越秀](https://mp.weixin.qq.com/s/9yEHAqyLRa5Y5QVshlHRag)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [越秀新时代文明实践中心“整活”啦！解锁国庆新玩法→](https://mp.weixin.qq.com/s/D8MyxeJX2oVR6YuaA65KPA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [冷空气还要补货！气温先升再降……](https://mp.weixin.qq.com/s/ZpJDHlxo2_ZFbUpG9VVFgw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [紧急提醒：不要晒！不能发！](https://mp.weixin.qq.com/s/RROC3za3g2BwK6h5_eobZw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [节后上班时间有变！](https://mp.weixin.qq.com/s/-u0cbjNzCRSqbc5BW2ISjg)
+append_entries: 10
+Finish: 2024-10-06 22:18:06.482552
