@@ -18525,3 +18525,30 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-07 20:22:29.231425
+------------------------------------------------------
+Started: 2024-10-07 22:19:20.895775
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都又一打卡地！预计年内对外开放→](https://mp.weixin.qq.com/s/RgT017l8_4e5ifgjlIuVvg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [明确了！这些药可报销](https://mp.weixin.qq.com/s/tXkjQreQLA8jx4CswzkZzw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [痛心，2人在校内溺亡](https://mp.weixin.qq.com/s/_eM9Jjin0GMckAfZFfCNNQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [定好闹钟！新一波消费券，攻略来了→](https://mp.weixin.qq.com/s/QSMdZiiI1GViWngvZQsHBg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨҉雨҉雨҉！新一轮降温在路上了→](https://mp.weixin.qq.com/s/jCxy1PGqHR1WYAv_JTlghg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [电动汽车冲进急诊大厅！医院：司机操作失误](https://mp.weixin.qq.com/s/LyF26c2igU5_aqnjcacwbg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨҉雨҉雨҉！新一轮降温在路上了→](https://mp.weixin.qq.com/s/hdtJo_Wp0g77EAvlGRGE-w)
+append_entries: 7
+Finish: 2024-10-07 22:19:27.355156
