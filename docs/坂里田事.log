@@ -8870,3 +8870,15 @@ Existing_entries: 214
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-07 08:26:09.327672
+------------------------------------------------------
+Started: 2024-10-07 10:22:32.250819
+Existing_entries: 214
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [假期吃太好长胖了？这些“特效减肥药”一定要小心！](https://mp.weixin.qq.com/s/XFzyaACjmeXeFkJpOpllDA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [假期最后1天！去公园走走吧～](https://mp.weixin.qq.com/s/6c8ZSF52DU4TuV0sWcYQ0A)
+append_entries: 2
+Finish: 2024-10-07 10:22:34.220507
