@@ -8948,3 +8948,15 @@ Existing_entries: 216
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-08 08:26:14.268923
+------------------------------------------------------
+Started: 2024-10-08 10:21:11.098926
+Existing_entries: 216
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新放假通知！](https://mp.weixin.qq.com/s/cQ1SwYhFmCnDEtvI5XBrCA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [地铁25号线最新进展，坂田有多个站点→](https://mp.weixin.qq.com/s/bisCFdLj6SJpQnt4lNXoXg)
+append_entries: 2
+Finish: 2024-10-08 10:21:13.277001
