@@ -18699,3 +18699,51 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-08 20:17:16.564143
+------------------------------------------------------
+Started: 2024-10-08 22:18:53.087044
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [破纪录、创新高！成都国庆“成绩单”，有你一份吗？](https://mp.weixin.qq.com/s/3VB_QqyjbLpCPTlx-Igj1A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军在全市公安工作会议上强调，大力推进公安工作现代化，为成都高质量发展和现代化建设提供安全保障](https://mp.weixin.qq.com/s/uHaHx7RKvDpR0weAQltK4Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太方便！微信又推新功能→](https://mp.weixin.qq.com/s/rccXLkdjnoNYgEHUxHws2A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新青年·新刊｜国歌从这里唱响](https://mp.weixin.qq.com/s/p2M2w6etTTR02pDvxIa0Lg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [北京路有多旺，数据会说话！](https://mp.weixin.qq.com/s/V5MGmnzxfMTwXf3k3fvtIA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [香men了！即将迎来盛花期！成都人赶紧冲](https://mp.weixin.qq.com/s/scx27TZ5M-Rww-qDK7pB3w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [超美！每一张都可以当壁纸~](https://mp.weixin.qq.com/s/0wVut3FLGojqKrsl-NXl6g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [四川省2024年第四季度重大项目现场推进活动举行 王晓晖宣布建设启动 施小琳讲话](https://mp.weixin.qq.com/s/5kYY75rrSFLvT42ssMzm8w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都楼市升温！国庆假期，新房成交1561套](https://mp.weixin.qq.com/s/7MDnxl2GXacWcDZ_kQj-hA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳5条地铁线，年内开通！](https://mp.weixin.qq.com/s/YvkgfQ2xsJHnb4U3oYCtcQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳这所高校，拟升本科！](https://mp.weixin.qq.com/s/L-z1Rp8npQ7j8p5B5eCMpw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都推进重大项目201个，总投资超1471亿！](https://mp.weixin.qq.com/s/NqXYWYzLey0_bvpYLGy4MA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [越秀公园上新！治愈系顶流是TA](https://mp.weixin.qq.com/s/tColOkwPdpbb3k-Ib5mteg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [昨晚，星海音乐厅千人共唱！](https://mp.weixin.qq.com/s/CedLLVPWDCVr-Jxqvu3YmA)
+append_entries: 14
+Finish: 2024-10-08 22:19:03.854176
