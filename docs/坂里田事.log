@@ -9026,3 +9026,15 @@ Existing_entries: 218
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-09 08:26:21.515178
+------------------------------------------------------
+Started: 2024-10-09 10:21:48.213028
+Existing_entries: 218
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田万科广场启幕盛典来啦，超多惊喜福利礼→](https://mp.weixin.qq.com/s/6pYJ_rUU5LPIYUqn_PyFnw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官方重磅发声！涉楼市、股市等](https://mp.weixin.qq.com/s/mKHiMB_S75rzHHB-kuiyLg)
+append_entries: 2
+Finish: 2024-10-09 10:21:50.344900
