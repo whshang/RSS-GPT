@@ -18897,3 +18897,42 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-09 20:21:25.097296
+------------------------------------------------------
+Started: 2024-10-09 22:18:27.857717
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [减轻医疗费用负担！四川或将统一门诊慢特病保障政策](https://mp.weixin.qq.com/s/aySiaCai56TZI6-KL29YfA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都新增852家！新认定省级专精特新中小企业名单出炉](https://mp.weixin.qq.com/s/JY7jtXnXAFgFPSl-WY8L8A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [招聘上新！越秀区政务服务中心、生态环境局等单位招人](https://mp.weixin.qq.com/s/0zlsmy_kN3VglbVLxnjPQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [@新业态劳动者，遇到劳动纠纷，这里能帮你！](https://mp.weixin.qq.com/s/uKrFEgqteYios8KqFVnKeg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [19号台风生成！多股冷空气+降雨将至......](https://mp.weixin.qq.com/s/a8BCL3WlOgD6SvohROsz6g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新款“成都造”人形机器人预计年底发布！](https://mp.weixin.qq.com/s/cgt21ppzGZbjAyYKhtIBWQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨雨雨不断，气温还要降！](https://mp.weixin.qq.com/s/ITppZU3c4CdC_DVFHBQUhw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [雨雨雨不断，气温还要降！](https://mp.weixin.qq.com/s/1mDlhfzJVpBY7PYMSWRfTw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [发病量暴增！深圳多人中招！记得戴好口罩！](https://mp.weixin.qq.com/s/ocNeuSUL0dqyYnujrTa6bQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [V我50，明天去肯德基KPRO广州首店“疯狂星期四”🥳](https://mp.weixin.qq.com/s/i4qnrNrVp0sFOeAz0QfRnQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全区首个！养老中心能看中医](https://mp.weixin.qq.com/s/wuC3VyIQz6ieGs_Be7PAUQ)
+append_entries: 11
+Finish: 2024-10-09 22:18:37.606321
