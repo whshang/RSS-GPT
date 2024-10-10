@@ -9104,3 +9104,15 @@ Existing_entries: 220
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-10 08:25:40.724505
+------------------------------------------------------
+Started: 2024-10-10 10:21:20.804168
+Existing_entries: 220
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [好消息！免费开展从业人员体检啦！](https://mp.weixin.qq.com/s/Ze68WNhDMAmWnJtDSKunRQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来坂田品风雅重阳！还有五味中医馆义诊哦~](https://mp.weixin.qq.com/s/ZVVmr-_h_EN7EAbZeigivA)
+append_entries: 2
+Finish: 2024-10-10 10:21:23.131318
