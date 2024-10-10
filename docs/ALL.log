@@ -19074,3 +19074,48 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-10 20:21:25.595235
+------------------------------------------------------
+Started: 2024-10-10 22:18:36.635388
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [本周日！新一届冰雪运动季来了！](https://mp.weixin.qq.com/s/tqjBi33_qLSLYovi4KLobw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新！广东省2025年普通高考11月1日起报名](https://mp.weixin.qq.com/s/oNt2hEYZh4kSJ0CasA86rg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [越秀，7天根本不够玩！一年N度我要来越秀！](https://mp.weixin.qq.com/s/KHssoAYNLHmcJ0suWFucdA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成雅高速这个出口好久开放？最新回应→](https://mp.weixin.qq.com/s/VIbcyRGN3twRoOhI-fotXw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最快56秒下线一辆新车！这家企业不断刷新“成都速度”](https://mp.weixin.qq.com/s/q8aT-QfKCmqsPnyKwBZ4mw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚！孙颖莎宣布退赛](https://mp.weixin.qq.com/s/wfxGogQFjlyPQc96w8G4vw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [广东老牌饮品喝出蟑螂？最新回应→](https://mp.weixin.qq.com/s/KW_nWVd-0CJWUXHh_HTPkw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今晚调油价](https://mp.weixin.qq.com/s/LiGZThBMCGdY9RF0Juz5HQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】永辉超市大码鸡蛋30枚26.9元，内蒙古老酸奶140g三杯9.9元，畅轻发酵乳两瓶14.9元，奥利奥花生贝第二盒半价](https://mp.weixin.qq.com/s/9bw-llWASomgDTpUVAmYDA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【街道福利】坂田百佳华消费满9.9元领小马宝莉卡包，满25元领4枚鸡蛋，奈雪/霸王茶姬奶茶6.6元秒杀，海底捞双人餐8折...](https://mp.weixin.qq.com/s/fHUaW3fgn2YLm-iyA_kteQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“pong”香！成华的桂花开了→](https://mp.weixin.qq.com/s/DFkFS-iPit8vpRcRLcLbgA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [论才艺，我只服这群爷爷奶奶！](https://mp.weixin.qq.com/s/hhHduFDht_B3YT3p2MQDQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [1500份敬老爱心餐券，送达！](https://mp.weixin.qq.com/s/_GqxTHLTGnynGrfFHPNXwg)
+append_entries: 13
+Finish: 2024-10-10 22:18:47.310879
