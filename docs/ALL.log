@@ -18936,3 +18936,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [全区首个！养老中心能看中医](https://mp.weixin.qq.com/s/wuC3VyIQz6ieGs_Be7PAUQ)
 append_entries: 11
 Finish: 2024-10-09 22:18:37.606321
+------------------------------------------------------
+Started: 2024-10-10 01:35:24.514379
+Existing_entries: 1011
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-10 01:35:26.204099
