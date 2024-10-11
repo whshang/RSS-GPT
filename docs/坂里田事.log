@@ -9182,3 +9182,15 @@ Existing_entries: 222
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-11 08:25:36.194427
+------------------------------------------------------
+Started: 2024-10-11 10:20:43.041323
+Existing_entries: 222
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [计划停水通知！坂田这些地方今明两天停水！](https://mp.weixin.qq.com/s/VMmlnnhQElN142CSw_rkOw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [浓烟冲天！深夜，约30辆电动车全被烧毁！](https://mp.weixin.qq.com/s/4N15Tt0Y-u4eTpOulbx7Ag)
+append_entries: 2
+Finish: 2024-10-11 10:20:45.079504
