@@ -19455,3 +19455,51 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-12 20:19:36.999044
+------------------------------------------------------
+Started: 2024-10-12 22:18:17.467631
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [王永强任西南民族大学党委副书记、校长](https://mp.weixin.qq.com/s/BUwj5MydUhBWoZL16OMurA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [冷҈冷҈冷҈！成都好久升温？最新预报→](https://mp.weixin.qq.com/s/CGV2EDKIgUlZuseV2_aLZg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [又一产业园亮相！就在成都这里→](https://mp.weixin.qq.com/s/qyTRAUuO_vrKOANunXzmIg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [赠票 | 香港剧作家杜国威新剧《竹林爱传奇》火热上演！](https://mp.weixin.qq.com/s/FqLkGeim1QuWDdsBUuXUxA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [广州文物地标Top10，等你来选！](https://mp.weixin.qq.com/s/erUXbP7rgKnRnRj_FER-jQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军调研督导突出生态环境问题整改工作，要求树牢严实作风、采取有力举措，坚决抓好问题整改，确保取得实效](https://mp.weixin.qq.com/s/zbnHfisIv8LenOEa9aUTug)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成华发布 | 成华区项目促建调度会召开](https://mp.weixin.qq.com/s/ni7JTyUK3BE2nPCbbeChwQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [抓紧晾晒！降雨降温将至！还有台风影响……](https://mp.weixin.qq.com/s/Yc_Ilm1NWl1wkT1zx9tlCQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [龙岗首家，正式落户！](https://mp.weixin.qq.com/s/oAPatq6UotGt7k-9B3dfsw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [四川最新人事任免](https://mp.weixin.qq.com/s/fjGqCHVCMB9YK48TFNy88Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [开了开了！成都的秋天，香！](https://mp.weixin.qq.com/s/iqTsdpXo5mggMF35GkMD6A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [公开招聘！成华这些医院、学校正在招人→](https://mp.weixin.qq.com/s/9ISuJSV0sfODsRwC5kam5A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重阳登高，为越秀“志愿红”点赞！](https://mp.weixin.qq.com/s/07K27oG89u7s_y3uDa-bQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [红色研学季圆满收官！@越秀少年，请收下你的专属表情包！](https://mp.weixin.qq.com/s/PQtljDWDlJqk1S319HV8dg)
+append_entries: 14
+Finish: 2024-10-12 22:18:28.956413
