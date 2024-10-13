@@ -9374,3 +9374,15 @@ Existing_entries: 226
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-13 20:20:08.222539
+------------------------------------------------------
+Started: 2024-10-13 22:17:49.510642
+Existing_entries: 226
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事发深圳！突然起火，外卖员全身88%烧伤……](https://mp.weixin.qq.com/s/XDk-V4kfuR00BYP9lYrzJQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田⇄机场更快！8条在建地铁、城际铁路最新进展来了！](https://mp.weixin.qq.com/s/CUE3xxaUa-tk1M53meXNxQ)
+append_entries: 2
+Finish: 2024-10-13 22:17:51.762444
