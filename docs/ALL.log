@@ -19503,3 +19503,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [红色研学季圆满收官！@越秀少年，请收下你的专属表情包！](https://mp.weixin.qq.com/s/PQtljDWDlJqk1S319HV8dg)
 append_entries: 14
 Finish: 2024-10-12 22:18:28.956413
+------------------------------------------------------
+Started: 2024-10-13 01:41:10.664532
+Existing_entries: 1014
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-13 01:41:12.542809
