@@ -19677,3 +19677,15 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [血本无归，一下没了30万！警方提醒→](https://mp.weixin.qq.com/s/n1Dxnsur5m12TqYzj5u5Bw)
 append_entries: 2
 Finish: 2024-10-14 01:38:30.642963
+------------------------------------------------------
+Started: 2024-10-14 02:54:35.641476
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不要吃！不要捡！近期正大量出现！](https://mp.weixin.qq.com/s/SwySY4Es8oVBuBB8qvXWUQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [早安，成都！](https://mp.weixin.qq.com/s/42ZRw6XpNvZ2CpbMM0e_fA)
+append_entries: 2
+Finish: 2024-10-14 02:54:39.084464
