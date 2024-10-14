@@ -9386,3 +9386,15 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田⇄机场更快！8条在建地铁、城际铁路最新进展来了！](https://mp.weixin.qq.com/s/CUE3xxaUa-tk1M53meXNxQ)
 append_entries: 2
 Finish: 2024-10-13 22:17:51.762444
+------------------------------------------------------
+Started: 2024-10-14 01:38:36.096456
+Existing_entries: 228
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [血本无归，一下没了30万！警方提醒→](https://mp.weixin.qq.com/s/n1Dxnsur5m12TqYzj5u5Bw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [10家坂田企业急招85人，兼职、全职都有！](https://mp.weixin.qq.com/s/k56ha2U4w4E6Ik45ItFj6g)
+append_entries: 2
+Finish: 2024-10-14 01:38:38.438996
