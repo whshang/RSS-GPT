@@ -19773,3 +19773,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [中共四川省委关于深入贯彻党的二十届三中全会精神 进一步全面深化改革奋力谱写中国式现代化四川新篇章的决定](https://mp.weixin.qq.com/s/sTYzPmT7XenZWtyxAe8BBg)
 append_entries: 20
 Finish: 2024-10-14 10:22:14.162312
+------------------------------------------------------
+Started: 2024-10-14 12:39:39.796606
+Existing_entries: 1020
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-14 12:39:41.731411
