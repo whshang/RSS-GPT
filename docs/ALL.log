@@ -19803,3 +19803,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-14 20:21:42.880137
+------------------------------------------------------
+Started: 2024-10-14 22:19:53.413894
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不要捡！吃不得！近期正大量出现！](https://mp.weixin.qq.com/s/RstzTtJk4N1psTwysa3DPQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [如何帮企业稳住8亿元年产值？政府当“红娘”，上下游企业“看对眼”](https://mp.weixin.qq.com/s/toTiZxNICi4oFwu71SaYCg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [速递简历！这些单位正在招聘](https://mp.weixin.qq.com/s/s4cc5jOBX9sJu02WBhHmyQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [7月24日-12月31日买车的请注意！置换更新补贴来了](https://mp.weixin.qq.com/s/mjxG86wBAOQO_lAN6GNhZQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [抓紧洗晒！越秀冷空气+降雨将至](https://mp.weixin.qq.com/s/lszccfsEdPlRZCFw_u4RMg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [首届！今日启幕！](https://mp.weixin.qq.com/s/lV-1sG0-2V-P-cH7WAB_Ew)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曹立军王凤朝会见华为技术有限公司轮值董事长徐直军](https://mp.weixin.qq.com/s/cGbLgcegE3gLxHFQ62E0Xg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官宣！国际乒联混合团体世界杯12月在蓉举办](https://mp.weixin.qq.com/s/SmPrADvtkso89JVf9KlGWA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [13号线一期、17号线二期何时能开通？最新回应→](https://mp.weixin.qq.com/s/uCOoFW4mmm0k50AnaDW4gA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝文旅周｜玩法上新！一整个期待住了🤩](https://mp.weixin.qq.com/s/4iUBd1wy7u-ieJ8voj9VGw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全省率先！越秀区这项工作连获好评](https://mp.weixin.qq.com/s/PDSvxKNBuPxZwZVD4sEOTA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [停水通知！](https://mp.weixin.qq.com/s/R1sNVc8c6PqH5SMLxa8Qog)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [明起，川青铁路加车！涉及成都这些站→](https://mp.weixin.qq.com/s/FQN2jwcKsvXRe3kQXdb-Eg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [免费赠票！一起来天河「叹啡」→](https://mp.weixin.qq.com/s/ElT_OLdU4PAD1j1DRFWrjw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [厉害了！天河区斩获多个奖项！](https://mp.weixin.qq.com/s/I5KjWcTBeZw1-FgyxhaB2A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [第二轮四川家具家装消费券开抢啦，最高20000元！成华区公开招聘，医院、学校多个岗位开放~](https://mp.weixin.qq.com/s/voF0ma6iCj0HQX5RKZOh_Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田纳入深圳都市核心区！坂田至机场更快捷！深圳8条在建地铁和城际铁路进展更新 ~](https://mp.weixin.qq.com/s/RAJM1-EC9BvsYNTMafFuYw)
+append_entries: 17
+Finish: 2024-10-14 22:20:06.665227
