@@ -9494,3 +9494,15 @@ Existing_entries: 230
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-15 08:26:16.059122
+------------------------------------------------------
+Started: 2024-10-15 10:23:15.517933
+Existing_entries: 230
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [关注！坂田这个社区获《中国改革报》《晶报》报道](https://mp.weixin.qq.com/s/xI6yhmOKamceKW7AInauNQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [免费报名！快来学做包子花卷、奶茶柠檬茶……](https://mp.weixin.qq.com/s/qGhuR2P1BD8Ct1PcrM7VVA)
+append_entries: 2
+Finish: 2024-10-15 10:23:17.715456
