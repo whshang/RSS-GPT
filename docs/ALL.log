@@ -20193,3 +20193,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最低815元/月，100套房源今起登记](https://mp.weixin.qq.com/s/CE75BVFSaPSpnZkT8YF4Ng)
 append_entries: 30
 Finish: 2024-10-16 10:21:06.957023
+------------------------------------------------------
+Started: 2024-10-16 12:39:21.249534
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-16 12:39:23.259071
