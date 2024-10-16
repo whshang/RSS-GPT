@@ -9572,3 +9572,15 @@ Existing_entries: 232
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-16 08:26:28.817717
+------------------------------------------------------
+Started: 2024-10-16 10:21:12.534578
+Existing_entries: 232
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [消防控制室值班员无证上岗？罚！](https://mp.weixin.qq.com/s/eUMsPCH0hKMCcJv450Irhw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [痛心！12岁男孩小区内身亡，竟因这个常见设施](https://mp.weixin.qq.com/s/QfEDdt1uRcXxLHqqWGT9Bg)
+append_entries: 2
+Finish: 2024-10-16 10:21:14.801588

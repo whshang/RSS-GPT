@@ -10161,3 +10161,36 @@ Fetch error: 400
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 error when rendering xml, skip docs/家在坂田
+------------------------------------------------------
+Started: 2024-10-16 10:21:27.851997
+Existing_entries: 25
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [终于终于，五和枢纽旧改正式立项公示](https://mp.weixin.qq.com/s/3D5b-__dzUMXJZRCs5SueA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳中学坂田学校开始老师招聘](https://mp.weixin.qq.com/s/kuNiXiavMf7Bc4V46SSyHw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [又一办公楼，金源科技大厦正式开工](https://mp.weixin.qq.com/s/V0iSPSPgblg7hfI94lKVMg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事关地铁27号线，这些重磅信息不要错过](https://mp.weixin.qq.com/s/0JOxO0JwgngytTTY6Yugng)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [神速，坂田这一地铁站有重大进展](https://mp.weixin.qq.com/s/jX41DfjXw16Q-laXJgsH6Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [进入开业倒计时，坂田万科广场对坂田的意义](https://mp.weixin.qq.com/s/CjXNixUs4ZSgHPOnzL_qNQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这一产业项目即将开工](https://mp.weixin.qq.com/s/ocWj11b-TM_TRKAkYxq1gw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田房价回到了十年前？来看看媒体是怎么造谣和颠倒是非的](https://mp.weixin.qq.com/s/m7dmiZ5xNC9B9D-tTZJnuw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田最倒霉的烂尾楼即将复工](https://mp.weixin.qq.com/s/T77hArIFt97zk9sMAT_3bQ)
+append_entries: 9
+Finish: 2024-10-16 10:21:34.673955
