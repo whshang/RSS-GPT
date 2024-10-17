@@ -9638,3 +9638,15 @@ Existing_entries: 234
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-17 04:23:58.578375
+------------------------------------------------------
+Started: 2024-10-17 06:28:41.669065
+Existing_entries: 234
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太危险了！行驶中的“小电驴”突然起火……](https://mp.weixin.qq.com/s/hpzPvq7jSayKpEWaDbMtwA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高补贴1.2万元！家有老人的看过来！](https://mp.weixin.qq.com/s/FD1OsqHAtUfIB-LRK1j_3w)
+append_entries: 2
+Finish: 2024-10-17 06:28:43.936306
