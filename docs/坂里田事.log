@@ -9650,3 +9650,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最高补贴1.2万元！家有老人的看过来！](https://mp.weixin.qq.com/s/FD1OsqHAtUfIB-LRK1j_3w)
 append_entries: 2
 Finish: 2024-10-17 06:28:43.936306
+------------------------------------------------------
+Started: 2024-10-17 08:26:08.276282
+Existing_entries: 236
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+Finish: 2024-10-17 08:26:09.052808
