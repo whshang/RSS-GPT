@@ -20286,3 +20286,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [第二十九届澳门国际贸易投资展览会开幕 深圳市主题馆同步开馆精彩亮相](https://mp.weixin.qq.com/s/tcwUCBZnpDbDmy0uhNUiZw)
 append_entries: 19
 Finish: 2024-10-16 22:18:45.106250
+------------------------------------------------------
+Started: 2024-10-17 01:36:09.825368
+Existing_entries: 1019
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-17 01:36:11.524326
