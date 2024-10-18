@@ -20771,3 +20771,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [干部任前公示](https://mp.weixin.qq.com/s/MzCAtIznHm2oK4pS0Z73tQ)
 append_entries: 11
 Finish: 2024-10-18 18:27:20.576150
+------------------------------------------------------
+Started: 2024-10-18 20:20:42.372214
+Existing_entries: 1011
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-18 20:20:44.120464
