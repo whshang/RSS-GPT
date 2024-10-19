@@ -20924,3 +20924,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [突发！安徽一超市发生火灾，5人遇难](https://mp.weixin.qq.com/s/KT1vtuT3KOiq98sPpnxm1g)
 append_entries: 17
 Finish: 2024-10-19 12:36:39.426217
+------------------------------------------------------
+Started: 2024-10-19 14:17:26.244067
+Existing_entries: 1017
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-19 14:17:28.207546
