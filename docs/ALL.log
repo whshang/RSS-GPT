@@ -20936,3 +20936,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-19 16:23:10.069198
+------------------------------------------------------
+Started: 2024-10-19 18:24:56.380709
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [以“天问”，致未来！](https://mp.weixin.qq.com/s/_VpI1O0J2GpFdnYrMGC_IA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新指数报告！北京、成都科幻总体发展水平属第一梯队](https://mp.weixin.qq.com/s/qxrS5bMnuA5VwV8C4Uy4RQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [下月起，香港暂免非本地本科生兼职限制](https://mp.weixin.qq.com/s/L8KnGwWmF8z8G7PfAN8mrg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [官方通报“学校臭肉事件”：校长被免职](https://mp.weixin.qq.com/s/3xj8p4Pmllwru5wsEOWBaw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳近期部分人事调整](https://mp.weixin.qq.com/s/LhS7S9ZymTGGHPM0hSd_sg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [火上央视！成都这些项目惊艳亮相](https://mp.weixin.qq.com/s/bKqCd1KxvKXU_bY-Cl_cIg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝名城云牵手｜怀圣寺光塔&罗星塔：海丝之路的引航“明灯”](https://mp.weixin.qq.com/s/4HhPVSFafoPFrI5Ab4ld8A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [遇见好书，越秀年轻干部与你分享喜“阅”！](https://mp.weixin.qq.com/s/qVZorIB2zNu0LajGu1OvFg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全球名企和成都这家本土企业“牵手”！潜在交易额达11亿美元](https://mp.weixin.qq.com/s/8EUu4eMtf2FWFDqlvaf88g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [自建房火灾频发！这些安全须知务必牢记→](https://mp.weixin.qq.com/s/RaDDKBIlKY51yxi9FHkDBw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [48名幼儿集体感染！紧急提醒→](https://mp.weixin.qq.com/s/6E1QH2bYe4uvJ6oHUiQntA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [秋天真的好美好啊！！！就是太短暂了🤩](https://mp.weixin.qq.com/s/YNam8YmUO8pZM8ZglsicdQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太火爆！深圳一楼盘192套房90分钟售罄！](https://mp.weixin.qq.com/s/xsizH1gsotHZM37LYVPNBg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [曝光！这12家医院欺诈骗保](https://mp.weixin.qq.com/s/jsqk4bmcAusCVph7Lc297Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝文旅周 | 电影+展览+咖啡！周末来越秀，班味儿淡了！](https://mp.weixin.qq.com/s/dCtHPlyjqzZQ3YbGF-WSRQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝文旅周 | 发车！坐上“海丝号”主题巴士，带你畅游越秀](https://mp.weixin.qq.com/s/rTOeokU1oud6_vU_yOaVRg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [降温降雨来了！成都接下来的天气……](https://mp.weixin.qq.com/s/6xHCHtqSJeHtCdWWayGsHw)
+append_entries: 17
+Finish: 2024-10-19 18:25:10.383622
