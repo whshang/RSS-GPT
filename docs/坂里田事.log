@@ -9796,3 +9796,15 @@ Existing_entries: 238
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-19 04:23:07.919432
+------------------------------------------------------
+Started: 2024-10-19 06:26:26.113336
+Existing_entries: 238
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [注意绕行！坂田这个路段封闭施工！绕行攻略→](https://mp.weixin.qq.com/s/B28AfP5IE-t2d2OecKxBrg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [续期1年！深圳公积金租房可100%提取，提取攻略get~](https://mp.weixin.qq.com/s/R3_NhfQlCHzQwuy8wrLJCw)
+append_entries: 2
+Finish: 2024-10-19 06:26:28.516358

@@ -20801,3 +20801,57 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-19 04:23:01.458063
+------------------------------------------------------
+Started: 2024-10-19 06:26:08.018980
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [上调！多家银行官宣](https://mp.weixin.qq.com/s/7P0smNdvkJ80_U6ytLy6HQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [他们，在团一大接受全城祝福和掌声！](https://mp.weixin.qq.com/s/zZcnr6FUfEgdKrhycDOI3w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来越秀区好房节，一站“惠”购心仪好房！（内含福利）](https://mp.weixin.qq.com/s/pNH4n5-y3t8Zhf8eh936Mw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [万象城对面，也太好吃了吧！](https://mp.weixin.qq.com/s/C0oFEVGfaujf0FO_16lt8g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [明年1月起实施，职工养老保险重大调整！](https://mp.weixin.qq.com/s/pKaX_xIOKRggCLjbfKN2jg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [中介称“今年已卖出20多个孩子”？官方成立联合调查组](https://mp.weixin.qq.com/s/QQWN8AmeCTByR8-jjEHxAw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [请看，今天的深圳特区报](https://mp.weixin.qq.com/s/j1vx_3A8y9jqh4UgsZWsxw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [韩方：朝鲜1500名士兵已抵俄！半岛最新局势](https://mp.weixin.qq.com/s/L3E7IltKOdmY3UVhkYhMTA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都地铁公开招聘！](https://mp.weixin.qq.com/s/tkQfekoVhABqyL90Z3MV4Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新！成马赛事路线发布](https://mp.weixin.qq.com/s/kSR7RehxMctg8P5-SwgyYA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [早安，成都！](https://mp.weixin.qq.com/s/vuh95Xs6adHTiozP6hab0Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳知名景区重要提醒！｜飞阅深圳](https://mp.weixin.qq.com/s/ItnzoTQnc29OSsKmq0Fwww)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [免费！地铁可达的「童话王国」！一秒陷入梦幻~](https://mp.weixin.qq.com/s/kdBvuFlbmG_yonU4FaMeFA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [向左？向右？老铁带你看方向→](https://mp.weixin.qq.com/s/zil4SgoPkNAoh1jnKjEJvg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [续期1年！深圳公积金租房可100%提取，提取攻略get~](https://mp.weixin.qq.com/s/R3_NhfQlCHzQwuy8wrLJCw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [注意绕行！坂田这个路段封闭施工！绕行攻略→](https://mp.weixin.qq.com/s/B28AfP5IE-t2d2OecKxBrg)
+append_entries: 16
+Finish: 2024-10-19 06:26:20.660055
