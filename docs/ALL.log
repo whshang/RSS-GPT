@@ -20867,3 +20867,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-19 10:19:11.783173
+------------------------------------------------------
+Started: 2024-10-19 12:36:25.701481
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [降温降雨来了！成都接下来的天气……](https://mp.weixin.qq.com/s/GQa-BmmrMdygTIbgBBOyFQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [热搜第一！知名男星回应→](https://mp.weixin.qq.com/s/I63mfXfz0zLiAQBbN6mTsw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [让“成都造”更好实现“成都售”！这场供需对接会直接安排](https://mp.weixin.qq.com/s/Sc6U0nK9mykRTpUzfWtzag)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [痛心！9人已被找到，全部遇难](https://mp.weixin.qq.com/s/UexB458-A-Wc9TXHga3fyQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发！以色列总理内塔尼亚胡住所遭袭](https://mp.weixin.qq.com/s/rR0IT3i9IfO1xbsPNXjvFQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [游觅古街巷丨北京路为何曾名“双门底”？](https://mp.weixin.qq.com/s/MXraA1V2w5nXD4ekDnO6hw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝文旅周 | 从早玩到晚，光塔街刷屏了！](https://mp.weixin.qq.com/s/BrjcJzB0Bk2kyMHD-ShyFA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发！一超市火灾已致7死2失联！](https://mp.weixin.qq.com/s/U0pApC1Q5WxMKTeh0iF7DQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都再添总部基地！最新进展→](https://mp.weixin.qq.com/s/2F_6IPgCzcnx3aTTsJ06Mw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突然爆火！最近你捡了吗？](https://mp.weixin.qq.com/s/kM9mnmkjKo9O__JvCWMvJA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这周末，逛东郊记忆！有机会免费耍景区→](https://mp.weixin.qq.com/s/kVGx7oGrnsBVZNuw13znWA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发！大疆起诉美国国防部](https://mp.weixin.qq.com/s/prdSDkVTUJu61AAafSoyYQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [授牌！签约！](https://mp.weixin.qq.com/s/SSkNFmB-xInCsYQgKFQ1ag)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [价格逼近800元/克！有人已赚36万元，“还不想卖”](https://mp.weixin.qq.com/s/yU6Op3_oIeRhumkFmG5u_Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [金价又涨了！再创历史新高→](https://mp.weixin.qq.com/s/SDn7nmng740d4G2JZHjpfA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [日本突发：一男子冲破首相官邸外围栏](https://mp.weixin.qq.com/s/ZrxzD3EYnf6_twdjoCTsVQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发！安徽一超市发生火灾，5人遇难](https://mp.weixin.qq.com/s/KT1vtuT3KOiq98sPpnxm1g)
+append_entries: 17
+Finish: 2024-10-19 12:36:39.426217
