@@ -21098,3 +21098,48 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-20 10:20:01.161060
+------------------------------------------------------
+Started: 2024-10-20 12:37:05.724973
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [出生14天的男婴连夜被卖，换来一袋钞票！警方：已抓获部分人员](https://mp.weixin.qq.com/s/zL2gMfUE6NSlz4arJEUKEw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太火爆！为何这里常年“座无虚席”？](https://mp.weixin.qq.com/s/_KFWiQo-pGzyJjRw0p-PAA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝文旅周丨很燃很chill！这场音乐嘉年华连唱5小时](https://mp.weixin.qq.com/s/_5COrisrqx5fywfgVOlp_A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [海丝文旅周丨超100人共绘《走近海丝》百米长卷！震撼现场曝光](https://mp.weixin.qq.com/s/SW4qVvlzL7CbYWCy3ccpQw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [PONG香！原来不止桂花，还有……](https://mp.weixin.qq.com/s/D8xXtvzCPd4lMNWDhgjJ4Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新召回公告！](https://mp.weixin.qq.com/s/CNCX-GC2dm12JAl2GyLXHg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [孩子被炸飞，妈妈全身烧伤超60%！这个隐患很要命！](https://mp.weixin.qq.com/s/ve8Q6SkOqf076j3vmCkAQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都东站在哪个街道？答案来啦→](https://mp.weixin.qq.com/s/0AD1E8McXD5wy-wY1PRf1A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [下月起，火车票不用打印报销了！](https://mp.weixin.qq.com/s/URw_XXJvKupAHWeZ77N0Kg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [冲上热搜！黄晓明罕见回应](https://mp.weixin.qq.com/s/zjsdWX1W4mzrrg0Js9ELvg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [到2025年，基本建成西部医学中心！成都最新方案出台→](https://mp.weixin.qq.com/s/zyMiszP04s9JF75l0NHSbg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都妹儿李蕊汐，成为全红婵队友！](https://mp.weixin.qq.com/s/ABHuQQNIMlzhrhdOdQ0Xdg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [专机直达龙岗，一队俊男靓女闪亮登场！](https://mp.weixin.qq.com/s/okQSwZ4_sKvcRaKi6W-8Sw)
+append_entries: 13
+Finish: 2024-10-20 12:37:17.733667
