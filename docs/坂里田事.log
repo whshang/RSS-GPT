@@ -9874,3 +9874,15 @@ Existing_entries: 240
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-20 04:23:41.704033
+------------------------------------------------------
+Started: 2024-10-20 06:27:05.418677
+Existing_entries: 240
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [送蔡琴演唱会门票！这个周末快来坂田湾畔Mall，超好玩！](https://mp.weixin.qq.com/s/7dyR89N-VLnacr7xNBMQGw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最高2000元！深圳又一消费补贴指引来啦！](https://mp.weixin.qq.com/s/HJORkX5KnEcD9R1o3EnpMw)
+append_entries: 2
+Finish: 2024-10-20 06:27:07.902791
