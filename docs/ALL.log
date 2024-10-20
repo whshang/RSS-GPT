@@ -21143,3 +21143,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [专机直达龙岗，一队俊男靓女闪亮登场！](https://mp.weixin.qq.com/s/okQSwZ4_sKvcRaKi6W-8Sw)
 append_entries: 13
 Finish: 2024-10-20 12:37:17.733667
+------------------------------------------------------
+Started: 2024-10-20 14:17:10.176440
+Existing_entries: 1013
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-20 14:17:11.161116
