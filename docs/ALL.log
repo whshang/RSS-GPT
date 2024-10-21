@@ -21224,3 +21224,51 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-21 01:38:41.253482
+------------------------------------------------------
+Started: 2024-10-21 02:55:29.776072
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刚刚，央行宣布：降息！](https://mp.weixin.qq.com/s/QA7fYYp0JPYiM4eZeUg-fg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最新！1年期和5年期LPR均下调25个基点](https://mp.weixin.qq.com/s/Y6hACaKLj3HcqJZHMRe6zw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [定好闹钟！今天10点开领！](https://mp.weixin.qq.com/s/tXMPKoa70XZAyYM241QA8g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [美、加军舰过航台湾海峡，东部战区回应！](https://mp.weixin.qq.com/s/e5eOkEHPFSJmQ3Ih1p21Sg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [早安，成都！](https://mp.weixin.qq.com/s/Am2aa29wd71vpA-FyvjrBA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [大学生打卡“五岳”，下了华山退掉12张火车票…其余“四岳”：免费！](https://mp.weixin.qq.com/s/QrmtJxIFRlzFTgtZo0lg6g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [出生十几天的婴儿夜间被卖！警方最新通报](https://mp.weixin.qq.com/s/h22is7EyJ_I-d5e4jax5pA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/59L8C2rjpJX5xbt_8uJ5Ug)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [炸街、翘头、烧胎，骑电动车组团“炫技”？全部查获！](https://mp.weixin.qq.com/s/Cqi8moO5HQsA5hCZ_aOHQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [6家坂田企业急招105人，最高月薪10W！](https://mp.weixin.qq.com/s/O9LKrfEOxLDAGdmKJDzUpQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【夜读】最长久的感情，是相互成就](https://mp.weixin.qq.com/s/PmiJKKi9wl_ssZA3z1tQAw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [年轻人流行养黏菌当宠物！家长傻眼：这到底是个啥？](https://mp.weixin.qq.com/s/SzRUi4uWq2z-QpFUvl3lfw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [她首次证实：对抗白血病，它有效！](https://mp.weixin.qq.com/s/FsPgwXrGtB1d-Y8BXgOVeA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [习近平对国家级经济技术开发区工作作出重要指示](https://mp.weixin.qq.com/s/tTpKcRyrd2EwAs6TMYnaRQ)
+append_entries: 14
+Finish: 2024-10-21 02:55:42.586585

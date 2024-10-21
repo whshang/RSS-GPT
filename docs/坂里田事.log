@@ -9940,3 +9940,15 @@ Existing_entries: 242
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-21 01:38:47.581245
+------------------------------------------------------
+Started: 2024-10-21 02:55:47.893381
+Existing_entries: 242
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [炸街、翘头、烧胎，骑电动车组团“炫技”？全部查获！](https://mp.weixin.qq.com/s/Cqi8moO5HQsA5hCZ_aOHQQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [6家坂田企业急招105人，最高月薪10W！](https://mp.weixin.qq.com/s/O9LKrfEOxLDAGdmKJDzUpQ)
+append_entries: 2
+Finish: 2024-10-21 02:55:50.448586
