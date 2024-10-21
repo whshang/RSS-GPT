@@ -21350,3 +21350,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-21 10:23:25.569106
+------------------------------------------------------
+Started: 2024-10-21 12:39:31.010722
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [多架飞往福州飞机中途备降！最新回应→](https://mp.weixin.qq.com/s/Pn1qbDayGwv8XA5JW9kdjw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [8场免费演出！二沙岛户外音乐季与大家相约](https://mp.weixin.qq.com/s/QG7IkOUEPXGPSjbfM0mlRg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [拿着“爱的号码牌”，在越秀遇见你](https://mp.weixin.qq.com/s/SaaM4BaIgSB570mvmI13xQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [3.37万亿元！创历史同期新高！](https://mp.weixin.qq.com/s/GEiH6_2EzHAMeaAGYieWEQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [蝶变龙岗·24 | 深圳国际低碳城：绿色发展的国家名片](https://mp.weixin.qq.com/s/-dX7wiWjuhDUn59M0Gagnw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [突发！中国驻缅甸一总领馆遭爆炸袭击，外交部回应](https://mp.weixin.qq.com/s/u7ZzrJ8fByj3lwtNDMV4fQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成渝中线高铁最新进展！](https://mp.weixin.qq.com/s/KGDmKJ4fPO-VFLap0XNaVA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [公开招聘！这些单位正在招人](https://mp.weixin.qq.com/s/I5_xgArkXV77a5RH_mYm2Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [陈晏被逮捕！](https://mp.weixin.qq.com/s/Lt0-0R6aYmUPeJGYHpGc_Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [张效廉被查！](https://mp.weixin.qq.com/s/1qfgTuxmApRhsIhQIjEQbA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [力争培养和引进人才8000人以上！四川公开征求意见→](https://mp.weixin.qq.com/s/qMSZBBv2nA-UtioKjE3_0g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新增27家！名单公布→](https://mp.weixin.qq.com/s/2YhuJNC66WAf5v0-F0idTQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [高空抛物砸死路人！周某被执行死刑](https://mp.weixin.qq.com/s/-OLdimt5WQasdsy1IAu9gA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [又燃又帅！4名清华学子同时赴军营！](https://mp.weixin.qq.com/s/-2of_7lrm5zKd-WAKApv3Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都市卫健委最新提醒！](https://mp.weixin.qq.com/s/N5Df2q2Zjv8JZ4kha-4eFg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [惠州市市长温金荣跨省履新](https://mp.weixin.qq.com/s/3FSzWQGrseMPmZQK5Gg6mg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [喜看湾区展宏图！深圳新闻界副局级以上老同志参观考察大湾区纪实](https://mp.weixin.qq.com/s/n_OWTD1JNIosVrdZb7_WHQ)
+append_entries: 17
+Finish: 2024-10-21 12:39:44.239968
