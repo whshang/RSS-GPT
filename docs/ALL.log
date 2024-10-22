@@ -21605,3 +21605,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田知名电商招人啦！23、24届毕业生优先](https://mp.weixin.qq.com/s/sM60lwX3vN6UqJOUpD40zA)
 append_entries: 29
 Finish: 2024-10-22 06:28:25.162394
+------------------------------------------------------
+Started: 2024-10-22 08:25:59.834806
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-22 08:26:01.723064
