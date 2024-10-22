@@ -10030,3 +10030,15 @@ Existing_entries: 244
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-22 04:24:42.775301
+------------------------------------------------------
+Started: 2024-10-22 06:28:30.733627
+Existing_entries: 244
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [监控曝光！高层住户乱扔烟头，致楼下邻居家起火！](https://mp.weixin.qq.com/s/YrzlX7QaVJitPV1SwadJmQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田知名电商招人啦！23、24届毕业生优先](https://mp.weixin.qq.com/s/sM60lwX3vN6UqJOUpD40zA)
+append_entries: 2
+Finish: 2024-10-22 06:28:33.219425
