@@ -21785,3 +21785,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [习近平主席专机抵达喀山 俄罗斯战机升空护航](https://mp.weixin.qq.com/s/Eoe1SsUBzg2ktBDIcxhlfA)
 append_entries: 21
 Finish: 2024-10-22 18:27:26.326582
+------------------------------------------------------
+Started: 2024-10-22 20:21:09.869720
+Existing_entries: 1021
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-22 20:21:11.823684
