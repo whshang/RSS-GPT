@@ -21809,3 +21809,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [详讯丨习近平同俄罗斯总统普京举行会晤](https://mp.weixin.qq.com/s/q3V98Vkm0Gh7pkJgB5Z1ew)
 append_entries: 2
 Finish: 2024-10-23 01:35:58.890009
+------------------------------------------------------
+Started: 2024-10-23 02:50:53.574554
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-23 02:50:56.472600
