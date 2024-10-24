@@ -22322,3 +22322,60 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-24 16:23:23.495594
+------------------------------------------------------
+Started: 2024-10-24 18:26:58.375969
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [如何推动产业园区高质量发展？来听区（市）县“一把手”怎么说！](https://mp.weixin.qq.com/s/ObFmmj2hTa8dcfyh1gHpaw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都启动“立园满园”行动！各界热议→](https://mp.weixin.qq.com/s/M6QUi9gDHO44icLD7mkcIQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新华社点赞《咏春》: 打造文化创新“敢试敢闯”的深圳样本](https://mp.weixin.qq.com/s/IeovE8MSpEWuUiZpFgU43Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【夜读】内核越稳，人生越顺](https://mp.weixin.qq.com/s/8qTG4SdoAqVs6KqUp7gclA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [陈涛任汕头市代理市长](https://mp.weixin.qq.com/s/xA02GE1diZYecxhY9mBolw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都市产业园区高质量发展大会召开，要求突出专业化特色化全力提升产业规模和竞争力，加快把园区建设成高质量发展的主战场主引擎](https://mp.weixin.qq.com/s/vDEsN1EFPjsReRBo1imzjg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事关住宅加装电梯！广州征集意见中](https://mp.weixin.qq.com/s/L7eTVFxabpvnmdzzYB8cZg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [周末安排！在二沙岛，音乐和美食更配哦🥂](https://mp.weixin.qq.com/s/7F_FAkTZIa9kcLObkavMGg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这里将成为龙岗热门打卡地！带你提前“探秘”→](https://mp.weixin.qq.com/s/j0GqXz9b7kWO5bsk5hWlIw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [新线路开通！直达龙岗这个园区→](https://mp.weixin.qq.com/s/KEGQQkvaxqwrdiQq-5cLEg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [汇聚“全球南方”磅礴力量，习近平提出中国主张](https://mp.weixin.qq.com/s/1KBLFcJTSE6bKzwV9MQhnQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成都首个TOD未来社区生活中心亮相！](https://mp.weixin.qq.com/s/-llC_DPGildJQzfo8ktJdQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这一站，很科幻！镜头对准这里→](https://mp.weixin.qq.com/s/T5ZvG_sfvra5x_xl0ZZkLg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [僵尸肉？深圳一小学配餐鸡肉过期4年？官方最新回应](https://mp.weixin.qq.com/s/zErXth9knFPsz6fps7PypQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [3000元/人，一次性到账！补贴申请攻略来了！](https://mp.weixin.qq.com/s/xlhctWCugOUcD9zh7KKalg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重要提醒！深圳交警严查！](https://mp.weixin.qq.com/s/F1OIX5cfFddmJJE1lQYaXA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [习近平在“金砖+”领导人对话会上的讲话（全文）](https://mp.weixin.qq.com/s/A8GM_jq12erh8lb894mBUg)
+append_entries: 17
+Finish: 2024-10-24 18:27:11.883939
