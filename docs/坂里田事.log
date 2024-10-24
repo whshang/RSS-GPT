@@ -10186,3 +10186,15 @@ Existing_entries: 248
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-24 04:24:06.137460
+------------------------------------------------------
+Started: 2024-10-24 06:29:15.077073
+Existing_entries: 248
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国企招聘！多岗位上新！深圳人才集团邀您共赴未来！](https://mp.weixin.qq.com/s/P6qCXTXiQ4gVWvhuqBJV5w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这个地方出现多起登革热病例！请大家减少前往！](https://mp.weixin.qq.com/s/6fJgkEUKfnKs4uJUZNw9rA)
+append_entries: 2
+Finish: 2024-10-24 06:29:17.257169
