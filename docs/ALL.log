@@ -22598,3 +22598,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [实用收藏！毕业多年，档案不知道在哪，怎么查？](https://mp.weixin.qq.com/s/qGTCL5pjnJZag5ZwN2QFYg)
 append_entries: 24
 Finish: 2024-10-25 12:39:15.219837
+------------------------------------------------------
+Started: 2024-10-25 14:18:37.974278
+Existing_entries: 1024
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-25 14:18:39.734165
