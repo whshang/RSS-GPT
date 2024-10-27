@@ -4,18 +4,16 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/kJ7PiY9wFf8CPRsbnOwVaQ</link>
 <guid>https://mp.weixin.qq.com/s/kJ7PiY9wFf8CPRsbnOwVaQ</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-10-26T21:40:51.000Z</pubDate>
 </item>
-
 <item>
 <title>一周美文！一起畅游深圳特区报南海潮（9）</title>
 <link>https://mp.weixin.qq.com/s/gTwmY1-miF84pfdh31lU3g</link>
@@ -9006,15 +9004,6 @@ A股，突变！
 情况说明
 ]]></content:encoded>
 <pubDate>2024-10-08T05:20:05.000Z</pubDate>
-</item>
-<item>
-<title>气温升！升！升！未来10天，四川等地降雨频繁</title>
-<link>https://mp.weixin.qq.com/s/ev42Ms5C1uoo54GrH5aDyg</link>
-<guid>https://mp.weixin.qq.com/s/ev42Ms5C1uoo54GrH5aDyg</guid>
-<content:encoded><![CDATA[
-气温升！升！升！未来10天，四川等地降雨频繁
-]]></content:encoded>
-<pubDate>2024-10-08T04:53:10.000Z</pubDate>
 </item>
 </channel>
 </rss>
