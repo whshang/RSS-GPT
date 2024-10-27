@@ -23165,3 +23165,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最高可补贴2万元！首选“越秀团购”，真香🤩](https://mp.weixin.qq.com/s/YiJKgsBuLW6FkrByTx0sEA)
 append_entries: 24
 Finish: 2024-10-27 12:36:17.322966
+------------------------------------------------------
+Started: 2024-10-27 14:18:26.031969
+Existing_entries: 1024
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-27 14:18:27.704942
