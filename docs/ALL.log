@@ -23375,3 +23375,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [国内唯一！“成都造”人形机器人首发](https://mp.weixin.qq.com/s/-KnMeRerkDGXMYP81bWKsA)
 append_entries: 2
 Finish: 2024-10-28 08:26:51.597318
+------------------------------------------------------
+Started: 2024-10-28 10:22:15.794407
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-28 10:22:17.015988
