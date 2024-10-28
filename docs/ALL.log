@@ -23462,3 +23462,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [陈涛当选汕头市市长](https://mp.weixin.qq.com/s/HStvJH0lykDpMmKAQz8mYA)
 append_entries: 25
 Finish: 2024-10-28 12:40:46.209930
+------------------------------------------------------
+Started: 2024-10-28 14:19:19.299475
+Existing_entries: 1025
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-28 14:19:21.043624
