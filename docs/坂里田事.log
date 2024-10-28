@@ -10498,3 +10498,15 @@ Existing_entries: 256
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-28 04:25:40.036775
+------------------------------------------------------
+Started: 2024-10-28 06:29:56.467553
+Existing_entries: 256
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [义诊、理发、蟑螂消杀……坂田2场公益活动即将开始！](https://mp.weixin.qq.com/s/olzxRkB4nO_YYEJVAG5fPQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [8家坂田企业急招69人，最高月薪6W！](https://mp.weixin.qq.com/s/fjx5BSVeHbCIpKMwr-TvSg)
+append_entries: 2
+Finish: 2024-10-28 06:29:58.428650
