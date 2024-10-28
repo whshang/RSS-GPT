@@ -23363,3 +23363,15 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [没开玩笑，他真的可以靠颜值救人！](https://mp.weixin.qq.com/s/CzlwDtlVvLKaTMT_qm6v9w)
 append_entries: 30
 Finish: 2024-10-28 06:29:50.884935
+------------------------------------------------------
+Started: 2024-10-28 08:26:48.464157
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [186天累计接待游客超千万人次！2024年成都世界园艺博览会闭幕](https://mp.weixin.qq.com/s/94h2kP0v_ULs8grGnP2ZyA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国内唯一！“成都造”人形机器人首发](https://mp.weixin.qq.com/s/-KnMeRerkDGXMYP81bWKsA)
+append_entries: 2
+Finish: 2024-10-28 08:26:51.597318
