@@ -23678,3 +23678,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田硬核军演如实战！太燃了！！](https://mp.weixin.qq.com/s/qzoYuar47ED_Tv3IivABlA)
 append_entries: 29
 Finish: 2024-10-29 06:29:05.471924
+------------------------------------------------------
+Started: 2024-10-29 08:26:11.114271
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-29 08:26:12.648655

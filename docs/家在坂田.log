@@ -11129,3 +11129,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [征收，坂田这个地铁站建设征收4万㎡农民房](https://mp.weixin.qq.com/s/UTsr9cFDETE8Z03C1DlBxQ)
 append_entries: 1
 Finish: 2024-10-29 06:29:27.623210
+------------------------------------------------------
+Started: 2024-10-29 08:26:31.907784
+Existing_entries: 37
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+append_entries: 0
+Finish: 2024-10-29 08:26:32.485955
