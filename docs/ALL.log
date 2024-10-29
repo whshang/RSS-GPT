@@ -23888,3 +23888,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [习近平在省部级主要领导干部学习贯彻党的二十届三中全会精神专题研讨班开班式上发表重要讲话](https://mp.weixin.qq.com/s/OHIBH8GrE-ptAOYvEK21FA)
 append_entries: 28
 Finish: 2024-10-29 18:27:55.900137
+------------------------------------------------------
+Started: 2024-10-29 20:21:40.869236
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-29 20:21:42.550545
