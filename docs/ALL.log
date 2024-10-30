@@ -23900,3 +23900,12 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-29 22:18:55.590368
+------------------------------------------------------
+Started: 2024-10-30 01:37:24.089158
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [领命出征！](https://mp.weixin.qq.com/s/XCZDnU6Y1F3M_vyWT1W4HA)
+append_entries: 1
+Finish: 2024-10-30 01:37:26.765765
