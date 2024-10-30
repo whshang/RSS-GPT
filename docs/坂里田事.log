@@ -10654,3 +10654,15 @@ Existing_entries: 260
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-10-30 04:24:35.878465
+------------------------------------------------------
+Started: 2024-10-30 06:34:51.788084
+Existing_entries: 260
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [插画、MBTI测试、轻音乐会……坂田这个画展是非去不可了！！](https://mp.weixin.qq.com/s/-13NHI_20FHgmfM8wm0CXA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今晚！来坂田点亮「深圳式YOUNG」沸点之夜](https://mp.weixin.qq.com/s/Q4r4TXDbKkAfxq6FwMIbvg)
+append_entries: 2
+Finish: 2024-10-30 06:34:54.009731
