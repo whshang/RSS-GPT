@@ -4,15 +4,14 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/DkObgmKaZURYbyxlEPyf7g</link>
 <guid>https://mp.weixin.qq.com/s/DkObgmKaZURYbyxlEPyf7g</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-10-30T21:32:00.000Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://mp.weixin.qq.com/s/8VgSoO9PEauZ79Fob7aDbw</link>
 <guid>https://mp.weixin.qq.com/s/8VgSoO9PEauZ79Fob7aDbw</guid>
 <content:encoded><![CDATA[
-
 开门治堵！成都第一批次63项堵点治理任务清单公布
 ]]></content:encoded>
-
 <pubDate>2024-10-30T16:42:26.000Z</pubDate>
 </item>
-
 <item>
 <title>“趣龙岗，阅未来”！超130场活动来啦！</title>
 <link>https://mp.weixin.qq.com/s/YuwidMCCXPfuOY9yC2Hs7Q</link>
@@ -9008,24 +9004,6 @@ AI来帮手！看深圳各区“一把手”访谈中的高频词
 最新！成华疫苗接种点位。最低815元/月，成华100套房源今起登记~
 ]]></content:encoded>
 <pubDate>2024-10-16T08:40:45.000Z</pubDate>
-</item>
-<item>
-<title>1500元/人！龙岗区儿童补贴开放申请！新消费补贴最高2000元</title>
-<link>https://mp.weixin.qq.com/s/3-r6V4218c2po3adS4CEiw</link>
-<guid>https://mp.weixin.qq.com/s/3-r6V4218c2po3adS4CEiw</guid>
-<content:encoded><![CDATA[
-1500元/人！龙岗区儿童补贴开放申请！新消费补贴最高2000元
-]]></content:encoded>
-<pubDate>2024-10-16T08:38:12.000Z</pubDate>
-</item>
-<item>
-<title>曹立军赴简阳宣讲指导学习宣传贯彻省委十二届六次全会精神，要求进一步强基础扬优势提能级，全力以赴推动高质量发展，争做县域经济排头兵</title>
-<link>https://mp.weixin.qq.com/s/YgObPyT_aRgjoLRrzP-h8Q</link>
-<guid>https://mp.weixin.qq.com/s/YgObPyT_aRgjoLRrzP-h8Q</guid>
-<content:encoded><![CDATA[
-曹立军赴简阳宣讲指导学习宣传贯彻省委十二届六次全会精神，要求进一步强基础扬优势提能级，全力以赴推动高质量发展，争做县域经济排头兵
-]]></content:encoded>
-<pubDate>2024-10-16T08:35:27.000Z</pubDate>
 </item>
 </channel>
 </rss>

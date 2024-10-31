@@ -24236,3 +24236,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [开门治堵！成都第一批次63项堵点治理任务清单公布](https://mp.weixin.qq.com/s/8VgSoO9PEauZ79Fob7aDbw)
 append_entries: 2
 Finish: 2024-10-31 01:38:30.064967
+------------------------------------------------------
+Started: 2024-10-31 02:53:47.494575
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-10-31 02:53:49.231963
