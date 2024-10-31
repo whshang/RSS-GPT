@@ -11270,3 +11270,12 @@ Existing_entries: 38
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-10-31 04:25:19.067014
+------------------------------------------------------
+Started: 2024-10-31 06:28:49.965658
+Existing_entries: 38
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [太突然！深圳已决定！单身的留意了！即日起上线！72小时缘分匹配来了](https://mp.weixin.qq.com/s/5cmBa-LScOdd35J2ilLiSQ)
+append_entries: 1
+Finish: 2024-10-31 06:28:51.323146
