@@ -24224,3 +24224,15 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-10-30 22:18:46.461877
+------------------------------------------------------
+Started: 2024-10-31 01:38:26.626628
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/DkObgmKaZURYbyxlEPyf7g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [开门治堵！成都第一批次63项堵点治理任务清单公布](https://mp.weixin.qq.com/s/8VgSoO9PEauZ79Fob7aDbw)
+append_entries: 2
+Finish: 2024-10-31 01:38:30.064967
