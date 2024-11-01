@@ -24575,3 +24575,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/NsHLHw7Na9rFtzyvfy1kmA)
 append_entries: 1
 Finish: 2024-11-01 01:43:36.005211
+------------------------------------------------------
+Started: 2024-11-01 03:00:35.214490
+Existing_entries: 1001
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-01 03:00:37.124307

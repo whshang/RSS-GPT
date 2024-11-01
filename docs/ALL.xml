@@ -4,18 +4,16 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/NsHLHw7Na9rFtzyvfy1kmA</link>
 <guid>https://mp.weixin.qq.com/s/NsHLHw7Na9rFtzyvfy1kmA</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-10-31T21:52:05.000Z</pubDate>
 </item>
-
 <item>
 <title>地标亮灯！无人机表演！以城市之名，向企业家致敬！</title>
 <link>https://mp.weixin.qq.com/s/JkLEgL090NHB2WOa1zg_Qw</link>
@@ -9006,15 +9004,6 @@ PONG香！原来不止桂花，还有……
 网红深圳机场滋事被行拘！网友一片叫好！
 ]]></content:encoded>
 <pubDate>2024-10-17T15:12:26.000Z</pubDate>
-</item>
-<item>
-<title>四川省2024年企业工资指导线公布！</title>
-<link>https://mp.weixin.qq.com/s/09R1Kogbg1dxzuMTUXj7iw</link>
-<guid>https://mp.weixin.qq.com/s/09R1Kogbg1dxzuMTUXj7iw</guid>
-<content:encoded><![CDATA[
-四川省2024年企业工资指导线公布！
-]]></content:encoded>
-<pubDate>2024-10-17T14:24:12.000Z</pubDate>
 </item>
 </channel>
 </rss>
