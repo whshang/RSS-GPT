@@ -24854,3 +24854,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [收官之战！明天，凤凰山见证成都荣耀→](https://mp.weixin.qq.com/s/SetV6JAI8bwNSFim_QOIGw)
 append_entries: 20
 Finish: 2024-11-01 18:27:28.063342
+------------------------------------------------------
+Started: 2024-11-01 20:21:07.620463
+Existing_entries: 1020
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-01 20:21:08.404785
