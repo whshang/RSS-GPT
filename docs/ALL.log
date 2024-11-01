@@ -24776,3 +24776,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最新！2024成都企业100强发布](https://mp.weixin.qq.com/s/1kFj-4SVb5pxnl8jlaZiaQ)
 append_entries: 28
 Finish: 2024-11-01 12:38:05.492158
+------------------------------------------------------
+Started: 2024-11-01 14:18:33.946158
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-01 14:18:35.673397
