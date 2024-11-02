@@ -25052,3 +25052,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [成都东→成都东，竟然要3个半小时！](https://mp.weixin.qq.com/s/IrbYt2Y9HWPbgPeHXWWu3g)
 append_entries: 19
 Finish: 2024-11-02 12:36:29.039506
+------------------------------------------------------
+Started: 2024-11-02 14:16:48.835100
+Existing_entries: 1019
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-02 14:16:50.569210
