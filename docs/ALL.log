@@ -24977,3 +24977,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [周末出去玩搭乘地铁，这些细节请注意](https://mp.weixin.qq.com/s/BSyCDs65L4FUDSkWnZcH6w)
 append_entries: 28
 Finish: 2024-11-02 06:27:36.038021
+------------------------------------------------------
+Started: 2024-11-02 08:23:54.163342
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-02 08:23:55.120508
