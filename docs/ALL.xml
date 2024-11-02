@@ -4,18 +4,16 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/vbcE0FZU9X7Omime3aBE0g</link>
 <guid>https://mp.weixin.qq.com/s/vbcE0FZU9X7Omime3aBE0g</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-11-01T21:44:04.000Z</pubDate>
 </item>
-
 <item>
 <title>知名女主持人官宣结婚！</title>
 <link>https://mp.weixin.qq.com/s/l4J7BqYV14nivv1gu2mbnw</link>
@@ -9006,15 +9004,6 @@ PONG香！原来不止桂花，还有……
 海丝文旅周 | 从早玩到晚，光塔街刷屏了！
 ]]></content:encoded>
 <pubDate>2024-10-19T08:59:17.000Z</pubDate>
-</item>
-<item>
-<title>突发！一超市火灾已致7死2失联！</title>
-<link>https://mp.weixin.qq.com/s/U0pApC1Q5WxMKTeh0iF7DQ</link>
-<guid>https://mp.weixin.qq.com/s/U0pApC1Q5WxMKTeh0iF7DQ</guid>
-<content:encoded><![CDATA[
-突发！一超市火灾已致7死2失联！
-]]></content:encoded>
-<pubDate>2024-10-19T08:05:07.000Z</pubDate>
 </item>
 </channel>
 </rss>
