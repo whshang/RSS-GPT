@@ -4,18 +4,16 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/TiPaWaR8np2NAQmmMrWtoQ</link>
 <guid>https://mp.weixin.qq.com/s/TiPaWaR8np2NAQmmMrWtoQ</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-11-02T21:46:16.000Z</pubDate>
 </item>
-
 <item>
 <title>祝贺！亿吨级大发现</title>
 <link>https://mp.weixin.qq.com/s/YrmmEirHxKB6wi31KvpmkQ</link>
@@ -9006,15 +9004,6 @@ GDP同比增长5.3%，四川前三季度经济数据出炉
 警方通报贩婴事件：苏某某、冯某某等被抓获！
 ]]></content:encoded>
 <pubDate>2024-10-20T13:59:59.000Z</pubDate>
-</item>
-<item>
-<title>全力以赴拼经济！区（市）县、部门、国企这周在忙啥？</title>
-<link>https://mp.weixin.qq.com/s/nHCGqDCdgXCIOUkOonVtzw</link>
-<guid>https://mp.weixin.qq.com/s/nHCGqDCdgXCIOUkOonVtzw</guid>
-<content:encoded><![CDATA[
-全力以赴拼经济！区（市）县、部门、国企这周在忙啥？
-]]></content:encoded>
-<pubDate>2024-10-20T13:57:38.000Z</pubDate>
 </item>
 </channel>
 </rss>
