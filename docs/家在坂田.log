@@ -11492,3 +11492,12 @@ Existing_entries: 40
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-11-03 04:23:29.613002
+------------------------------------------------------
+Started: 2024-11-03 06:29:16.549838
+Existing_entries: 40
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田三片区列入龙岗区“有品质”提升近期重点行动片区](https://mp.weixin.qq.com/s/R_mc3gCKWgVDyFe-lmWUew)
+append_entries: 1
+Finish: 2024-11-03 06:29:17.819377

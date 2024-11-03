@@ -10966,3 +10966,15 @@ Existing_entries: 268
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-03 04:23:15.792764
+------------------------------------------------------
+Started: 2024-11-03 06:29:01.206820
+Existing_entries: 268
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田招10人，不限专业！龙岗区公开招聘社区专职工作者！](https://mp.weixin.qq.com/s/HzlSLHoHadTk4k00xV2f7A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [涉“小电驴”！即日起，强制执行](https://mp.weixin.qq.com/s/vghWvarKDSSni2AIEKXr2g)
+append_entries: 2
+Finish: 2024-11-03 06:29:03.459564
