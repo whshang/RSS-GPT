@@ -25406,3 +25406,18 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-03 22:19:23.473010
+------------------------------------------------------
+Started: 2024-11-04 01:38:51.376430
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/9wYT__g2iWe88IMXfSk9JA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [好久不见，想你们啦！](https://mp.weixin.qq.com/s/4P2xLqNp2fXbSwv5-D5nnA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [成功着陆！](https://mp.weixin.qq.com/s/jdPsYmzidK0vOt13BIaqPA)
+append_entries: 3
+Finish: 2024-11-04 01:38:55.235279
