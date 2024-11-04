@@ -11044,3 +11044,15 @@ Existing_entries: 270
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-04 04:24:25.908658
+------------------------------------------------------
+Started: 2024-11-04 06:30:24.000590
+Existing_entries: 270
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [8家坂田企业急招52人，月薪最高8万！](https://mp.weixin.qq.com/s/tn9Qp5-2Tc8-HeP1xfc4VA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [假的！假的！假的！别传了](https://mp.weixin.qq.com/s/uy5J5f1WJwDbjrZpn3eciA)
+append_entries: 2
+Finish: 2024-11-04 06:30:26.241438
