@@ -25619,3 +25619,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [1024名！四川选调优秀大学毕业生！报名时间→](https://mp.weixin.qq.com/s/J5SeI_CcMGnnAYlwn8R9NQ)
 append_entries: 25
 Finish: 2024-11-04 12:40:32.617672
+------------------------------------------------------
+Started: 2024-11-04 14:19:24.693065
+Existing_entries: 1025
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-04 14:19:26.479104
