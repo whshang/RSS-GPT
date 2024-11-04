@@ -11576,3 +11576,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [坂田这个超大医院—港中大（深圳）医院开始招聘医师，运营时间公布](https://mp.weixin.qq.com/s/OXogRIZ6iGrs3dcIxo6hJQ)
 append_entries: 1
 Finish: 2024-11-04 06:30:40.440770
+------------------------------------------------------
+Started: 2024-11-04 08:26:27.645102
+Existing_entries: 42
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+append_entries: 0
+Finish: 2024-11-04 08:26:28.326062
