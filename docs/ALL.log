@@ -25940,3 +25940,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [门票降价、开园时间调整！四川多个景区最新提醒→](https://mp.weixin.qq.com/s/mMkm9RQ65qUdURJ616gZow)
 append_entries: 26
 Finish: 2024-11-05 12:37:13.660575
+------------------------------------------------------
+Started: 2024-11-05 14:18:38.374341
+Existing_entries: 1026
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-05 14:18:40.275855
