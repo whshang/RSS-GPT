@@ -4,18 +4,16 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/klBr4Ub_d2HJ1uQDq60oJw</link>
 <guid>https://mp.weixin.qq.com/s/klBr4Ub_d2HJ1uQDq60oJw</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-11-04T21:38:58.000Z</pubDate>
 </item>
-
 <item>
 <title>在成都，用一种巴适的方式仰望科学星空</title>
 <link>https://mp.weixin.qq.com/s/R04gfYe45YbkbHbjW1eIqg</link>
@@ -9006,15 +9004,6 @@ GDP同比增长5.2%，成都前三季度经济数据出炉
 详讯丨习近平同俄罗斯总统普京举行会晤
 ]]></content:encoded>
 <pubDate>2024-10-22T16:54:42.000Z</pubDate>
-</item>
-<item>
-<title>习近平同俄罗斯总统普京举行会晤</title>
-<link>https://mp.weixin.qq.com/s/OHKdrkequzl2Ypd_krkQTg</link>
-<guid>https://mp.weixin.qq.com/s/OHKdrkequzl2Ypd_krkQTg</guid>
-<content:encoded><![CDATA[
-习近平同俄罗斯总统普京举行会晤
-]]></content:encoded>
-<pubDate>2024-10-22T15:30:25.000Z</pubDate>
 </item>
 </channel>
 </rss>
