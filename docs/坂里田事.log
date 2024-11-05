@@ -11122,3 +11122,15 @@ Existing_entries: 272
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-05 04:23:51.515291
+------------------------------------------------------
+Started: 2024-11-05 06:28:03.534412
+Existing_entries: 272
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [餐馆注意了！即日起，坂田免费安装……](https://mp.weixin.qq.com/s/FxKGV0O2N15aogFRQhRT2w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [金价“狂飙”，他们却疯狂出手！多地警方紧急提醒](https://mp.weixin.qq.com/s/tX0H4t1R044JpHF3xv-_hA)
+append_entries: 2
+Finish: 2024-11-05 06:28:05.710889
