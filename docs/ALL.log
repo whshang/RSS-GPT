@@ -25844,3 +25844,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [金价“狂飙”，他们却疯狂出手！多地警方紧急提醒](https://mp.weixin.qq.com/s/tX0H4t1R044JpHF3xv-_hA)
 append_entries: 29
 Finish: 2024-11-05 06:27:57.880753
+------------------------------------------------------
+Started: 2024-11-05 08:25:13.324180
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-05 08:25:15.169885
