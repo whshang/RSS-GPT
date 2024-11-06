@@ -26165,3 +26165,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [早安，成都！新闻来了](https://mp.weixin.qq.com/s/VEZnqTOKfNm9wejHWY6c_A)
 append_entries: 30
 Finish: 2024-11-06 06:28:17.389148
+------------------------------------------------------
+Started: 2024-11-06 08:26:10.237275
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-06 08:26:11.145468
