@@ -11200,3 +11200,15 @@ Existing_entries: 274
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-06 04:25:01.216142
+------------------------------------------------------
+Started: 2024-11-06 06:28:22.974815
+Existing_entries: 274
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田上演空中大对决！](https://mp.weixin.qq.com/s/BIPOwJ696KMSC_ieoUq4mQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [吃吃吃！！正到爆！赶紧码住坂田这家宝藏餐厅→](https://mp.weixin.qq.com/s/pC1sI1F7e4SglSQFdycY3w)
+append_entries: 2
+Finish: 2024-11-06 06:28:25.100069
