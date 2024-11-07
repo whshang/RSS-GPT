@@ -11278,3 +11278,15 @@ Existing_entries: 276
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-07 04:23:49.156705
+------------------------------------------------------
+Started: 2024-11-07 06:27:38.296741
+Existing_entries: 276
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [不戴头盔！发生事故后，男子痛苦捂头……](https://mp.weixin.qq.com/s/7bSbgLD7jYooIP_ShwrqGQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田突发火情，监控视频拍下引发事故的“罪魁祸首”……](https://mp.weixin.qq.com/s/1iWtPWKXZjMbfcEFUCHOug)
+append_entries: 2
+Finish: 2024-11-07 06:27:40.479188
