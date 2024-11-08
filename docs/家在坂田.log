@@ -11861,3 +11861,12 @@ Existing_entries: 43
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-11-08 04:23:40.394993
+------------------------------------------------------
+Started: 2024-11-08 06:28:12.594573
+Existing_entries: 43
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这个新建学校中标候选方案出炉](https://mp.weixin.qq.com/s/CiOotxSUtGFl2jODL1oARA)
+append_entries: 1
+Finish: 2024-11-08 06:28:13.915720
