@@ -11434,3 +11434,15 @@ Existing_entries: 280
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-09 04:23:33.909414
+------------------------------------------------------
+Started: 2024-11-09 06:25:50.839408
+Existing_entries: 280
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [嗨购“双十一”！快来看，在坂田买买买有这些优惠活动](https://mp.weixin.qq.com/s/t_K18nqJLDbxq42_JzWgeA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [丰厚奖金奖品！坂田超燃“村BA”开启报名🤙](https://mp.weixin.qq.com/s/a7x1dgjAVTcFUU43uDiEFg)
+append_entries: 2
+Finish: 2024-11-09 06:25:53.016802
