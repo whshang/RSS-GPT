@@ -27482,3 +27482,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [价格大降！有人直呼：捡到宝了！](https://mp.weixin.qq.com/s/qoKFyIOckXp5IIa9f6p-JQ)
 append_entries: 21
 Finish: 2024-11-10 12:34:57.021317
+------------------------------------------------------
+Started: 2024-11-10 14:16:03.778741
+Existing_entries: 1021
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-10 14:16:06.584449
