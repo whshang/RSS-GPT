@@ -11512,3 +11512,15 @@ Existing_entries: 282
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-10 04:22:10.070066
+------------------------------------------------------
+Started: 2024-11-10 06:25:55.945346
+Existing_entries: 282
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [打官司时，微信聊天记录也是证据！但要这样做→](https://mp.weixin.qq.com/s/MmUjWeCIvKhQNI0QXALEbA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坐着城际去看海！深圳这条城际线有新进展→](https://mp.weixin.qq.com/s/9WPUAQgAnTz7aQ_8_GRrSg)
+append_entries: 2
+Finish: 2024-11-10 06:25:58.056498
