@@ -27290,3 +27290,15 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-09 22:16:49.781032
+------------------------------------------------------
+Started: 2024-11-10 01:39:20.505990
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/nPYF841c_FkbK1pp9SDLfw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [未来可期！郑钦文获得WTA年终总决赛亚军](https://mp.weixin.qq.com/s/BXiHGFGnkDVZbPqocLaBpg)
+append_entries: 2
+Finish: 2024-11-10 01:39:23.857809
