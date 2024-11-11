@@ -27893,3 +27893,9 @@ Existing_entries: 1026
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-11 20:20:29.408348
+------------------------------------------------------
+Started: 2024-11-11 22:18:10.161447
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-11 22:18:12.201145
