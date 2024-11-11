@@ -27887,3 +27887,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [年仅52岁！零点，他倒在工作岗位上](https://mp.weixin.qq.com/s/n89v1-e4BuHj3R3bfI8XgQ)
 append_entries: 26
 Finish: 2024-11-11 18:26:38.461006
+------------------------------------------------------
+Started: 2024-11-11 20:20:28.427431
+Existing_entries: 1026
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-11 20:20:29.408348
