@@ -27683,3 +27683,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [深铁懿府最后房源开盘售罄，成交价突破15万/㎡](https://mp.weixin.qq.com/s/beCa6fKOB43svEr7WxibGw)
 append_entries: 30
 Finish: 2024-11-11 06:28:32.677258
+------------------------------------------------------
+Started: 2024-11-11 08:25:47.382739
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-11 08:25:49.087336
