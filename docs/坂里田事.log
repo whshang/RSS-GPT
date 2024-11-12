@@ -11668,3 +11668,15 @@ Existing_entries: 286
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-12 04:23:18.243358
+------------------------------------------------------
+Started: 2024-11-12 06:27:41.431090
+Existing_entries: 286
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这些地方登革热高发！请市民尽量避免前往！](https://mp.weixin.qq.com/s/zc2f9QY8B3dD4QEXLcDg7g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [开业30天超260万人次！深圳人的“新加坡商场”火了](https://mp.weixin.qq.com/s/bAibMIOMeHfU4VdEs3nz6Q)
+append_entries: 2
+Finish: 2024-11-12 06:27:43.349530
