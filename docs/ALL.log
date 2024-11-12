@@ -28214,3 +28214,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [串联三区！深圳首条环形地铁线路进展+1](https://mp.weixin.qq.com/s/sTjfYbmOmD01D3A82YxU1w)
 append_entries: 27
 Finish: 2024-11-12 18:26:46.476176
+------------------------------------------------------
+Started: 2024-11-12 20:21:03.783182
+Existing_entries: 1027
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-12 20:21:05.598235
