@@ -11746,3 +11746,15 @@ Existing_entries: 288
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-13 04:23:33.348849
+------------------------------------------------------
+Started: 2024-11-13 06:28:16.408892
+Existing_entries: 288
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [假期增2天！2025年放假安排来了！](https://mp.weixin.qq.com/s/M118qe1c_iaQ7E7a2JfvFQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [送福利 | 深圳首展！国家地理这个影像展就藏在坂田这里……](https://mp.weixin.qq.com/s/6kyO7qr-49k0SxWxasjzOA)
+append_entries: 2
+Finish: 2024-11-13 06:28:18.553669
