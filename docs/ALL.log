@@ -28340,3 +28340,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [20万㎡“超级花海”开放！坐上地铁去赏花吧~](https://mp.weixin.qq.com/s/4zNgflJZpA6iAj5Iew6DWw)
 append_entries: 29
 Finish: 2024-11-13 06:28:10.801819
+------------------------------------------------------
+Started: 2024-11-13 08:25:55.837603
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-13 08:25:56.862689
