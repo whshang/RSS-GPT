@@ -28544,3 +28544,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [楼市税收优惠新政来了！](https://mp.weixin.qq.com/s/HL08_M0i72FFElsSaqboZQ)
 append_entries: 26
 Finish: 2024-11-13 18:27:21.876015
+------------------------------------------------------
+Started: 2024-11-13 20:20:56.425918
+Existing_entries: 1026
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-13 20:20:58.295841
