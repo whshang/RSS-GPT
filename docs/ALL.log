@@ -28778,3 +28778,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [中国海警发声！](https://mp.weixin.qq.com/s/vbFgamy7GSjzN9lVomojFQ)
 append_entries: 30
 Finish: 2024-11-14 12:40:26.571595
+------------------------------------------------------
+Started: 2024-11-14 14:18:44.164555
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-14 14:18:45.904924
