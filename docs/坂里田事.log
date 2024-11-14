@@ -11824,3 +11824,15 @@ Existing_entries: 290
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-14 04:24:48.090359
+------------------------------------------------------
+Started: 2024-11-14 06:28:55.660332
+Existing_entries: 290
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [重磅！坂田这一新学校建设方案设计出炉！入围效果图抢先看！](https://mp.weixin.qq.com/s/CsGT9ip_cGCS_y7DIlau3g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [幸福直达！坂田首台既有住宅加装电梯竣工交付！](https://mp.weixin.qq.com/s/t9wUUSFSp5i321bwGymu8A)
+append_entries: 2
+Finish: 2024-11-14 06:28:57.910506
