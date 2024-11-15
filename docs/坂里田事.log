@@ -11902,3 +11902,15 @@ Existing_entries: 292
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-15 04:25:11.097787
+------------------------------------------------------
+Started: 2024-11-15 06:32:28.758230
+Existing_entries: 292
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [史上最暖11月！请查收来自坂田的暖心信](https://mp.weixin.qq.com/s/D14yd8eVQW197jGdv4bJGg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [地铁22号线坂田段，最新消息来了！](https://mp.weixin.qq.com/s/SOyXrjIfmA-O-Zn6QBJLNQ)
+append_entries: 2
+Finish: 2024-11-15 06:32:30.989101
