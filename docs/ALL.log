@@ -28898,3 +28898,12 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-14 22:19:14.504697
+------------------------------------------------------
+Started: 2024-11-15 01:41:32.551039
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国家主席习近平当地时间14日抵达秘鲁首都利马](https://mp.weixin.qq.com/s/Uz9snfpjTAg4XWU5symSlQ)
+append_entries: 1
+Finish: 2024-11-15 01:41:35.227966
