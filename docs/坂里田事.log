@@ -11980,3 +11980,15 @@ Existing_entries: 294
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-16 04:26:15.234522
+------------------------------------------------------
+Started: 2024-11-16 06:27:24.037573
+Existing_entries: 294
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田一电动车品牌门店被查处！执法检查人员直呼：实在是太大胆了！](https://mp.weixin.qq.com/s/XYFLqnno8CwpHE0N7mEF1g)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [“西核杯”乒乓球团体赛报名开启！来，“乒”个痛快！](https://mp.weixin.qq.com/s/2qRZLgAhL61gYCqLcoRF1g)
+append_entries: 2
+Finish: 2024-11-16 06:27:26.237915
