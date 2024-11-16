@@ -29507,3 +29507,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [@龙岗家长，这份补贴今起申报→](https://mp.weixin.qq.com/s/_6mgC4uoLyPAWyYXQYb5-Q)
 append_entries: 22
 Finish: 2024-11-16 18:25:45.577697
+------------------------------------------------------
+Started: 2024-11-16 20:20:10.622631
+Existing_entries: 1022
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-16 20:20:11.572575
