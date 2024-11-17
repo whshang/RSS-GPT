@@ -12058,3 +12058,15 @@ Existing_entries: 296
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-17 04:23:50.455904
+------------------------------------------------------
+Started: 2024-11-17 06:28:13.620056
+Existing_entries: 296
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [公司要求调岗，我可以拒绝吗？](https://mp.weixin.qq.com/s/QsJTK5HbHX5Q1BKEtYBG-A)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田发生2起交通事故，2人受伤！电动车智能道闸已开始试点→](https://mp.weixin.qq.com/s/uGhbWLr3FodkWVUb8wXFXg)
+append_entries: 2
+Finish: 2024-11-17 06:28:16.226334
