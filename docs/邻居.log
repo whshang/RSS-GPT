@@ -13303,3 +13303,11 @@ Fetch error: 400
 Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
 append_entries: 0
 error when rendering xml, skip docs/邻居
+------------------------------------------------------
+Started: 2024-11-17 20:20:28.624639
+Existing_entries: 37
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+Fetch error: 400
+Fetch failed from https://wewerss.whshang.me/feeds/MP_WXS_3015011711.atom
+append_entries: 0
+error when rendering xml, skip docs/邻居
