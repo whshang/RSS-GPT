@@ -29705,3 +29705,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [成都22条公交线路拟调整！快看经过你家吗？](https://mp.weixin.qq.com/s/M_1w4veig54SXjPTq5ZXeA)
 append_entries: 22
 Finish: 2024-11-17 12:37:12.145696
+------------------------------------------------------
+Started: 2024-11-17 14:17:10.813944
+Existing_entries: 1022
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-17 14:17:12.708274
