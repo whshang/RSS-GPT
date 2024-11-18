@@ -30029,3 +30029,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [下一个“中国”，还是中国](https://mp.weixin.qq.com/s/pE1ZQzZWKZI0xlc_Job2LA)
 append_entries: 30
 Finish: 2024-11-18 12:42:26.110705
+------------------------------------------------------
+Started: 2024-11-18 14:20:02.734550
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-18 14:20:05.519060
