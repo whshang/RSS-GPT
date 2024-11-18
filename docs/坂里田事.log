@@ -12148,3 +12148,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [主播、会计、经理、烘焙……坂田7家企业急招75人！](https://mp.weixin.qq.com/s/GzBASsgE1BWaIcT3pPLlsw)
 append_entries: 2
 Finish: 2024-11-18 06:30:45.051951
+------------------------------------------------------
+Started: 2024-11-18 08:28:11.416415
+Existing_entries: 300
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+Finish: 2024-11-18 08:28:12.250783

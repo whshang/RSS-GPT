@@ -29921,3 +29921,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [不懂就问，列车上这两个装置有什么区别？](https://mp.weixin.qq.com/s/cFjmohQVFFPdWI0-C1v-AA)
 append_entries: 28
 Finish: 2024-11-18 06:30:37.382656
+------------------------------------------------------
+Started: 2024-11-18 08:28:02.620759
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-18 08:28:05.847650
