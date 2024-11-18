@@ -12136,3 +12136,15 @@ Existing_entries: 298
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-18 04:25:33.509762
+------------------------------------------------------
+Started: 2024-11-18 06:30:42.943624
+Existing_entries: 298
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [地铁27号线坂田段征拆全速推进！](https://mp.weixin.qq.com/s/onLlG6pdwDiWzYVH81WbFQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [主播、会计、经理、烘焙……坂田7家企业急招75人！](https://mp.weixin.qq.com/s/GzBASsgE1BWaIcT3pPLlsw)
+append_entries: 2
+Finish: 2024-11-18 06:30:45.051951
