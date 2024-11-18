@@ -4,15 +4,14 @@
 <title>WeWe-RSS All</title>
 <link>/feeds/all.atom</link>
 
+
 <item>
 <title>来了！新闻早班车</title>
 <link>https://mp.weixin.qq.com/s/2YNmElCDH-Lw0pRD6dxdKA</link>
 <guid>https://mp.weixin.qq.com/s/2YNmElCDH-Lw0pRD6dxdKA</guid>
 <content:encoded><![CDATA[
-
 来了！新闻早班车
 ]]></content:encoded>
-
 <pubDate>2024-11-17T21:49:13.000Z</pubDate>
 </item>
 <item>
@@ -20,13 +19,10 @@
 <link>https://mp.weixin.qq.com/s/bPtQcciG3eucg1C2nitQdw</link>
 <guid>https://mp.weixin.qq.com/s/bPtQcciG3eucg1C2nitQdw</guid>
 <content:encoded><![CDATA[
-
 习近平抵达里约热内卢，出席二十国集团领导人第十九次峰会并对巴西进行国事访问
 ]]></content:encoded>
-
 <pubDate>2024-11-17T20:37:12.000Z</pubDate>
 </item>
-
 <item>
 <title>广东8名“躺平式”干部被调整</title>
 <link>https://mp.weixin.qq.com/s/EHJPrDpvOOT03cLaO6GVCw</link>
@@ -9008,24 +9004,6 @@ A股，又创纪录！
 又一所双一流高校将落地深圳！
 ]]></content:encoded>
 <pubDate>2024-11-05T08:53:43.000Z</pubDate>
-</item>
-<item>
-<title>习近平在湖北考察调研</title>
-<link>https://mp.weixin.qq.com/s/PUFq91GFUO9UU88qm-azvg</link>
-<guid>https://mp.weixin.qq.com/s/PUFq91GFUO9UU88qm-azvg</guid>
-<content:encoded><![CDATA[
-习近平在湖北考察调研
-]]></content:encoded>
-<pubDate>2024-11-05T08:38:02.000Z</pubDate>
-</item>
-<item>
-<title>“乒乓有伴”社群10月新手会员交流赛、周日飞盘活动等你参加~</title>
-<link>https://mp.weixin.qq.com/s/jQdfzSuDjwH19X4MpfX09A</link>
-<guid>https://mp.weixin.qq.com/s/jQdfzSuDjwH19X4MpfX09A</guid>
-<content:encoded><![CDATA[
-“乒乓有伴”社群10月新手会员交流赛、周日飞盘活动等你参加~
-]]></content:encoded>
-<pubDate>2024-11-05T08:22:57.000Z</pubDate>
 </item>
 </channel>
 </rss>
