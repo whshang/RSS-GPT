@@ -12214,3 +12214,15 @@ Existing_entries: 300
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-19 04:24:49.610658
+------------------------------------------------------
+Started: 2024-11-19 06:29:43.165641
+Existing_entries: 300
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [全面招商！坂田文体中心开业时间定了！](https://mp.weixin.qq.com/s/DvyXd-NlepOt4_U7F4Dmiw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [刷屏！华为官宣，超200万人出手！](https://mp.weixin.qq.com/s/X47Woqn4cUx1XGRUbd9Ppw)
+append_entries: 2
+Finish: 2024-11-19 06:29:45.418232
