@@ -12292,3 +12292,15 @@ Existing_entries: 302
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-20 04:25:21.235514
+------------------------------------------------------
+Started: 2024-11-20 06:29:54.371914
+Existing_entries: 302
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [最大优惠7.8折！坂田又新添8家“爱心助老餐厅”→](https://mp.weixin.qq.com/s/RwGolGu4OhP7LyiDiMH-Ng)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [电动自行车停车收费？深圳将规划独立非机动车道！](https://mp.weixin.qq.com/s/TczFHR2_BH94R2iAsoL7mw)
+append_entries: 2
+Finish: 2024-11-20 06:29:56.697282
