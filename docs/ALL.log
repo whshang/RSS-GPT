@@ -30463,3 +30463,15 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-19 22:19:08.637188
+------------------------------------------------------
+Started: 2024-11-20 01:40:26.798868
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/uSaCioex9RajHmSMBblQRA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [国家主席习近平抵达巴西首都巴西利亚](https://mp.weixin.qq.com/s/eq6jpWbdGhH2FUmibIXsbA)
+append_entries: 2
+Finish: 2024-11-20 01:40:30.736260
