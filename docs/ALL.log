@@ -30475,3 +30475,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [国家主席习近平抵达巴西首都巴西利亚](https://mp.weixin.qq.com/s/eq6jpWbdGhH2FUmibIXsbA)
 append_entries: 2
 Finish: 2024-11-20 01:40:30.736260
+------------------------------------------------------
+Started: 2024-11-20 02:57:02.406795
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-20 02:57:03.971936
