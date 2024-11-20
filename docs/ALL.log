@@ -30571,3 +30571,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最大优惠7.8折！坂田又新添8家“爱心助老餐厅”→](https://mp.weixin.qq.com/s/RwGolGu4OhP7LyiDiMH-Ng)
 append_entries: 26
 Finish: 2024-11-20 06:29:48.688807
+------------------------------------------------------
+Started: 2024-11-20 08:27:27.674906
+Existing_entries: 1026
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-20 08:27:28.928756
