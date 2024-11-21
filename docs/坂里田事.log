@@ -12370,3 +12370,18 @@ Existing_entries: 304
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-21 04:25:51.018896
+------------------------------------------------------
+Started: 2024-11-21 06:29:48.100656
+Existing_entries: 304
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [地铁25号线坂田段有新进展！](https://mp.weixin.qq.com/s/UtRmL3fbo0S_GDk52UCv9Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [干货问答 | 企业最关心的那些事儿（第一期）](https://mp.weixin.qq.com/s/g0S3flZWmCd5ydaZ_YVR6w)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [🥳100个免费名额，速来报名！](https://mp.weixin.qq.com/s/Zlhp5jI_yUYj6qGH9R1pVw)
+append_entries: 3
+Finish: 2024-11-21 06:29:51.182712
