@@ -30775,3 +30775,12 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-20 22:19:35.244720
+------------------------------------------------------
+Started: 2024-11-21 01:40:13.168816
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [骑兵护卫！巴西总统举行隆重仪式欢迎习近平主席](https://mp.weixin.qq.com/s/zT9-FLtx4lhDxgnDTbxErQ)
+append_entries: 1
+Finish: 2024-11-21 01:40:17.173925
