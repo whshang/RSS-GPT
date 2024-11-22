@@ -12463,3 +12463,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [窗户“爆改”成阳台涉违建！坂田执法部门介入](https://mp.weixin.qq.com/s/Jm_fovTLdCYsT_UuByWQ8w)
 append_entries: 2
 Finish: 2024-11-22 06:29:38.634948
+------------------------------------------------------
+Started: 2024-11-22 08:26:53.070456
+Existing_entries: 309
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+Finish: 2024-11-22 08:26:54.081543
