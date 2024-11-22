@@ -31099,3 +31099,12 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-21 22:19:17.820800
+------------------------------------------------------
+Started: 2024-11-22 01:41:18.733928
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [来了！新闻早班车](https://mp.weixin.qq.com/s/SyzKm23Ial2M-Bu6Tr8eRA)
+append_entries: 1
+Finish: 2024-11-22 01:41:22.227337
