@@ -31390,3 +31390,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [最新！深圳地铁17号线通车时间定了→](https://mp.weixin.qq.com/s/9FwU2GFTutUHn1-moHR4dA)
 append_entries: 18
 Finish: 2024-11-22 18:28:09.271571
+------------------------------------------------------
+Started: 2024-11-22 20:23:16.574342
+Existing_entries: 1018
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-22 20:23:17.872133
