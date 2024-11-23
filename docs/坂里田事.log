@@ -12529,3 +12529,15 @@ Existing_entries: 309
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-23 04:24:08.215977
+------------------------------------------------------
+Started: 2024-11-23 06:27:29.855751
+Existing_entries: 309
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [点赞！坂田4人荣获全市“百优”称号！](https://mp.weixin.qq.com/s/P_KWWW8nqXtKYn6vrTurTg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [看坂田这一地方十年来的改变！](https://mp.weixin.qq.com/s/qhli1gIKRuyS8W577NNPWw)
+append_entries: 2
+Finish: 2024-11-23 06:27:31.926243
