@@ -31591,3 +31591,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [36班1800座学位！龙岗将添一所公办高中！位于......](https://mp.weixin.qq.com/s/bBNcJdui34ds3wmU8ofU5Q)
 append_entries: 23
 Finish: 2024-11-23 12:38:13.401165
+------------------------------------------------------
+Started: 2024-11-23 14:18:23.155516
+Existing_entries: 1023
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-23 14:18:25.629715
