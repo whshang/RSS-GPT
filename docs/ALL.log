@@ -32059,3 +32059,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [开盘即售罄！深铁阅云境2小时销售额达10.77亿元](https://mp.weixin.qq.com/s/l4AYvD6WuWbjj98x7OMpqA)
 append_entries: 28
 Finish: 2024-11-25 06:30:44.443470
+------------------------------------------------------
+Started: 2024-11-25 08:28:17.789983
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-25 08:28:20.847222
