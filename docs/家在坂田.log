@@ -13094,3 +13094,12 @@ Existing_entries: 46
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-11-25 04:25:56.742374
+------------------------------------------------------
+Started: 2024-11-25 06:31:05.611006
+Existing_entries: 46
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田又一烂尾楼复工](https://mp.weixin.qq.com/s/IoXKad8wxZgbsCLFR7hGVA)
+append_entries: 1
+Finish: 2024-11-25 06:31:06.899384
