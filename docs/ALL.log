@@ -32497,3 +32497,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [注意！成都又一波消费券来了](https://mp.weixin.qq.com/s/0iQbSxkz32Ak2QNNX1A88A)
 append_entries: 30
 Finish: 2024-11-26 12:42:07.903953
+------------------------------------------------------
+Started: 2024-11-26 14:19:56.465287
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-26 14:19:59.011403
