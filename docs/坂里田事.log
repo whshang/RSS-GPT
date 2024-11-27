@@ -12841,3 +12841,15 @@ Existing_entries: 317
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-27 04:25:53.122866
+------------------------------------------------------
+Started: 2024-11-27 06:30:36.938231
+Existing_entries: 317
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [凌晨家中突发火灾致5人死亡！现场细节令人怒不可遏→](https://mp.weixin.qq.com/s/7JMoT8yZtlXmiS6H_XbQAA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [「星耀食刻」全新开业！！连续7天~低至8折！抽华为Mate70！](https://mp.weixin.qq.com/s/UH68HMKj6x12MsDgOoZICg)
+append_entries: 2
+Finish: 2024-11-27 06:30:38.991591
