@@ -12919,3 +12919,15 @@ Existing_entries: 319
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-28 04:26:16.842741
+------------------------------------------------------
+Started: 2024-11-28 06:30:41.188714
+Existing_entries: 319
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [这笔钱别忘了领！](https://mp.weixin.qq.com/s/ttgaeEIyk8tD7mbhN1EoDw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [挖到坂田店铺新宝藏！好饮、好吃、撸猫、超出片！](https://mp.weixin.qq.com/s/LGrmf1owidKMvSPaE3zUag)
+append_entries: 2
+Finish: 2024-11-28 06:30:43.346251
