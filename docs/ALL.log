@@ -33496,3 +33496,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [英雄，请安息！](https://mp.weixin.qq.com/s/rUZJ_Ki18IjGLC_vJOlipg)
 append_entries: 28
 Finish: 2024-11-29 12:41:24.738462
+------------------------------------------------------
+Started: 2024-11-29 14:19:19.447411
+Existing_entries: 1028
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-29 14:19:21.368486
