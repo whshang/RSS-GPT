@@ -12997,3 +12997,15 @@ Existing_entries: 321
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-29 04:26:26.893245
+------------------------------------------------------
+Started: 2024-11-29 06:30:34.116419
+Existing_entries: 321
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [2000杯老红糖珍珠奶茶免费派发，快来坂田天虹领取！](https://mp.weixin.qq.com/s/4gNCEtrRHu4Jz_P6mDiyhw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [注意！坂田这些地方今晚起停水！](https://mp.weixin.qq.com/s/07rikBQJ7UD1e531DTl30g)
+append_entries: 2
+Finish: 2024-11-29 06:30:36.331452
