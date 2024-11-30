@@ -33796,3 +33796,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [官宣！深圳等9地，试点外资医院！](https://mp.weixin.qq.com/s/QywJDxYPgwq5mM-W5-YfEg)
 append_entries: 22
 Finish: 2024-11-30 12:38:12.127853
+------------------------------------------------------
+Started: 2024-11-30 14:17:18.167887
+Existing_entries: 1022
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-11-30 14:17:20.735152
