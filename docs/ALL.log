@@ -33610,3 +33610,12 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-11-29 22:19:25.071097
+------------------------------------------------------
+Started: 2024-11-30 01:40:14.550362
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [冲上热搜！危害等同于熬夜！你我都有经历过→](https://mp.weixin.qq.com/s/UqUsEm0FDIvKzyIWRWJi0A)
+append_entries: 1
+Finish: 2024-11-30 01:40:17.805460
