@@ -13075,3 +13075,15 @@ Existing_entries: 323
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-11-30 04:24:47.719703
+------------------------------------------------------
+Started: 2024-11-30 06:27:44.722868
+Existing_entries: 323
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [登上《人民日报》！坂田这个项目厉害了](https://mp.weixin.qq.com/s/mV1rzZpZnzvVZpxhoNMQWA)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [从深圳到桂林，坂田4名高中生做了这些事……](https://mp.weixin.qq.com/s/HFTGXLUbsiF8MlRjXFZ7Kg)
+append_entries: 2
+Finish: 2024-11-30 06:27:46.989079
