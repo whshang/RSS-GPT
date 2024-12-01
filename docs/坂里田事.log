@@ -13165,3 +13165,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [请转发！今起，征兵报名！](https://mp.weixin.qq.com/s/MJLiQUaq4iThNdtQ19opZQ)
 append_entries: 2
 Finish: 2024-12-01 06:29:34.010705
+------------------------------------------------------
+Started: 2024-12-01 08:25:12.113355
+Existing_entries: 327
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+Finish: 2024-12-01 08:25:12.920565
