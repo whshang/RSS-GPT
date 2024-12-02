@@ -13601,3 +13601,12 @@ Existing_entries: 47
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
 append_entries: 0
 Finish: 2024-12-02 04:26:29.244448
+------------------------------------------------------
+Started: 2024-12-02 06:31:52.089073
+Existing_entries: 47
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3944340294.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [坂田这条地铁开通时间确定](https://mp.weixin.qq.com/s/fOIQHc-1jHSaTrftBaQQvQ)
+append_entries: 1
+Finish: 2024-12-02 06:31:53.421781
