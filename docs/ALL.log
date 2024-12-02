@@ -34279,3 +34279,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [深铁冬令营开始报名啦！速戳→](https://mp.weixin.qq.com/s/e0RWYwYuuITCNsQ1aeP8Yg)
 append_entries: 30
 Finish: 2024-12-02 06:31:31.077253
+------------------------------------------------------
+Started: 2024-12-02 08:28:59.207468
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-12-02 08:29:02.245807

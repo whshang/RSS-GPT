@@ -13243,3 +13243,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [深圳上万套房，免费住！坂田也有](https://mp.weixin.qq.com/s/eVQwDMDsCH6mZkvZedVTLg)
 append_entries: 2
 Finish: 2024-12-02 06:31:38.755396
+------------------------------------------------------
+Started: 2024-12-02 08:29:07.723831
+Existing_entries: 329
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+append_entries: 0
+Finish: 2024-12-02 08:29:08.654014
