@@ -34384,3 +34384,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [几内亚发生球迷冲突！医生称约100人死亡](https://mp.weixin.qq.com/s/Rd-JFPWtvkgDWY3l7eBWvQ)
 append_entries: 29
 Finish: 2024-12-02 12:44:00.157332
+------------------------------------------------------
+Started: 2024-12-02 14:20:17.262764
+Existing_entries: 1029
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-12-02 14:20:19.829660
