@@ -34615,3 +34615,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [惊险！黑熊凌晨突闯家中撕咬妻子，58岁丈夫持斧击杀](https://mp.weixin.qq.com/s/9osB-2F_wgfD_1FuYhE6Rg)
 append_entries: 30
 Finish: 2024-12-03 06:31:41.266650
+------------------------------------------------------
+Started: 2024-12-03 08:27:35.283406
+Existing_entries: 1030
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-12-03 08:27:37.983807
