@@ -13309,3 +13309,15 @@ Existing_entries: 329
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-12-03 04:26:28.150291
+------------------------------------------------------
+Started: 2024-12-03 06:31:47.065127
+Existing_entries: 329
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [深圳电单车乱象横生，市民建议：分区治理！](https://mp.weixin.qq.com/s/-taJ1qkjxxUdbuRFGQLTiw)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [【转发有礼】坂田天虹十周年庆福利多多！躺倒鸭深圳首展！](https://mp.weixin.qq.com/s/zglddEJAANqXndpprXvZeg)
+append_entries: 2
+Finish: 2024-12-03 06:31:49.268043
