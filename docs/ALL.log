@@ -34705,3 +34705,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [加拿大宣布：将其列为“恐怖组织”→](https://mp.weixin.qq.com/s/obOXqeHBiIS-ckVb6kYIJA)
 append_entries: 24
 Finish: 2024-12-03 12:42:15.102598
+------------------------------------------------------
+Started: 2024-12-03 14:17:58.064789
+Existing_entries: 1024
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-12-03 14:18:01.154661
