@@ -34831,3 +34831,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [韩国国会通过决议：解除戒严](https://mp.weixin.qq.com/s/BjZdQgwR0cfs0MBgsBq_eA)
 append_entries: 2
 Finish: 2024-12-04 01:45:22.110982
+------------------------------------------------------
+Started: 2024-12-04 03:03:34.528871
+Existing_entries: 1002
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-12-04 03:03:36.718265
