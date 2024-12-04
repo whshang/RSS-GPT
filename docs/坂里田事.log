@@ -13387,3 +13387,18 @@ Existing_entries: 331
 Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
 append_entries: 0
 Finish: 2024-12-04 04:25:39.561272
+------------------------------------------------------
+Started: 2024-12-04 06:31:03.690354
+Existing_entries: 331
+Fetching from https://wewerss.whshang.me/feeds/MP_WXS_3893727055.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [干货问答 | 企业最关心的那些事儿（第二期）](https://mp.weixin.qq.com/s/MCye1mutDOfAvzyoLi25jQ)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [今起7天，坂田南湾布吉吉华，水压将下降，可能出现短暂停水！](https://mp.weixin.qq.com/s/-FCTE6NYhDySI5VDVrvpgg)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [事关你的收入！12月31日前必须完成](https://mp.weixin.qq.com/s/lbW6owzayUKyQ6FRFYLZ0g)
+append_entries: 3
+Finish: 2024-12-04 06:31:06.595851
