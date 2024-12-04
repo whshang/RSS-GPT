@@ -35032,3 +35032,9 @@ error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
 Append: [城市机会清单发布！成都加快布局“天空之城”](https://mp.weixin.qq.com/s/wpbQgH4IeF3HSyF-SXwiRw)
 append_entries: 26
 Finish: 2024-12-04 12:42:52.436698
+------------------------------------------------------
+Started: 2024-12-04 14:20:13.958106
+Existing_entries: 1026
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+append_entries: 0
+Finish: 2024-12-04 14:20:16.266369
