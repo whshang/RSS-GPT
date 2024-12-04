@@ -34819,3 +34819,15 @@ Existing_entries: 1000
 Fetching from https://wewerss.whshang.me/feeds/all.atom
 append_entries: 0
 Finish: 2024-12-03 22:20:06.810402
+------------------------------------------------------
+Started: 2024-12-04 01:45:17.656706
+Existing_entries: 1000
+Fetching from https://wewerss.whshang.me/feeds/all.atom
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [第十七届“五个一工程”获奖名单公布！原创舞剧《咏春》等3部深圳作品获奖](https://mp.weixin.qq.com/s/QXPVmAZtLuHI_SG8sPP67Q)
+Summarization failed, append the original article
+error: Error code: 404 - {'code': 'HOSTNAME_NOT_FOUND', 'message': 'Not Found'}
+Append: [韩国国会通过决议：解除戒严](https://mp.weixin.qq.com/s/BjZdQgwR0cfs0MBgsBq_eA)
+append_entries: 2
+Finish: 2024-12-04 01:45:22.110982
